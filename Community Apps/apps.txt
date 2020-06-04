@@ -1,8 +1,5 @@
-; Translation Credit.  Will appear in CA's credits
 translationCredit=Bergware (Dutch)
 Cancel=Annuleren
-
-; My PSAs / banners
 Happy New Year=Gelukkig nieuwjaar
 Happy Holidays from Andrew, Tracey, and family=Prettige vakantie van Andrew, Tracey en familie
 Please Enjoy Responsibly=Gelieve verantwoord genieten
@@ -10,8 +7,6 @@ Popup Blocked CA requires popups to be enabled under certain circumstances You m
 Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=Dockerdienst niet ingeschakeld - Enkel plugins zijn beschikbaar voor installatie of beheer
 Community Applications works best when cookies are enabled in your browser Certain features may not be available=Community Applications werkt het beste wanneer cookies zijn toegestaan in de browser  Sommige kenmerken zijn mogelijk niet beschikbaar
 Backup Server Active Some icons may not appear, and plugin installations may be affected=Backup server actief Sommige ikonen verschijnen mogelijk niet, en plugin installaties zijn mogelijk verhinderd
-
-; Sorting Options
 Sorting options=Sorteeropties
 Sorting options unavailable=Sorteeropties niet beschikbaar
 Sort By Name Ascending=Sorteer op naam oplopend
@@ -19,7 +14,6 @@ Sort By Name Descending=Sorteer op naam aflopend
 Sort By Downloads=Sorteer op downloaden
 Sort By Trend=Sorteer op trend
 Sort By Date Added=Sorteer op toegevoegde datum
-; Initial disclaimer translations
 Disclaimer=Disclaimer
 All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Alle hier vermelde applicaties zijn toevoegingen op Unraid van derde partijen. Noch de auteurs van Community Applications, noch Limetech geven enige garantie met betrekking tot de geschiktheid van de hier vermelde applicaties
 Every attempt is made to ensure that only safe and compatible applications are present=Alles is eraan gedaan om ervoor te zorgen dat veilige en compatibele applicaties aanwezig zijn
@@ -27,68 +21,39 @@ Application Policy=Applicatiebeleid
 I Understand=Ik begrijp het
 Installations of apps disabled You must accept the warning to be able to install applications=Installatie van apps uitgeschakeld  De waarschuwing om het installeren van applicaties toe te staan, moet worden geaccepteerd
 Click here=Hier drukken
-
-; Plugin Disclaimer
 Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=Community Applications bevatten zowel docker containers als plugins  Plugins zijn ontworpen voor besturingssysteem toevoegingen, en draaien met volledige rechten op het systeem en zijn duidelijk gemarkeerd binnen CA
 Plugin Note=Plugin notitie
-
-; Multi Install
 Install Plugin Applications=Plugin applicaties installeren
-
-; Searches
 Search=Zoeken
 Please enter search term=Voer een zoekterm in
 Click Here To Get More Results From DockerHub=Druk hier voor meer resultaten van DockerHub
 No Matching Applications Found On Docker Hub=Geen passende applicaties gevonden op DockerHub
 No Matching Applications Found=Geen passende applicaties gevonden
-
-; Install Plugin title of openbox
 Install Plugin=Plugin installeren
-
-; Remove App from previously installed
 Delete Template=Sjabloon verwijderen
 Yes, delete it=Ja, verwijderen
-
-; Uninstall  popup
 Uninstall Application=Applicatie de-installeren
 Yes uninstall it=Ja, de-installeren
-
-; Remove Private Application
 Remove Private Application=Private applicatie verwijderen
 Yes, remove it=Ja, verwijderen
-
-; App Pinning
 Click to pin this application=Druk om deze applicatie vast te zetten
 Click to unpin this application=Druk om deze applicatie los te maken
-
-; Branch installations
 Choose A Branch To Install=Kies een tak om te installeren
-
-; Multiple application installs
-; no apps selected
 Install Selected Applications=Geselecteerde applicaties installeren
-
 Yes, install it=Ja, installeren
-
-; Multi-install popup
 Yes, install them=Ja, installeren
 Cookies not enabled Plugins must be separately installed from docker applications=Cookies niet ingeschakeld  Plugins moeten apart van docker applicaties worden geïnstalleerd
 Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker applicaties worden geïnstalleerd gebruikmakend van het meest recent opgeslagen sjabloon zonder verdere gebruikersinvoer
 Updating Support Links=Ondersteuningsverwijzingen bijwerken
 Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=Klaar met installeren Als de KLAAR toets niet verschijnt, dan dient op de rode X rechtsboven te worden gedrukt
-
-; error messages
 No data was returned It is probable that another browser session has rebooted your server Reloading this browser tab will probably fix this error=Geen data ontvangen Het is mogelijk dat een andere browsersessie de server heeft herstart Opnieuw laden van deze browserpagina zal het probleem vermoedelijk oplossen
-An error occurred.  Could not find any %s Apps=Een fout opgetreden. Kon geen enkele %s Apps finden
+An error occurred Could not find any %s Apps=
 Download of appfeed failed=Downloaden van de appfeed is mislukt
-; the %s here refers to a function being called
 Something really went wrong here=Iets verschrikkelijk fout hier
 Post the ENTIRE contents of this message in the Community Applications Support Thread=Post de GEHELE inhoud van dit bericht in de hulplijn voor Community Applications
 Unknown error happened Please post a screenshot in the support thread of the Statistics screen=Onbekende fout opgetreden  Gelieve een screenshot te plaatsen in de hulplijn van het Statistiekenscherm
 Something really wrong happened Reloading the Apps tab will probably fix the problem=Iets ging verschrikkelijk fout  Herladen van de Apps pagina zal waarschijnlijk het probleem oplossen
 This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=Deze plugin heeft een dubbele naam met een andere plugin %s  Dit heeft invloed op beide plugins bij tegelijkertijd installeren
-
-; CA Sections Keep the length reasonable
 MENU=MENU
 Installed Apps=Geïnstalleerde Apps
 Previous Apps=Vorige Apps
@@ -106,8 +71,6 @@ Credits=Applaus
 Support=Ondersteuning
 VERSION=VERSIE
 Change Log=Wijzigingen
-
-; Credits
 Development=Ontwikkeling
 Additional Contributions=Extra bijdragen
 GUI Layout Design=GUI layout ontwerp
@@ -117,8 +80,6 @@ Moderation=Moderatie
 Additional Libraries=Extra bibliotheken
 Copyright=Auteursrechten
 Translation=Vertaling
-
-; Statistics page
 Deprecated Applications are able to still be installed if you have previously had them installed New installations of these applications are blocked unless you enable Display Deprecated Applications within CAs General Settings=Verouderde applicaties kunnen nog steeds worden geïnstalleerd als deze voorheen waren geïnstalleerd Nieuwe installaties van deze applicaties worden geblokkeerd tenzij de instelling Verouderde Applicaties tonen wordt gebruikt
 The following applications are blacklisted CA will never allow you to install or reinstall these applications=De volgende applicaties staan op een zwarte lijst CA zal deze niet toestaan deze applicaties te installeren
 While highly not recommended to do, incompatible applications can be installed by enabling Display Incompatible Applications within CAs General Settings=Het wordt niet aanbevolen, maar incompatibele applicaties kunnen worden geïnstalleerd door Incompatibele Applicaties tonen aan te zetten
@@ -138,14 +99,10 @@ Number Of Deprecated Applications=Aantal verouderde applicaties
 Number Of Moderation Entries=Aantal moderatie ingangen
 Primary Server=Primaire server
 Backup Server=Back-up server
-
-; Statistics Popup Titles
 Repository List=Repository overzicht
 All Invalid Templates Found=Alle ongeldige sjablonen
 Template Errors=Sjabloon fouten
 All Moderation Entries=Alle moderatie ingangen
-
-; Statistics Popup
 No invalid templates found=Geen geldige sjablonen gevonden
 These templates are invalid and the application they are referring to is unknown=Deze sjablonen zijn ongeldig en de applicatie waar naar ze verwijzen is onbekend
 No templates were automatically fixed=Geen sjablonen werden automatisch hersteld
@@ -158,12 +115,7 @@ If any of these entries are incorrect then contact the moderators of CA to discu
 Global Repository Comments=Algemene repository commentaar
 Applied to all applications=(Toegepast op alle applicaties)
 Individual Application Moderation=Individuele moderatie van applicaties
-
-; Misc
 Community Applications Changelog=Community Applications wijzigingen
-
-; Categories try not to be excessively long This is displayed on the left of CA screen
-
 Backup=Back-up
 Cloud=Cloud
 Downloaders=Downloaden
@@ -193,8 +145,6 @@ Themes=Themas
 Utilities=Utiliteiten
 Private Apps=Privaat Apps
 Uncategorized=Ongesorteerd
-
-; Categories displayed within a popup or on the card
 GameServers=Spelletjes
 HomeAutomation=Domotica
 MediaApp=MediaApp
@@ -224,8 +174,6 @@ ToolsUtilities=Gereedschap:Utiliteiten
 Other=Anders
 OtherUncategorized=Anders:Ongesorteerd
 and %s more=en %s meer
-
-; App Popup Related
 Donate To Author=Donatie aan de auteur
 Donate To Maintainer=Donatie aan de onderhouder
 Author=Auteur
@@ -243,9 +191,7 @@ Total Downloads=Totale downloads
 Licence=Licentie
 30 Day Trend=30 dagen trend
 Ranked #%s=Geplaatst #%s
-; as in Trending up or down arrow
 Trending %s=Populair %s
-; as in As of some date
 As of %s=(Vanaf %s)
 This application template has been blacklisted=Deze applicatie / sjabloon staat op de zwarte lijst
 This application template has been deprecated=Deze applicatie / sjabloon is verouderd
@@ -260,33 +206,24 @@ Install Using The Templates Default Tag=Installeer gebruikmakend van de sjabloon
 Moderator Comments=Moderator Commentaar:
 Note not all authors keep up to date on change logs=Letop niet alle auteurs houden een wijzigingslog bij
 Note not all maintainers keep up to date on change logs=Letop niet alle onderhouders houden een wijzigingslog bij
-;the following if using a space you MUST use nbsp  but keep it down to one word if at all possible
 Donate=Doneren
 Currently Installed Version=Huidige geïnstalleerde versie:
 Install The Update=Update installeren
-; as in you have the latest version already installed
 Latest Version=Laatste versie
 Multi Language Support=Ondersteuning voor meerdere talen
-; as in more than 100000
 More than %s=Meer dan %s
-
-; Graphs
 Trend Per Month=Trend per maand
 Downloads Per Month=Downloads per maand
-Total Downloads=Totaal downloads
-
-; Multi install script
+Total Downloads=Totale downloads
 Installing docker applications %s=Installeren van docker applicaties
 Starting %s=Start %s
 %s failed to start You should install it by itself to fix the errors=%s niet gestart Je moet deze zelf installeren om fouten te herstellen
 Setting installed applications to autostart=Instelling geïnstalleerde applicaties voor autostart
 Docker Application Installation finished=Docker applicatie installatie klaar
-
-; Application Cards
 Private dockerHub Conversion=Privaat (dockerHub conversie)
 Go to the project page=Ga naar de projectpagina
 Go to the support thread=Ga naar de hulplijn
-Uninstall Application=Applicatie verwijderen
+Uninstall Application=Applicatie de-installeren
 Remove Private Application=Private applicatie verwijderen
 Remove Application From List=Applicatie verwijderen van lijst
 Check off to select multiple reinstalls=Vink aan om meerdere herinstallaties te selecteren
@@ -298,19 +235,14 @@ Click to install=Druk om te installeren
 Install plugin=Plugin installeren
 Click to go to the WebUI=Druk hier om naar de WebUI te gaan
 This application has been marked as being Beta=Deze applicatie is gemarkeerd als Beta
-This application template has been deprecated=Dit applicatiesjabloon is verouderd
+This application template has been deprecated=Deze applicatie / sjabloon is verouderd
 This application is not compatible with your version of Unraid=Deze applicatie is niet compatibel met deze versie van Unraid
-This application template has been blacklisted=Dit applicatiesjabloon staat op de zwarte lijst
+This application template has been blacklisted=Deze applicatie / sjabloon staat op de zwarte lijst
 Search for more applications from %s=Zoeken naar meer applicaties van %s
 Click for more information=Druk voor meer informatie
-
-; Dockerhub searches
 Search For Containers From %s=Zoeken naar containers van %s
 Search for similar containers=Zoeken naar gelijksoortige containers
-
-; Page Navigation
 Displaying %s - %s of %s=Weergeven %1$s - %2$s (van %3$s)
-
 Updating Content=Inhoud bijwerken
 Language=Taal
 Switch to this language=Schakel over naar deze taal
@@ -319,11 +251,9 @@ Install Language Pack=Taalpakket Installeren
 Remove Language Pack=Taalpakket verwijderen
 Update Language Pack=Taalpakket bijwerken
 Installed Version=Geïnstalleerde versie
-
-; Help Text
 This chooses how to sort the results=Dit geeft aan hoe de resultaten te sorteren
 These icons respectively will Install or Edit an application=Deze ikonen zullen achtereenvolgens een applicatie **Installeren** of **Bewerken**
-Clicking these icons will take you to an applications GUI or settings=Klik op deze ikonen om naar de GUI van de applicatie of de instellingen te gaan
+Clicking these icons will take you to an application's GUI or settings=
 This will update an application=Dit werkt een applicatie bij
 This will take you to the appropriate support thread for an application=Dit brengt u bij de passende hulplijn voor een applicatie
 This will immediately switch to the language=Dit schakelt direct over naar de taal

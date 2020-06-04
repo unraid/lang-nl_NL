@@ -361,8 +361,6 @@ YesTime Machine=Ja/Time Machine
 yesterday=gisteren
 You must reboot for changes to take effect=Herstarten is nodig om veranderingen actief te maken
 Your browser does not support HTML5 file uploads=De browser ondersteunt geen HTML5 bestandsuploads
-
-; Dynamix.system.button plugin
 Array busy=Array is bezet
 Buttons=Knoppen
 Parity operation or mover is running=Pariteitsbewerking of mover is actief

@@ -43,8 +43,6 @@ WebUI=Venster
 Yes, delete it=Ja, verwijderen
 Yes, update it=Ja, bijwerken
 Yes=Ja
-
-; footer messages
 Array Starting=Schijfopslag starten
 Array Stopping=Schijfopslag stoppen
 Mounting disks=Schijven koppelen
