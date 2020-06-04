@@ -323,7 +323,7 @@ Installed Version=Geïnstalleerde versie
 ; Help Text
 This chooses how to sort the results=Dit geeft aan hoe de resultaten te sorteren
 These icons respectively will Install or Edit an application=Deze ikonen zullen achtereenvolgens een applicatie **Installeren** of **Bewerken**
-Clicking these icons will take you to an applications GUI or settings=Klik op deze ikonen om naar de GUI van de applicatie of de instellingen te gaan
+Clicking these icons will take you to an application's GUI or settings=Klik op deze ikonen om naar de GUI van de applicatie of de instellingen te gaan
 This will update an application=Dit werkt een applicatie bij
 This will take you to the appropriate support thread for an application=Dit brengt u bij de passende hulplijn voor een applicatie
 This will immediately switch to the language=Dit schakelt direct over naar de taal
