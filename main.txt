@@ -212,7 +212,7 @@ The array will be immediately available, but unprotected since parity has not be
 The array will be immediately available, but unprotected until Parity-Sync completes=Het opslagsysteem is onmidellijk beschikbaar, maar **onbeschermt** totdat pariteitsynchronisatie is voltooid
 The replacement disk must be as big or bigger than the original=De vervangende schijf moet even groot of groter zijn dan de originele schijf
 This is typically done when a new disk is added to the array to get it ready for files to be written to it=Dit wordt meestal gedaan wanneer een nieuwe schijf wordt toegevoegd aan de array om deze klaar te maken voor het schrijven van bestanden
-This unRAID Server OS release has been withdrawn and may no longer be used. Please %s update your server=Deze versie van Unraid is ingetrokken en kan niet langer worden gebruikt. A.u.b. %s update uw server
+This unRAID Server OS release has been withdrawn and may no longer be used. Please %s update your server=Deze versie van Unraid is ingetrokken en kan niet langer worden gebruikt. A.u.b. %s update jouw server
 This will ERASE ALL device content=Dit WIST ALLE inhoud van het apparaat
 This will ERASE content of ALL devices in the pool=Dit WIST de inhoud van ALLE apparaten in de pool
 This will reboot the system=Dit zal het systeem herstarten
@@ -223,7 +223,7 @@ Threshold=Drempel
 Title=Titel
 To confirm your action type %s=Om de actie te bevestigen type: %s
 Toggle readswrites display=Schakel lezen/schrijven weergave
-Too many attached devices Please consider upgrading your=Teveel aangesloten appraten. Overweeg het upgraden van uw
+Too many attached devices Please consider upgrading your=Teveel aangesloten appraten. Overweeg het upgraden van jouw
 Too many wrong andor missing disks=Teveel verkeerde en/of ontbrekende schijven
 Total size=Totale grootte
 Unassign ALL devices to delete this pool=Verwijder **ALLE** apparaten om deze pool te verwijderen
