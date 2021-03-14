@@ -128,3 +128,8 @@ Was this container created using this plugin=Is deze container gemaakt m.b.v. de
 Web=Web
 WebUI=Venster
 Writable=Schrijfbaar
+
+; New entries - 2021-03-14
+Drivers=
+Reset sorting=
+Start Container After Install=
