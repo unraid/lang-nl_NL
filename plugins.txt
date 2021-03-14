@@ -27,3 +27,6 @@ Uninstall=Deïnstalleer
 Update All Plugins=Update alle plugins
 Upgrade=Upgraden
 View Release Notes=Bekijk uitgifte notities
+
+; New entries - 2021-03-14
+No plugins installed=
