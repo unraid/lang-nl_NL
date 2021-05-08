@@ -55,3 +55,10 @@ Unmounting disks=Schijven ontkoppelen
 Autostart disabled=Autostart uitgeschakeld
 Missing encryption key=Ontbrekende encryptie-sleutel
 Opening encrypted volumes=Versleutelde volumes openen
+
+; New entries (5) - 2021-05-08
+Container Path=
+Container Port=
+Container Variable=
+Container Label=
+Container Device=

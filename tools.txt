@@ -299,16 +299,14 @@ Een USB opstartmedium kan ook op de *zwarte lijst* staan als het geen serienumme
 Voor meer informatie, [Contacteer Support](https://lime-technology.com/contact).
 :end
 
-; New entries - 2021-03-14
+; New entries (10) - 2021-03-14
+Array slots=Array-slots
 Delete all notifications=Alle meldingen verwijderen
 Downloading=Downloading
 Install Language=Taal installeren
-please configure=configureer alstublieft
-Uploaded=Geupload
 PCI Devices No IOMMU Groups Available=PCI apparaten (Geen IOMMU groepen beschikbaar)
-
-; New entries - 2021-03-14
-Array slots=Array-slots
+please configure=configureer alstublieft
 Pool slots=Groep-slots
+Uploaded=Geupload
 VFIO-PCI Log=VFIO-PCI-logboek
 View VFIO-PCI Log=VFIO-PCI-logboek tonen
