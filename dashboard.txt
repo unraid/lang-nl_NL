@@ -106,5 +106,5 @@ Virtual Machines=Virtuele Machines
 Temp=Temp
 
 ; New entries (2) - 2021-05-08
-%s ago=
-Only PNG images are allowed=Only PNG images are allowed!
+%s ago=%s geleden
+Only PNG images are allowed=Enkel PNG images zijn toegestaan!
