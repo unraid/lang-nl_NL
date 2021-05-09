@@ -32,5 +32,5 @@ View Release Notes=Bekijk uitgifte notities
 No plugins installed=Geen plug-ins geïnstalleerd
 
 ; New entries (2) - 2021-05-09
-Checking connectivty=
-No response, aborting=
+Checking connectivty=Connectiviteit controleren
+No response, aborting=Geen antwoord, afbreken
