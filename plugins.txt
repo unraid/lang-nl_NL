@@ -30,3 +30,7 @@ View Release Notes=Bekijk uitgifte notities
 
 ; New entries (1) - 2021-03-14
 No plugins installed=Geen plug-ins geïnstalleerd
+
+; New entries (2) - 2021-05-09
+Checking connectivty=
+No response, aborting=
