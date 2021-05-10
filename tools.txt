@@ -311,7 +311,6 @@ Uploaded=Geupload
 VFIO-PCI Log=VFIO-PCI-logboek
 View VFIO-PCI Log=VFIO-PCI-logboek tonen
 
-; New entries (3) - 2021-05-10
-Beta=Beta
-Next=Nieuw
+; New entries (2) - 2021-05-10
+Next=Beta
 Stable=Stabiel
