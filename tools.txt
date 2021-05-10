@@ -310,3 +310,8 @@ Pool slots=Groep-slots
 Uploaded=Geupload
 VFIO-PCI Log=VFIO-PCI-logboek
 View VFIO-PCI Log=VFIO-PCI-logboek tonen
+
+; New entries (3) - 2021-05-10
+Beta=Beta
+Next=Nieuw
+Stable=Stabiel
