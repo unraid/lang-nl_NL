@@ -39,6 +39,6 @@ No response, aborting=Geen antwoord, afgebroken
 checking=controleren
 
 ; New entries (3) - 2021-05-10
-Delete Plugin=
-Remove Plugin=
-Update Plugin=
+Delete Plugin=Plug-in opruimen
+Remove Plugin=Plug-in verwijderen
+Update Plugin=Plug-in updaten
