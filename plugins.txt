@@ -36,4 +36,4 @@ Checking connectivty=Connectiviteit controleren
 No response, aborting=Geen antwoord, afbreken
 
 ; New entries (1) - 2021-05-10
-checking=
+checking=controleren
