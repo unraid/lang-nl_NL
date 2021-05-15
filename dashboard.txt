@@ -108,3 +108,6 @@ Temp=Temp
 ; New entries (2) - 2021-05-08
 %s ago=%s geleden
 Only PNG images are allowed=Enkel PNG images zijn toegestaan!
+
+; New entries (1) - 2021-05-15
+SMART health-check failed=
