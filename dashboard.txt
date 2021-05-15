@@ -110,4 +110,4 @@ Temp=Temp
 Only PNG images are allowed=Enkel PNG images zijn toegestaan!
 
 ; New entries (1) - 2021-05-15
-SMART health-check failed=
+SMART health-check failed=SMART gezondheidscheck mislukt
