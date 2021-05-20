@@ -316,4 +316,4 @@ Next=Beta
 Stable=Stabiel
 
 ; New entries (1) - 2021-05-20
-Beta=
+Beta=Beta
