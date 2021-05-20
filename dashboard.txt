@@ -8,7 +8,7 @@ All Apps=Alle Apps
 All VMs=Alle VMs
 Battery charge=Acculading
 BIOS dated=BIOS datum
-Click to toggle details=Verwissel details
+Click to toggle details=Klik om details in of uit te schakelen
 Completed=Gedaan
 Counters info=Tellers info
 Current operation %s on %s=Huidige bewerking %s op **%s**
@@ -113,5 +113,5 @@ Only PNG images are allowed=Enkel PNG images zijn toegestaan!
 SMART health-check failed=SMART gezondheidscheck mislukt
 
 ; New entries (2) - 2021-05-20
-Click to toggle CPU chart=
-Network traffic=
+Click to toggle CPU chart=Klik om de CPU-grafiek in of uit te schakelen
+Network traffic=Netwerkverkeer
