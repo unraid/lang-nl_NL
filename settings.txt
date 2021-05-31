@@ -699,3 +699,7 @@ Port %s is out of range minimum 1 maximum 65535=Poort %s is buitenbereik (minimu
 Port already in use=Poort is al in gebruik
 Port out of range=Poort buitenbereik
 Remote syslog port=Remote syslog poort
+
+; New entries (2) - 2021-05-31
+Set password=
+User root=User 'root'
