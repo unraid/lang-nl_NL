@@ -701,9 +701,9 @@ Port out of range=Poort buitenbereik
 Remote syslog port=Remote syslog poort
 
 ; New entries (2) - 2021-05-31
-Set password=
-User root=User 'root'
+Set password=Wachtwoord zetten
+User root=Gebruiker 'root'
 
 ; New entries (2) - 2021-06-12
-Manage password=
-Restore default image=
+Manage password=Wachtwoord managen
+Restore default image=Herstel standaard image
