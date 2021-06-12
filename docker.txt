@@ -136,4 +136,4 @@ Start Container After Install=Start container na installatie
 Total size=Totale grootte
 
 ; New entries (1) - 2021-06-12
-Crypto Currency=
+Crypto Currency=Crypto valuta
