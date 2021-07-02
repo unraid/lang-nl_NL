@@ -707,3 +707,11 @@ User root=Gebruiker 'root'
 ; New entries (2) - 2021-06-12
 Manage password=Wachtwoord managen
 Restore default image=Herstel standaard image
+
+; New entries (6) - 2021-07-02
+CA-signed certificate file=
+Certificate subject=
+DNS Propagation is PENDING=
+DNS Rebinding Protection is ENABLED=
+Manage=
+Not present=
