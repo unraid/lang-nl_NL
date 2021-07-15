@@ -695,9 +695,9 @@ Local syslog port=Lokale syslog poort
 or=of
 Port %s is already in use by other services=Poort %s is al in gebruik door andere diensten
 Port %s is duplicated=Poort %s is dubbel
-Port %s is out of range minimum 1 maximum 65535=Poort %s is buitenbereik (minimum 1 maximum 65535)
+Port %s is out of range minimum 1 maximum 65535=Poort %s is buiten bereik (minimum 1 maximum 65535)
 Port already in use=Poort is al in gebruik
-Port out of range=Poort buitenbereik
+Port out of range=Poort is buiten bereik
 Remote syslog port=Remote syslog poort
 
 ; New entries (2) - 2021-05-31
@@ -705,16 +705,16 @@ Set password=Wachtwoord zetten
 User root=Gebruiker 'root'
 
 ; New entries (2) - 2021-06-12
-Manage password=Wachtwoord managen
+Manage password=Wachtwoord beheren
 Restore default image=Herstel standaard image
 
 ; New entries (6) - 2021-07-02
-CA-signed certificate file=
-Certificate subject=
-DNS Propagation is PENDING=
-DNS Rebinding Protection is ENABLED=
-Manage=
-Not present=
+CA-signed certificate file=CA-ondertekend certificaat bestand
+Certificate subject=Certificaat onderwerp
+DNS Propagation is PENDING=DNS-propagatie is in behandeling
+DNS Rebinding Protection is ENABLED=DNS Rebinding-protectie is INGESCHAKELD
+Manage=Beheren
+Not present=Niet aanwezig
 
 ; New entries (1) - 2021-07-11
-Unraidnet account status=Unraid.net account status
+Unraidnet account status=Unraid.net accountstatus
