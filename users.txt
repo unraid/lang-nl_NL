@@ -21,7 +21,7 @@ User name=Gebruikersnaam
 ; New entries (8) - 2021-05-31
 Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
 Invalid Key=Ongeldige sleutel
-Management Access=Managementtoegang 
+Management Access=Beheertoegang 
 No users are defined=Geen gebruikers gedefinieerd
 Save=Opslaan
 Shares Access=Mappentoegang
