@@ -36,8 +36,6 @@ DNS=DNS
 Docker Containers=Docker Containers
 Docker Hub URL=Docker Hub URL
 Docker Service failed to start=Docker Service kan niet worden gestart
-Donation Link=Donatie link
-Donation Text=Donatie tekst
 Downloaders=Downloaders
 Edit Configuration=Configuratie Bewerken
 Exited=Verlaten
@@ -58,7 +56,6 @@ Icon URL=URL-icoon
 Image ID=Image ID
 Key=Sleutel
 Label=Label
-latest=laatste
 Management=Management
 MediaApp=MediaApp
 MediaServer=MediaServer
@@ -109,7 +106,6 @@ Successfully removed container=Container succesvol verwijderd
 Successfully removed orphan image=Wees-image succesvol verwijderd
 Successfully stopped container=Container succesvol gestopt
 Support Thread=Ondersteuningsdraad
-Template repositories=Sjabloonopslagplaatsen
 Template URL=Sjabloon URL
 Template=Sjabloon
 The command failed=De opdracht is mislukt
@@ -132,8 +128,11 @@ Writable=Schrijfbaar
 ; New entries (4) - 2021-03-14
 Drivers=Stuurprogramma's
 Reset sorting=Sorteren terugzetten
-Start Container After Install=Start container na installatie
 Total size=Totale grootte
 
 ; New entries (1) - 2021-06-12
 Crypto Currency=Crypto valuta
+
+; New entries (2) - 2021-09-18
+Additional Requirements=
+None Listed=

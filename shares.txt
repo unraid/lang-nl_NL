@@ -60,6 +60,5 @@ Time Machine volume size limit=Time Machine volume grootte
 Unknown encryption state=Onbekende versleuteltoestand
 Use cache pool for new filesdirectories=Gebruik cache opslag (voor nieuwe bestanden/folders)
 User Shares=Gedeelde Gebruikersmappen
-Volume dbpath=DBpath volume
 Write=Schrijven
 You cannot use the following within share names=De volgende karakters kunnen niet worden gebruikt binnen de gedeelde mapnamen

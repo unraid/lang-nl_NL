@@ -1,5 +1,4 @@
 %s used of %s %s %%=%s in gebruik van %s (%s %%)
----=---
 Active tunnels=Actieve tunnels
 Activity=Activiteit
 ago=geleden
@@ -26,7 +25,6 @@ FAN=Ventilator
 Finding %s error=Gevonden fouten: **%s**
 Finding %s errors=Gevonden fouten: **%s**
 General info=Algemene info
-Go to cache settings=Ga naar Groepinstellingen
 Go to CPU pinning settings=Ga naar CPU klemming instellingen
 Go to disk settings=Ga naar Schijfinstellingen
 Go to Docker settings=Ga naar Docker instellingen
