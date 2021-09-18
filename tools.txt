@@ -103,7 +103,6 @@ This will update folder file permissions=Dit zal map- & bestandsrechten bijwerke
 Time=Tijd
 To install a registration key, paste the key file URL in the box below and click Install Key=Om een registratiesleutel te installeren, plak de URL van het sleutelbestand in het kader hieronder en druk op **Sleutel Installeren**
 to select your language=om uw taal te kiezen
-To support more storage devices as your server grows, click Upgrade Key below=Om meer opslagapparaten te ondersteunen als uw server groeit, druk op *Upgraden Sleutel*
 Trial key expires on=***Proefsleutel*** verloopt op
 Trial=Proef
 Update OS=Updaten OS

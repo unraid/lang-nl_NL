@@ -95,7 +95,7 @@ Select the LibreELEC version to use=Selecteer de gebruikte LibreELEC versie
 Select the machine model=Selecteer het machine model
 Select the OpenELEC version to use=Selecteer de gebruikte OpenELEC versie
 Select the USB Controller to emulate=Selecteer de te emuleren USB-controller
-Separate sub-folder and image will be created based on Name=Er wordt een aparte submap en afbeelding gemaakt op basis van Naam
+Separate sub-folder and image will be created based on Name=Er wordt een aparte submap en image gemaakt op basis van Naam
 shares=mappen
 Some OSes wont support USB3=Sommige besturingssystemen ondersteunen geen USB3
 Sound Card=Geluidskaart
@@ -115,7 +115,7 @@ vDisk Bus=vDisk Bus
 vDisk Location=vDisk Locatie
 vDisk Size=vDisk Grootte
 vDisk Type=vDisk Type
-vDisks=v-Schijven
+vDisks=vDisks
 video for VNC=video voor VNC
 VirtIO Drivers CDRom Bus=VirtIO-stuurprogramma's CDRom Bus
 VirtIO Drivers ISO=VirtIO-stuurprogramma's ISO
@@ -130,3 +130,7 @@ Wasnt able to stop the process=Was niet mogelijk om het proces te stoppen
 Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, nieuwere Linux distros
 XML View=XML weergave
+
+; New entries (2) - 2021-09-18
+Pop-up Blocker is enabled Please add this site to your exception list=Pop-up Blocker is enabled! Please add this site to your exception list
+Verifying=
