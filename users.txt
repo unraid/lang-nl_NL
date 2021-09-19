@@ -19,7 +19,7 @@ User %s has been deleted=Gebruiker %s is verwijderd
 User name=Gebruikersnaam
 
 ; New entries (8) - 2021-05-31
-Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
+Click Add User to create a user for remote shares access=Klik op **Add User** om een gebruiker aan te maken voor gedeelde mappen
 Invalid Key=Ongeldige sleutel
 Management Access=Beheertoegang 
 No users are defined=Geen gebruikers gedefinieerd
