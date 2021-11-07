@@ -306,9 +306,9 @@ SMART self-test in progress=SMART-zelftest wordt uitgevoerd
 This Unraid OS release has been withdrawn and may no longer be used Please=Deze Unraid OS-release is ingetrokken en mag niet langer worden gebruikt. Alstublieft
 
 ; New entries (3) - 2021-07-11
-enter disk index and device name as applicable to your controller=
-next device=
-previous device=
+enter disk index and device name as applicable to your controller=voer schijfindex en apparaatnaam in zoals van toepassing op de controller
+next device=volgende opslag
+previous device=vorige opslag
 
 ; New entries (1) - 2021-11-06
-If this is a new array, move the largest disk into the parity slot=If this is a new array, move the largest disk into the *parity* slot
+If this is a new array, move the largest disk into the parity slot=Als dit een nieuwe array is, verplaats dan de grootste schijf naar de *pariteit*-sleuf

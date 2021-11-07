@@ -132,11 +132,11 @@ Windows 82012, newer Linux distros=Windows 8/2012, nieuwere Linux distros
 XML View=XML weergave
 
 ; New entries (2) - 2021-09-18
-Pop-up Blocker is enabled Please add this site to your exception list=Pop-up Blocker is enabled! Please add this site to your exception list
-Verifying=
+Pop-up Blocker is enabled Please add this site to your exception list=Pop-upblokkering is ingeschakeld! Voeg deze site toe aan de uitzonderingenlijst
+Verifying=Verifiëren
 
 ; New entries (4) - 2021-11-06
-ETA=
-ISO storage path doesnt exist, please create the user share or empty folder first=ISO storage path doesn't exist, please create the user share (or empty folder) first
-OVMF TPM=
-Specify a ISO storage path first=
+ETA=ETA
+ISO storage path doesnt exist, please create the user share or empty folder first=ISO-opslagpad bestaat niet, maak eerst de gebruikersshare (of lege map) aan
+OVMF TPM=OVMF TPM
+Specify a ISO storage path first=Geef eerst een ISO-opslagpad op

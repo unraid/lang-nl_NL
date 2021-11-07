@@ -708,15 +708,15 @@ Not present=Niet aanwezig
 Unraidnet account status=Unraid.net accountstatus
 
 ; New entries (5) - 2021-09-18
-Docker custom network type=
-FTP Server=
-ipvlan=
-macvlan=
-Your local IP address %s has been updated for unraidnet=Your local IP address %s has been updated for unraid.net
+Docker custom network type=Docker aangepast netwerktype
+FTP Server=FTP Server
+ipvlan=ipvlan
+macvlan=macvlan
+Your local IP address %s has been updated for unraidnet=Het lokale IP-adres %s is bijgewerkt voor Unraid.net
 
 ; New entries (5) - 2021-11-06
-Certificate will not renew unless you are signed in to Unraidnet=Certificate will not renew unless you are signed in to Unraid.net
-No change to report=
-Sign In to Unraidnet required=Sign In to Unraid.net required
-VM Settings A reboot is required to apply changes=VM Settings: A reboot is required to apply changes
-You must be signed in to Unraidnet in order to generate an Unraidnet SSL certificate=You must be signed in to Unraid.net in order to generate an Unraid.net SSL certificate
+Certificate will not renew unless you are signed in to Unraidnet=Certificaat wordt niet verlengd tenzij u bent aangemeld bij Unraid.net
+No change to report=Geen wijziging te melden
+Sign In to Unraidnet required=Aanmelden bij Unraid.net vereist
+VM Settings A reboot is required to apply changes=VM-instellingen: opnieuw opstarten is vereist om wijzigingen toe te passen
+You must be signed in to Unraidnet in order to generate an Unraidnet SSL certificate=U moet zijn aangemeld bij Unraid.net om een Unraid.net SSL-certificaat te genereren
