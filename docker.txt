@@ -134,8 +134,8 @@ Total size=Totale grootte
 Crypto Currency=Crypto valuta
 
 ; New entries (2) - 2021-09-18
-Additional Requirements=
-None Listed=
+Additional Requirements=Aanvullende vereisten
+None Listed=Niets te melden
 
 ; New entries (1) - 2021-11-07
-Read Me First=
+Read Me First=Lees mij eerst
