@@ -62,3 +62,6 @@ Container Port=Container Poort
 Container Variable=Container Variabele
 Container Label=Container Label
 Container Device=Container apparaat
+
+; New entries (1) - 2021-11-14
+Read Me First=
