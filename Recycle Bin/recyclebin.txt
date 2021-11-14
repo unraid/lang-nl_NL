@@ -1,40 +1,39 @@
-Recycle Bin=Prullenbak
+Age Days=Leeftijd in Dagen 
+Array=Array
+Array is stopped=Array is gestopt 
+Browse the Share Recycle Bin=Blader door de Prullenbak
 Deleted Files=Verwijderde bestanden
-Stop the Recycle Bin=Stop de Prullenbak
-Restart the Recycle Bin=Start de Prullenbak opnieuw 
-Start the Recycle Bin=Start de Prullenbak 
-Recycle Bin Total Size=Totale grootte Prullenbak 
-Remove Aged Files=Verwijder verouderde bestanden 
-Remove aged files from the Recycle Bin=Verwijder verouderde bestanden uit de Prullenbak 
-Empty All Trash=Prullenbak leegmaken 
-Remove all files from the Recycle Bin=Verwijder alle bestanden uit de Prullenbak 
-Refresh the Recycle Bin page=Vernieuw de Prullenbak pagina
-Enable Recycle Bin=Schakel Prullenbak in 
-Update Recycle Bin Size in Background=Bijwerken van de Prullenbak grootte op de achtergrond
+Deleted Files Log=Verwijderen van de log bestanden
+Empty=Leegmaken
+Empty the=Leegmaken van
+Empty All Trash=Maak alle prullenbak leeg 
+Empty Trash=Prullenbak leegmaken
 Enable on Unassigned Devices=Update de grootte van de Prullenbak op de achtergrond 
-Recycle Bin parameters=Prullenbak parameters 
+Enable Recycle Bin=Schakel Prullenbak in 
+Excluded Directories=
 Excluded Files=Uitgesloten bestanden 
 Excluded Shares=Uitgesloten mappen
-Age Days=Leeftijd in Dagen 
-Remove Aged Files on Schedule=Verwijder verouderde bestanden volgens schema 
-Remove Aged Files Notification=Melding van verwijderen verouderde bestanden
 Log Deleted Files=Log verwijderde bestanden 
-Empty=Leegmaken
-Array is stopped=Array is gestopt 
-SMB Share=SMB map
-Share Type=Map Type
-Trash Size=Prullenbakgrootte 
-Empty Trash=Prullenbak leegmaken
-Array=Array
-Browse the Share Recycle Bin=Blader door de Prullenbak
-Empty the=Leegmaken van
 Recycle Bin=Prullenbak
-Deleted Files Log=Verwijderen van de log bestanden
 Recycle Bin Log=Prullenbak logboek
-Yes I want to do this=
-to remove deleted files older than the 'Age Days' setting=om verwijderde bestanden te verwijderen die ouder zijn dan de instelling 'Age Days'
-Empty All Trash=Maak alle prullenbak leeg 
-to remove all deleted files=om alle verwijderde bestanden te verwijderen
+Recycle Bin parameters=Prullenbak parameters 
+Recycle Bin permissions=
+Recycle Bin Total Size=Totale grootte Prullenbak 
+Refresh the Recycle Bin page=Vernieuw de Prullenbak pagina
+Remove Aged Files=Verwijder verouderde bestanden 
+Remove aged files from the Recycle Bin=Verwijder verouderde bestanden uit de Prullenbak 
+Remove Aged Files Notification=Melding van verwijderen verouderde bestanden
+Remove Aged Files on Schedule=Verwijder verouderde bestanden volgens schema 
+Remove all files from the Recycle Bin=Verwijder alle bestanden uit de Prullenbak 
+Restart the Recycle Bin=Start de Prullenbak opnieuw 
+Share Type=Map Type
+SMB Share=SMB map
+Start the Recycle Bin=Start de Prullenbak 
+Starting and stopping the Recycle Bin can cause SMB shares to go offline for a short period=
+Stop the Recycle Bin=Stop de Prullenbak
+These actions apply to all shares=
+Trash Size=Prullenbakgrootte 
+Update Recycle Bin Size in Background=Bijwerken van de Prullenbak grootte op de achtergrond
 ;
 ; Help
 ;
@@ -54,7 +53,10 @@ Deze acties zijn van toepassing op alle mappen:
 
 :recycle_bin_enable_plug:
 > Stel in op 'Ja' om de Prullenbak-functionaliteit in te schakelen voor verwijderde bestanden wanneer de server wordt gestart. 
+> To hide the Recycle Bin folder, set 'Hide Dot Files to 'Yes' in the SMB settings <a href='/Settings/SMB'>here</a>.
+> To hide the Recycle Bin folder, set 'Hide Dot Files to 'Yes' in the SMB settings <a href='/Settings/SMB'>here</a>.
 :end
+
 
 :recycle_bin_background_plug:
 > Stel in op 'Ja' om ervoor te zorgen dat de grootte van de Prullenbak elke minuut op de achtergrond wordt bijgewerkt. Dit kan ervoor zorgen dat de pagina's Prullenbakinstellingen en Gedeelde bestanden sneller reageren en voorkomen dat de schijf opnieuw opstart wanneer de Prullenbak wordt geopend. Het kan wel een minuut duren voordat de grootte van de Prullenbak is vernieuwd wanneer dit is ingeschakeld. 
@@ -85,6 +87,10 @@ Deze acties zijn van toepassing op alle mappen:
 
 :recycle_bin_excluded_files_plug:
 > Lijst met bestanden die moeten worden uitgesloten van de Prullenbak, gescheiden door komma's. Wildcards '*' en '?' zijn toegestaan. 
+:end
+
+:recycle_bin_excluded_dirs_plug:
+> List of directories to exclude from the Recycle Bin separated by commas.  To specify a particular share directory, use 'share/directory'.  Unassigned Devices are specified the same way using 'mountpoint/directory'.  Wild cards '*' and '?' are allowed in the directory name.
 :end
 
 :recycle_bin_excluded_shares_plug:
