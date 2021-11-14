@@ -8,22 +8,22 @@ Popup Blocked CA requires popups to be enabled under certain circumstances You m
 Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=Dockerdienst niet ingeschakeld - Alleen plug-ins zijn beschikbaar voor installatie of beheer
 Community Applications works best when cookies are enabled in your browser Certain features may not be available=Community Applications werkt het beste wanneer cookies zijn toegestaan in de browser. Sommige kenmerken zijn mogelijk niet beschikbaar
 Backup Server Active Some icons may not appear, and plugin installations may be affected=Backup server actief Sommige ikonen verschijnen mogelijk niet, en plug-in installaties zijn mogelijk verhinderd
-Debugging enabled This significantly increases the memory used by your browser=
+Debugging enabled This significantly increases the memory used by your browser=Debug ingeschakeld. Dit verhoogt aanzienlijk het geheugengebruik van de browser
 
 ; Sorting Options
-Sort By=
-Name Ascending=
-Name Descending=
-Downloads=
-Date Added=
-Number Of Apps=
+Sort By=Sorteer op
+Name Ascending=Naam oplopend
+Name Descending=Naam aflopend
+Downloads=Downloads
+Date Added=Datum toegevoegd
+Number Of Apps=Aantal apps
 ; Initial disclaimer translations
 Disclaimer=Disclaimer
-All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Alle hier vermelde applicaties zijn toevoegingen op Unraid van derde partijen. Noch de auteurs van Community Applications, noch Limetech geven enige garantie met betrekking tot de geschiktheid van de hier vermelde applicaties
-Every attempt is made to ensure that only safe and compatible applications are present=Alles is eraan gedaan om ervoor te zorgen dat veilige en compatibele applicaties aanwezig zijn
-Application Policy=Applicatiebeleid
+All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Alle hier vermelde toepassingen zijn toevoegingen op Unraid van derde partijen. Noch de auteurs van Community Applications, noch Limetech geven enige garantie met betrekking tot de geschiktheid van de hier vermelde toepassingen
+Every attempt is made to ensure that only safe and compatible applications are present=Alles is eraan gedaan om ervoor te zorgen dat veilige en compatibele toepassingen aanwezig zijn
+Application Policy=Toepassingsbeleid
 I Understand=Ik begrijp het
-Installations of apps disabled You must accept the warning to be able to install applications=Installatie van apps uitgeschakeld. De waarschuwing om het installeren van applicaties toe te staan, moet worden geaccepteerd
+Installations of apps disabled You must accept the warning to be able to install applications=Installatie van apps uitgeschakeld. De waarschuwing om het installeren van toepassingen toe te staan, moet worden geaccepteerd
 Click here=Hier drukken
 
 ; Plugin Disclaimer
@@ -31,82 +31,82 @@ Community Applications contains both docker containers and plugin applications P
 Plugin Note=Plug-in notitie
 
 ; Multi Install
-Install Plugin Applications=Plug-in applicaties installeren
+Install Plugin Applications=Plug-in toepassingen installeren
 Select all on page=Selecteer alles op pagina
 
 ; Searches
 Search=Zoeken
 Click Here To Get More Results From DockerHub=Druk hier voor meer resultaten van DockerHub
-No Matching Applications Found=Geen passende applicaties gevonden
+No Matching Applications Found=Geen passende toepassingen gevonden
 
 ; Repository Related
-%s removed as favourite repository=
-%s set as favourite repository=
-Click to remove favourite repository=
-Click to set %s as favourite repository=
-Search for apps in repository=
-No description present=
-Go to the forum page=
-Go to the webpage=
-Go to reddit=
-Go to facebook=
-Go to discord=
-Go to forum profile=
-Show Profile=
-SHOW MORE=
-SHOW LESS=
-Read more=
-Total Applications=
-Total Known Downloads=
-Total Docker Applications=
-Total Plugin Applications=
-Total Languages=
-Average Downloads Per App=
-Web Page=
-Forum=
-Forum Profile=
-Profile=
-Facebook=
-Reddit=
-Twitter=
-Discord=
-Search Apps=
-Registry=
-Details=
-Added=
+%s removed as favourite repository=%s verwijderd als favoriete repository
+%s set as favourite repository=%s ingesteld als favoriete repository
+Click to remove favourite repository=Klik om favoriete repository te verwijderen
+Click to set %s as favourite repository=Klik om %s in te stellen als favoriete repository
+Search for apps in repository=Zoeken naar apps in de repository
+No description present=Geen beschrijving aanwezig
+Go to the forum page=Ga naar de forumpagina
+Go to the webpage=Ga naar de webpagina
+Go to reddit=Ga naar reddit
+Go to facebook=Ga naar facebook
+Go to discord=ga naar discord
+Go to forum profile=Ga naar forumprofiel
+Show Profile=Profiel tonen
+SHOW MORE=MEER TONEN
+SHOW LESS=MINDER TONEN
+Read more=Lees meer
+Total Applications=Totaal aantal toepassingen
+Total Known Downloads=Totaal aantal bekende downloads
+Total Docker Applications=Totaal aantal Docker toepassingen
+Total Plugin Applications=Totaal aantal Plugin toepassingen
+Total Languages=Totaal aantal vertalingen
+Average Downloads Per App=Gemiddeld downloads per App
+Web Page=Webpagina
+Forum=Forum
+Forum Profile=Forumprofiel
+Profile=Profiel
+Facebook=Facebook
+Reddit=Reddit
+Twitter=Twitter
+Discord=Discord
+Search Apps=Apps zoeken
+Registry=Registry
+Details=Details
+Added=Toegevoegd
 ; Install Plugin title of openbox
 Install Plugin=Plug-in installeren
-BACK=
+BACK=TERUG
 
 ; Remove App from previously installed
 Delete Template=Sjabloon verwijderen
 Yes, delete it=Ja, verwijderen
 
 ; Uninstall popup
-Uninstall Application=Applicatie verwijderen
+Uninstall Application=Toepassing verwijderen
 Yes uninstall it=Ja, deïnstalleren
 
 ; Remove Private Application
-Remove Private Application=Private applicatie verwijderen
+Remove Private Application=Private toepassing verwijderen
 Yes, remove it=Ja, verwijderen
 
 ; App Pinning
-Click to pin this application=Druk om deze applicatie vast te zetten
-Click to unpin this application=Druk om deze applicatie los te maken
+Click to pin this application=Druk om deze toepassing vast te zetten
+Click to unpin this application=Druk om deze toepassing los te maken
 
 ; Branch installations
 Choose A Branch To Install=Kies een tak om te installeren
 
 ; Multiple application installs
 ; no apps selected
-Install Selected Applications=Geselecteerde applicaties installeren
+Install Selected Applications=Geselecteerde toepassingen installeren
 
 Yes, install it=Ja, installeren
 
 ; Multi-install popup
 Yes, install them=Ja, installeren
-Cookies not enabled Plugins must be separately installed from docker applications=Cookies niet ingeschakeld. Plug-ins moeten apart van docker applicaties worden geïnstalleerd
-Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker applicaties worden geïnstalleerd gebruikmakend van het meest recent opgeslagen sjabloon zonder verdere gebruikersinvoer
+Cookies not enabled Plugins must be separately installed from docker applications=Cookies niet ingeschakeld. Plug-ins moeten apart van docker toepassingen worden geïnstalleerd
+Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker toepassingen worden geïnstalleerd gebruikmakend van het meest recent opgeslagen sjabloon zonder verdere gebruikersinvoer
 Updating Support Links=Ondersteuningsverwijzingen bijwerken
 Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=Klaar met installeren Als de KLAAR toets niet verschijnt, dan dient op de rode X rechtsboven te worden gedrukt
 
@@ -121,35 +121,35 @@ Unknown error happened Please post a screenshot in the support thread of the Sta
 Something really wrong happened Reloading the Apps tab will probably fix the problem=Iets ging verschrikkelijk fout. Herladen van de Apps pagina zal waarschijnlijk het probleem oplossen
 This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=Deze plug-in heeft een dubbele naam met een andere plug-in %s. Dit heeft invloed op beide plug-ins bij tegelijkertijd installeren
 You have been logged out=U bent uitgelogd
-Fatal Flash Drive Error=
-This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=
-Fatal Docker Image Error=
-Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=
+Fatal Flash Drive Error=Fatale Flash Drive-fout
+This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=Dit betekent meestal dat uw flashstation beschadigd is of offline is gevallen. De rest van de Unraid GUI wordt ook beïnvloed. Plaats een nieuw bericht in de Unraid-forums als deze fout zich blijft voordoen
+Fatal Docker Image Error=Fatale Docker-image fout
+Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=De docker-image of -map is ofwel alleen-lezen of volledig vol. Hierdoor zullen problemen het gevolg zijn. U moet een nieuw bericht maken in de Unraid-forums en uw diagnose toevoegen
 
 ; CA Sections Keep the length reasonable
 Installed Apps=Geïnstalleerde Apps
 Previous Apps=Vorige Apps
 Pinned Apps=Vastgezette Apps
-Favourite Repo=
-Recently Added=
+Favourite Repo=Favoriete Repo
+Recently Added=Recent toegevoegd
 Updated Apps=Bijgewerkte Apps
 Random Apps=Willekeurige Apps
 Top New Installs=Top nieuwe installaties
-Top Trending Apps=
-Spotlight Apps=
+Top Trending Apps=Populairste trending-apps
+Spotlight Apps=Spotlicht-apps
 All Apps=Alle Apps
 Statistics=Statistieken
 Credits=Applaus
 Support=Ondersteuning
 VERSION=VERSIE
 Change Log=Wijzigingen
-Debugging=
+Debugging=Debuggen
 
 ; Credits
 Development=Ontwikkeling
 Additional Contributions=Extra bijdragen
 GUI Layout Design=GUI layout ontwerp
-Application Feed=Applicatie feed
+Application Feed=Toepassingsfeed
 Additional Testing=Extra testen
 Moderation=Moderatie
 Additional Libraries=Extra bibliotheken
@@ -159,45 +159,45 @@ Translation=Vertaling
 ; Statistics page
 
 unknown=onbekend
-Last Change To Application Feed=Laatste verandering aan applicatie feed
-Docker Applications=
-Plugin Applications=
-Templates=
-Official Containers=
-Repositories=
-Private Docker Applications=
-Invalid Templates=
+Last Change To Application Feed=Laatste verandering aan toepassingsfeed
+Docker Applications=Docker toepassingen
+Plugin Applications=Plugin toepassingen
+Templates=Sjablonen
+Official Containers=Officiële containers
+Repositories=Repositories
+Private Docker Applications=Private Docker-toepassingen
+Invalid Templates=Ongeldige sjablonen
 Template Errors=Sjabloon fouten
-Blacklisted Apps=
-Incompatible Applications=
-Deprecated Applications=
-Moderation Entries=
+Blacklisted Apps=Apps op zwarte lijst
+Incompatible Applications=Incompatibele toepassingen
+Deprecated Applications=Verouderde toepassingen
+Moderation Entries=Moderatie-items
 Primary Server=Primaire server
 Backup Server=Back-up server
-Installs not allowed from this page=
+Installs not allowed from this page=nstallaties niet toegestaan vanaf deze pagina
 
 ; Statistics Popup
 No invalid templates found=Geen geldige sjablonen gevonden
-These templates are invalid and the application they are referring to is unknown=Deze sjablonen zijn ongeldig en de applicatie waar naar ze verwijzen is onbekend
+These templates are invalid and the application they are referring to is unknown=Deze sjablonen zijn ongeldig en de toepassing waar naar ze verwijzen is onbekend
 No templates were automatically fixed=Geen sjablonen werden automatisch hersteld
 All of these errors found have been fixed automatically=Al deze gevonden fouten zijn automatisch hersteld
 Note that many of these errors can be avoided by following the directions=Letop veel van dez fouten kunnen worden vermeden door de richtlijnen te volgen
 HERE=HIER
 The following plugins have duplicated filenames and are not able to be installed simultaneously=De volgende plug-ins hebben dubbele bestandsnamen en kunnen niet gelijktijdig worden geïnstalleerd
-The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=De volgende docker applicaties verwijzen naar dezelfde docker repository maar kunnen subtiele verschillen in het sjabloon hebben
+The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=De volgende docker toepassingen verwijzen naar dezelfde docker repository maar kunnen subtiele verschillen in het sjabloon hebben
 If any of these entries are incorrect then contact the moderators of CA to discuss=Als een van deze vermeldingen onjuist is, neem dan contact op met de moderators van CA om dit te bespreken
 Global Repository Comments=Algemene repository commentaar
-Applied to all applications=(Toegepast op alle applicaties)
-Individual Application Moderation=Individuele moderatie van applicaties
+Applied to all applications=(Toegepast op alle toepassingen)
+Individual Application Moderation=Individuele moderatie van toepassingen
 
 ; Misc
 Community Applications Changelog=Community Applications wijzigingen
 
-Each month we highlight some of the amazing work from our community=
-Check out these newly added applications from our awesome community=
-Check out these up and coming apps=
-These apps have the highest percentage of new installs=
-An assortment of randomly chosen apps=
+Each month we highlight some of the amazing work from our community=Elke maand belichten we een aantal van het geweldige werk van onze community
+Check out these newly added applications from our awesome community=Bekijk deze nieuw toegevoegde toepassingen van onze geweldige community
+Check out these up and coming apps=Bekijk deze opkomende apps
+These apps have the highest percentage of new installs=Deze apps hebben het hoogste percentage nieuwe installaties
+An assortment of randomly chosen apps=Een assortiment van willekeurig gekozen apps
 
 ; Categories try not to be excessively long This is displayed on the left of CA screen
 
@@ -208,7 +208,7 @@ Downloaders=Downloaden
 Drivers=Stuurprogramma's
 Game Servers=Spel Servers
 Home Automation=Domotica
-Media Applications=Media-applicaties
+Media Applications=Media-toepassingen
 Books=Boeken
 Music=Muziek
 Photos=Foto's
@@ -226,7 +226,7 @@ VPN=VPN
 Web=Web
 Productivity=Productiviteit
 Security=Beveiliging
-Spotlight=
+Spotlight=Spotlicht
 Tools Utilities=Gereedschap / Hulpprogramma's
 System=Systeem
 Themes=Themas
@@ -265,9 +265,9 @@ OtherUncategorized=Overige:Ongesorteerd
 and %s more=en %s meer
 
 ; App Popup Related
-This application template has been blacklisted=Dit applicatiesjabloon staat op de zwarte lijst
-This application template has been deprecated=Dit applicatiesjabloon is verouderd
-This application has additional requirements=Deze applicatie heeft aanvullende vereisten
+This application template has been blacklisted=Dit toepassingsjabloon staat op de zwarte lijst
+This application template has been deprecated=Dit toepassingsjabloon is verouderd
+This application has additional requirements=Deze toepassing heeft aanvullende vereisten
 Additional Requirements=Aanvullende vereisten
 Donate To Author=Donatie aan de auteur
 Donate To Maintainer=Donatie aan de onderhouder
@@ -275,12 +275,12 @@ CLOSE=SLUITEN
 Author=Auteur
 Maintainer=Onderhouder
 DockerHub=DockerHub
-Application Template=Applicatie sjabloon
+Application Template=Toepassingsjabloon
 DockerHub Stars=DockerHub sterren
 Added to CA=Toevoegd aan CA
 Date Updated=Datum van bijwerken
 Current Version=Huidige versie
-Min OS=
+Min OS=Minimale OS
 Max OS=Maximale OS
 Total Downloads=Totaal downloads
 Licence=Licentie
@@ -290,17 +290,17 @@ Ranked #%s=Geplaatst #%s
 Trending %s=Populair %s
 ; as in As of some date
 As of %s=(Vanaf %s)
-Show Charts=
-Hide Charts=
-This application is not compatible with your version of Unraid=Deze applicatie is niet compatibel met deze versie van Unraid
+Show Charts=Grafieken tonen
+Hide Charts=Grafieken verbergen
+This application is not compatible with your version of Unraid=Deze toepassing is niet compatibel met deze versie van Unraid
 Another browser tab or device has updated the displayed templates Some actions are not available=Een andere browser pagina of apparaat heeft de getoonde sjablonen bijgewerkt. Sommige acties zijn niet beschikbaar
 WebUI=WebUI
 Reinstall=Herinstalleren
-Reinstall From Previous Apps=
+Reinstall From Previous Apps=Herinstalleren vanuit vorige apps
 Install=Installeren
 Project=Project
-Read Me First=
-Install second instance=
+Read Me First=Lees mij eerst
+Install second instance=Tweede instantie installeren
 Install Using The Templates Default Tag=Installeer gebruikmakend van de sjabloon's Standaard tag
 Moderator Comments=Moderator Commentaar:
 Note not all authors keep up to date on change logs=Letop niet alle auteurs houden een wijzigingslog bij
@@ -312,63 +312,63 @@ Install The Update=Update installeren
 ; as in you have the latest version already installed
 Latest Version=Laatste versie
 Multi Language Support=Ondersteuning voor meerdere talen
-Support Forum=
+Support Forum=Ondersteuningsforum
 ; as in more than 100000
 More than %s=Meer dan %s
-Remove from Previous Apps=
-See All Apps=
-Favourite=
-Application Type=
+Remove from Previous Apps=Verwijderen uit vorige apps
+See All Apps=Zie alle Apps
+Favourite=Favoriet
+Application Type=Toepassingstype
 
 ; Graphs
 Trend Per Month=Trend per maand
 Downloads Per Month=Downloads per maand
 
 ; Multi install script
-Installing docker applications %s=Installeren van docker applicaties
+Installing docker applications %s=Installeren van docker toepassingen
 Starting %s=Start %s
 %s failed to start You should install it by itself to fix the errors=%s niet gestart Je moet deze zelf installeren om fouten te herstellen
-Setting installed applications to autostart=Instelling geïnstalleerde applicaties voor autostart
-Docker Application Installation finished=Docker applicatie installatie klaar
+Setting installed applications to autostart=Instelling geïnstalleerde toepassingen voor autostart
+Docker Application Installation finished=Docker-toepassing installatie klaar
 
 ; Application Cards
-This application is a driver plugin=This application is a driver (plugin)
-This is a language pack=
-This application is a docker container=
-This application is a plugin=
-This is a spotlight application=
-This is your favourite repository=
-This application is from your favourite repository=
-This application is pinned for later viewing=
+This application is a driver plugin=Deze toepassing is een stuurprogramma (plugin)
+This is a language pack=Dit is een taalpakket
+This application is a docker container=Deze toepassing is een docker-container
+This application is a plugin=Deze toepassing is een plug-in
+This is a spotlight application=Dit is een spotlicht-toepassing
+This is your favourite repository=Dit is je favoriete repository
+This application is from your favourite repository=Deze toepassing komt uit je favoriete repository
+This application is pinned for later viewing=Deze toepassing is vastgezet om later te bekijken
 Private Application=Private toepassing
-Remove Application From List=Applicatie verwijderen van lijst
+Remove Application From List=Toepassing verwijderen van lijst
 Check off to select multiple reinstalls=Vink aan om meerdere herinstallaties te selecteren
 Go to the plugin settings=Ga naar de plug-in instellingen
-Click to reinstall the application using default values=Druk om de applicatie te herinstalleren met standaard waarden
-Click to edit the application values=Druk om de applicatie waarden te bewerken
+Click to reinstall the application using default values=Druk om de toepassing te herinstalleren met standaard waarden
+Click to edit the application values=Druk om de toepassing waarden te bewerken
 Click to reinstall=Druk om te herinstalleren
 Click to install=Druk om te installeren
 Click to go to the WebUI=Druk hier om naar de WebUI te gaan
-This application template has been deprecated=Dit applicatiesjabloon is verouderd
-This application template has been blacklisted=Dit applicatiesjabloon staat op de zwarte lijst
-Click info to see the notes regarding this application=
-This application has additional requirements=Deze applicatie heeft aanvullende vereisten
-BETA= 
-INSTALLED=
-OFFICIAL=
-This is an official container=
-Digitally Signed=
-This container is digitally signed=
-Docker Hub=
-NOTE You must visit the dockerHub page to gather the information required to install correctly=
-Show CA templates=
+This application template has been deprecated=Dit toepassingsjabloon is verouderd
+This application template has been blacklisted=Dit toepassingsjabloon staat op de zwarte lijst
+Click info to see the notes regarding this application=Klik op info om de opmerkingen over deze toepassing te zien
+This application has additional requirements=Deze toepassing heeft aanvullende vereisten
+BETA= BETA
+INSTALLED=GEÏNSTALLEERD
+OFFICIAL=OFFICIEEL
+This is an official container=Dit is een officiële container
+Digitally Signed=Digitaal ondertekend
+This container is digitally signed=Deze container is digitaal ondertekend
+Docker Hub=Dockerhub
+NOTE You must visit the dockerHub page to gather the information required to install correctly=LETOP Je moet de dockerHub-pagina bezoeken om de informatie te verzamelen die nodig is om correct te installeren
+Show CA templates=CA sjablonen tonen
 
-Info=
-Attention=
-Repository=
-Why we picked it=
-Application Spotlight %s=
-Unraid Staff=
+Info=Info
+Attention=Attentie
+Repository=Repository
+Why we picked it=Waarom we het hebben gekozen
+Application Spotlight %s=Toepassing spotlicht %s
+Unraid Staff=Unraid-personeel
 
 ; Page Navigation
 Displaying %s - %s of %s=Weergeven %1$s - %2$s (van %3$s)
@@ -386,4 +386,4 @@ Click here to view the language changelog=Hier drukken om het taalwijzigingslogb
 View Missing Translations=Toon ontbrekende translaties
 
 ; WebGui
-Click Install to download and install the Community Applications plugin=Klik op **Installeren** om de **Community Applications** plugin te downloaden en te installeren
+Click Install to download and install the Community Applications plugin=Klik op **Installeren** om de **Community Applications** plug-in te downloaden en te installeren
