@@ -161,9 +161,7 @@ Dit hulpprogramma wordt gebruikt voor het oplossen van problemen. Het verzamelt 
 Vervolgens kan het ZIP bestand worden toegevoegd in de correspondentie met Limetech of het Unraid forum.
 
 Dit helpt anderen om sneller inzage te krijgen in uw systeem en betere ondersteuning te geven voor de problemen.
-De volgende informatie en configuratie bestanden worden verzameld:
-
-:end
+De volgende informatie en configuratie bestanden worden verzameld::end
 
 :diagnostics_2_plug:
 + */config*
@@ -192,11 +190,7 @@ echter de servernaam, IP adres en gebruikersmapnamen zijn **wel** inbegrepen.*
 
 *Letop dat plug-ins van 3de partijen **mogelijk** persoonlijke informatie opslaan die specifiek zijn aan de configuratie bestanden van de plug-in of eventuele uitvoer naar het systeem logbestand.*
 
-*Gebruik* **Maak diagnostieken anoniem** *wanneer het diagnostiekenbestand op het publieke forum wordt gezet. In privé communicatie met Limetech is het aanbevolen om geen anonimiteit te gebruiken en alle informatie onveranderd op te slaan.*
-
-
-
-:end
+*Gebruik* **Maak diagnostieken anoniem** *wanneer het diagnostiekenbestand op het publieke forum wordt gezet. In privé communicatie met Limetech is het aanbevolen om geen anonimiteit te gebruiken en alle informatie onveranderd op te slaan.*:end
 
 :newconfig_plug:
 Dit hulpprogramma zet de array informatie terug, zodat het lijkt dat alle schijven "Nieuw" zijn, alsof het een nieuwe server betreft.
@@ -207,11 +201,7 @@ Gebruik de *Onthoud huidige toekenningen* selectie om de gewenste schijfsloten v
 Standaard worden *geen* schijfsloten vooringevuld.
 
 **GEBRUIK DIT HULPROGRAMMA NIET OM EEN FOUTIEVE SCHIJF TE HERSTELLEN** - het doet het tegenovergestelde
-en maakt het juist **onmogelijk** om een bestaande foutieve schijf te herstellen - u bent gewaarschuwd!
-
-
-
-:end
+en maakt het juist **onmogelijk** om een bestaande foutieve schijf te herstellen - u bent gewaarschuwd!:end
 
 :newperms_1_plug:
 Dit is een verplichte enkelmalige actie die moet worden gedaan na het upgraden van een pre-5.0 Unraid server uitgave naar Unraid v5 of later.
@@ -221,8 +211,6 @@ Dit hulpprogramma is ook handig voor het herstellen van standaard eigenaarschap/
 
 Dit hulpprogramma start een achtergrondproces welke alle geselecteerde data/groep schijven of alle geselecteerde gebruikersmappen doorloopt
 en eigenaarschap van bestanden en mappen verandert naar *nobody/users* (dwz. uid/gid naar 99/100) en de rechten als volgt:
-
-
 :end
 
 :newperms_2_plug:
@@ -234,8 +222,6 @@ Voor lees/schrijf bestanden:
 
 Voor lees bestanden:
   -r--r--r--
-
-
 :end
 
 :newperms_3_plug:
@@ -244,8 +230,6 @@ Druk op **Starten** om een venster te openen en het achtergrondproces te starten
 Sluiten van het venster zal het achtergrondprocess termineren voordat het klaar is - even geduld dus. Dit proces kan lang duren wanneer er heel veel bestanden zijn.
 
 Letop: Dit hulpprogramma kan een negatief effect hebben op docker containers wanneer de rechten van de 'appdata' map worden aangepast.
-
-
 :end
 
 :registration_1_plug:
@@ -255,8 +239,6 @@ Een *Proefsleutel* geeft toegang tot alle functionaliteit van een *Pro* registra
 Registratie sleutels zijn permanent gebonden aan het serienummer (GUID) van het USB opstartmedium. Gebruik een goede kwaliteits USB van tenminste 1 GB groot.
 
 Letop: USB geheugenkaart lezers zijn in het algemeen **niet** ondersteund, omdat deze geen unieke serienummers bevatten.
-
-
 :end
 
 :registration_2_plug:
@@ -270,16 +252,12 @@ De *Proefsleutel* bevat alle functionaliteit en apparaatondersteuning van een *P
 Nadat de *Proefsleutel* is komen te vervallen, zal de server nog steeds **normaal functioneren** totdat de array wordt **Gestopt**</code>.
 
 Op dit moment, kan er een registratie sleutel worden gekocht of de proeftijd worden verlengd.
-
-
 :end
 
 :registration_4_plug:
 Om Unraid OS te blijven gebruiken, moet een registratie sleutel worden gekocht. Anderzijds kan een proeftijdverlenging worden aangevraagd.
 
-De meeste proeftijdverlengingsaanvragen worden onmiddelijk verwerkt, maar houdt rekening met één werkdag voor het ontvangen van de sleutel.
-
-:end
+De meeste proeftijdverlengingsaanvragen worden onmiddelijk verwerkt, maar houdt rekening met één werkdag voor het ontvangen van de sleutel.:end
 
 :registration_5_plug:
 Het is niet mogelijk een *Proefsleutel* te gebruiken bij een bestaande Unraid OS installatie.
@@ -287,8 +265,6 @@ Het is niet mogelijk een *Proefsleutel* te gebruiken bij een bestaande Unraid OS
 Een overeenkomstige registratie sleutel kan worden gekocht voor dit USB opstartmedium om verder te kunnen met de installatie.
 
 Voor meer informatie, [Contacteer Support](https://lime-technology.com/contact).
-
-
 :end
 
 :registration_6_plug:
@@ -298,16 +274,12 @@ Het lijkt erop dat het registratie sleutelbestand verminkt is of ontbreekt. Het 
 Wanneer er geen reserverkopie is van het registratie sleutelbestand, [Contacteer Support](https://lime-technology.com/contact).
 
 Indien dit een *Proef* installatie is, dan kan een registratie sleutel worden gekocht.
-
-
 :end
 
 :registration_7_plug:
 *Proef* installaties zijn alleen geldig met een origineel geregistreerd USB opstartmedium.
 
-Om verder te kunnen met deze installatie van dit USB opstartmedium, kan een registratie sleutel worden gekocht.
-
-:end
+Om verder te kunnen met deze installatie van dit USB opstartmedium, kan een registratie sleutel worden gekocht.:end
 
 :registration_8_plug:
 Het registratie sleutelbestand komt niet overeen met de USB Flasg opslag.
@@ -322,8 +294,6 @@ Een originele sleutel kan op elk gewenst moment worden vervangen.
 Daarna kan een vervangings sleutel opnieuw worden vervangen na één jaar. Als een vervangings sleutel eerder nodig is, [Contacteer Support](https://lime-technology.com/contact).
 
 **Letop** Het vervangen van een registratie sleutel resulteert in een permanente *zwarte lijst* van de vorige USB Flash GUID.
-
-
 :end
 
 :registration_9_plug:
@@ -334,6 +304,4 @@ Een USB opstartmedium kan ook op de *zwarte lijst* staan als het geen serienumme
 (dit is gebruikelijk bij USB kaartlezers).
 
 Voor meer informatie, [Contacteer Support](https://lime-technology.com/contact).
-
-
 :end
