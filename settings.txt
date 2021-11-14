@@ -720,3 +720,6 @@ No change to report=Geen wijziging te melden
 Sign In to Unraidnet required=Aanmelden bij Unraid.net vereist
 VM Settings A reboot is required to apply changes=VM-instellingen: opnieuw opstarten is vereist om wijzigingen toe te passen
 You must be signed in to Unraidnet in order to generate an Unraidnet SSL certificate=U moet zijn aangemeld bij Unraid.net om een Unraid.net SSL-certificaat te genereren
+
+; New entries (1) - 2021-11-14
+Terminal font size=
