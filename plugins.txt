@@ -2,22 +2,30 @@
 anonymous=anoniem
 Author=Auteur
 Check For Updates=Zoek naar updates
+Checking connectivty=Connectiviteit controleren
+checking=controleren
 Click here to install version %s=Hier drukken om versie %s te installeren
+Delete Plugin=Plug-in Opruimen
 DOWNGRADE TO VERSION=DOWNGRADEN NAAR VERSIE
 Enter URL of remote plugin file or local plugin file=Voer de URL in van een plug-inbestand of selecteer een lokaal plug-inbestand
 ERROR=FOUT
 Install Plugin=Plug-in Installeren
-install=installeren
 Install=Installeren
+install=installeren
 Installed Plugins=Geïnstalleerde plug-ins
 Installing Update=Bezig met installeren van update
 need check=check nodig
 Next=Beta
+No plugins installed=Geen plug-ins geïnstalleerd
 No release notes available=Geen uitgave-opmerkingen beschikbaar
+No response, aborting=Geen antwoord, afgebroken
 Plugin File=plug-inbestand
+Plugin File Install Errors=Plug-inbestand Installatiefout
+Plugin History=Plug-in Geschiedenis
 Plugin Update Check=Plug-in Update Controle
 Plugin=plug-in
 Release Notes=Uitgifte notities
+Remove Plugin=Plug-in Verwijderen
 remove=verwijderen
 Select local plugin file=Selecteer lokale plug-inbestand
 Stable=Stabiel
@@ -25,24 +33,6 @@ STALE=OUD
 Support Thread=Hulppagina
 Uninstall=Deïnstalleer
 Update All Plugins=Update alle plugins
+Update Plugin=Plug-in Updaten
 Upgrade=Upgraden
 View Release Notes=Bekijk uitgifte notities
-
-; New entries (1) - 2021-03-14
-No plugins installed=Geen plug-ins geïnstalleerd
-
-; New entries (2) - 2021-05-09
-Checking connectivty=Connectiviteit controleren
-No response, aborting=Geen antwoord, afgebroken
-
-; New entries (1) - 2021-05-10
-checking=controleren
-
-; New entries (3) - 2021-05-10
-Delete Plugin=Plug-in Opruimen
-Remove Plugin=Plug-in Verwijderen
-Update Plugin=Plug-in Updaten
-
-; New entries (2) - 2021-05-15
-Plugin File Install Errors=Plug-inbestand Installatiefout
-Plugin History=Plug-in Geschiedenis

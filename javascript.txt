@@ -24,6 +24,7 @@ Ok=Oké
 Pause=Pauzeren
 Proceed=Doorgaan
 Project Page=Projectpagina
+Read Me First=Lees mij eerst
 Remove container=Container verwijderen
 Remove definition=Verwijder definitie:
 Remove image=Image verwijderen
@@ -56,12 +57,9 @@ Autostart disabled=Autostart uitgeschakeld
 Missing encryption key=Ontbrekende encryptie-sleutel
 Opening encrypted volumes=Versleutelde volumes openen
 
-; New entries (5) - 2021-05-08
+; docker variables
 Container Path=Container Pad
 Container Port=Container Poort
 Container Variable=Container Variabele
 Container Label=Container Label
 Container Device=Container apparaat
-
-; New entries (1) - 2021-11-14
-Read Me First=Lees mij eerst

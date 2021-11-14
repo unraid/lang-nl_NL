@@ -2,6 +2,7 @@ Access Mode=Toegangsmodus
 Add another Path, Port, Variable, Label or Device=Pad, Poort, Variabele, Label of Apparaat toevoegen
 Add Configuration=Configuratie toevoegen
 Add=Toevoegen
+Additional Requirements=Aanvullende vereisten
 Always=Altijd
 App to Host=App naar Host
 Application=Applicatie
@@ -29,6 +30,7 @@ Container=Container
 CPU Memory load=CPU & Geheugen verbruik
 CPU Pinning=CPU Klemming
 Created=Gemaakt
+Crypto Currency=Crypto valuta
 Default Value=Standaard waarde
 Device=Apparaat
 Display=Scherm
@@ -37,6 +39,7 @@ Docker Containers=Docker Containers
 Docker Hub URL=Docker Hub URL
 Docker Service failed to start=Docker Service kan niet worden gestart
 Downloaders=Downloaders
+Drivers=Stuurprogramma's
 Edit Configuration=Configuratie Bewerken
 Exited=Verlaten
 Extra Parameters=Extra parameters
@@ -64,6 +67,7 @@ Missing parameters=Ontbrekende parameters
 Music=Muziek
 Network Type=Netwerk type
 No Docker containers installed=Geen Docker containers geïnstalleerd
+None Listed=Niets te melden
 of=van
 orphan image=Wees-image
 Other=Anders
@@ -79,6 +83,7 @@ Productivity=Productiviteit
 Project Page=Projectpagina
 Proxy=Proxy
 Pulling image=Image ophalen
+Read Me First=Lees mij eerst
 Read Only - Shared=Alleen Lezen - Gedeeld
 Read Only - Slave=Alleen Lezen - Slaaf
 Read Only=Alleen Lezen
@@ -91,6 +96,7 @@ Removing container=Container verwijderen
 Removing orphan image=Wees-image verwijderen
 Repository=Bewaarplaats
 Required=Verplicht
+Reset sorting=Sorteren terugzetten
 Resume All=Alles hervatten
 Save=Opslaan
 Select a template=Selecteer een sjabloon
@@ -111,6 +117,7 @@ Template=Sjabloon
 The command failed=De opdracht is mislukt
 The command finished successfully=De opdracht is succesvol uitgevoerd
 TOTAL DATA PULLED=TOTALE GEGEVENS OPGEHAALD
+Total size=Totale grootte
 Unknown action=Onbekende actie
 Update All=Alles bijwerken
 update ready=update gereed
@@ -124,18 +131,3 @@ Was this container created using this plugin=Is deze container gemaakt m.b.v. de
 Web=Web
 WebUI=WebUI
 Writable=Schrijfbaar
-
-; New entries (4) - 2021-03-14
-Drivers=Stuurprogramma's
-Reset sorting=Sorteren terugzetten
-Total size=Totale grootte
-
-; New entries (1) - 2021-06-12
-Crypto Currency=Crypto valuta
-
-; New entries (2) - 2021-09-18
-Additional Requirements=Aanvullende vereisten
-None Listed=Niets te melden
-
-; New entries (1) - 2021-11-07
-Read Me First=Lees mij eerst
