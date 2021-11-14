@@ -64,4 +64,4 @@ Container Label=Container Label
 Container Device=Container apparaat
 
 ; New entries (1) - 2021-11-14
-Read Me First=
+Read Me First=Lees mij eerst
