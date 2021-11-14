@@ -161,7 +161,8 @@ Dit hulpprogramma wordt gebruikt voor het oplossen van problemen. Het verzamelt 
 Vervolgens kan het ZIP bestand worden toegevoegd in de correspondentie met Limetech of het Unraid forum.
 
 Dit helpt anderen om sneller inzage te krijgen in uw systeem en betere ondersteuning te geven voor de problemen.
-De volgende informatie en configuratie bestanden worden verzameld::end
+De volgende informatie en configuratie bestanden worden verzameld:
+:end
 
 :diagnostics_2_plug:
 + */config*
@@ -190,7 +191,8 @@ echter de servernaam, IP adres en gebruikersmapnamen zijn **wel** inbegrepen.*
 
 *Letop dat plug-ins van 3de partijen **mogelijk** persoonlijke informatie opslaan die specifiek zijn aan de configuratie bestanden van de plug-in of eventuele uitvoer naar het systeem logbestand.*
 
-*Gebruik* **Maak diagnostieken anoniem** *wanneer het diagnostiekenbestand op het publieke forum wordt gezet. In privé communicatie met Limetech is het aanbevolen om geen anonimiteit te gebruiken en alle informatie onveranderd op te slaan.*:end
+*Gebruik* **Maak diagnostieken anoniem** *wanneer het diagnostiekenbestand op het publieke forum wordt gezet. In privé communicatie met Limetech is het aanbevolen om geen anonimiteit te gebruiken en alle informatie onveranderd op te slaan.*
+:end
 
 :newconfig_plug:
 Dit hulpprogramma zet de array informatie terug, zodat het lijkt dat alle schijven "Nieuw" zijn, alsof het een nieuwe server betreft.
@@ -201,7 +203,8 @@ Gebruik de *Onthoud huidige toekenningen* selectie om de gewenste schijfsloten v
 Standaard worden *geen* schijfsloten vooringevuld.
 
 **GEBRUIK DIT HULPROGRAMMA NIET OM EEN FOUTIEVE SCHIJF TE HERSTELLEN** - het doet het tegenovergestelde
-en maakt het juist **onmogelijk** om een bestaande foutieve schijf te herstellen - u bent gewaarschuwd!:end
+en maakt het juist **onmogelijk** om een bestaande foutieve schijf te herstellen - u bent gewaarschuwd!
+:end
 
 :newperms_1_plug:
 Dit is een verplichte enkelmalige actie die moet worden gedaan na het upgraden van een pre-5.0 Unraid server uitgave naar Unraid v5 of later.
@@ -257,7 +260,8 @@ Op dit moment, kan er een registratie sleutel worden gekocht of de proeftijd wor
 :registration_4_plug:
 Om Unraid OS te blijven gebruiken, moet een registratie sleutel worden gekocht. Anderzijds kan een proeftijdverlenging worden aangevraagd.
 
-De meeste proeftijdverlengingsaanvragen worden onmiddelijk verwerkt, maar houdt rekening met één werkdag voor het ontvangen van de sleutel.:end
+De meeste proeftijdverlengingsaanvragen worden onmiddelijk verwerkt, maar houdt rekening met één werkdag voor het ontvangen van de sleutel.
+:end
 
 :registration_5_plug:
 Het is niet mogelijk een *Proefsleutel* te gebruiken bij een bestaande Unraid OS installatie.
@@ -279,7 +283,8 @@ Indien dit een *Proef* installatie is, dan kan een registratie sleutel worden ge
 :registration_7_plug:
 *Proef* installaties zijn alleen geldig met een origineel geregistreerd USB opstartmedium.
 
-Om verder te kunnen met deze installatie van dit USB opstartmedium, kan een registratie sleutel worden gekocht.:end
+Om verder te kunnen met deze installatie van dit USB opstartmedium, kan een registratie sleutel worden gekocht.
+:end
 
 :registration_8_plug:
 Het registratie sleutelbestand komt niet overeen met de USB Flasg opslag.
