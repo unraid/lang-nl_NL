@@ -118,3 +118,5 @@ Unraid 6.10 is required for NFSv4 support=
 :ud_settings_change_uuid_plug:
 > Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen. 
 :end
+
+; Note: November 15, 2021 - 7 missing translations

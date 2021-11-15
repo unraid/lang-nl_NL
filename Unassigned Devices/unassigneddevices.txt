@@ -164,3 +164,5 @@ You will need to enter credentials for Windows 10 shares just to list them=U moe
 >
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
 :end
+
+; Note: November 15, 2021 - 18 missing translations
