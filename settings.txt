@@ -705,5 +705,3 @@ Your router or DNS server has DNS rebinding protection enabled, preventing=De ro
 Your server has been registered=Uw server is geregistreerd
 Your Unraid Server is reachable from the internet=Uw Unraid-server is bereikbaar via internet
 YYYY-MM-DD=JJJJ-MM-DD
-
-; Note: November 15, 2021 - 2 missing translations
