@@ -9,6 +9,7 @@ day=dag
 days=dagen
 disk image and definition=schijfimage en definitie
 Disks=Schijven
+Donate=
 Done=Klaar
 Edit=Bewerken
 Execution error=Uitvoeringsfout
@@ -63,3 +64,5 @@ Container Port=Container Poort
 Container Variable=Container Variabele
 Container Label=Container Label
 Container Device=Container apparaat
+
+; Note: November 15, 2021 - 1 missing translations
