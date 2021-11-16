@@ -306,3 +306,15 @@ Wrong key=Verkeerde sleutel
 xfs_repair status=xfs_repair status
 You may not add new disks and also remove existing disks=U mag geen nieuwe schijven toevoegen en geen bestaande schijven verwijderen
 your server=uw server
+
+; Sleep plugin translations
+Check this=
+for more information=
+Make sure your server supports S3 sleep=
+Sleep will immediately put the server in sleep mode=**Sleep** will immediately put the server in sleep mode
+Sleeping=
+System in sleep mode=
+This will put the system in sleep mode=
+wiki entry=
+
+; Note: November 16, 2021 - 8 missing translations
