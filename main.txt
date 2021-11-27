@@ -74,7 +74,6 @@ Dual parity valid requires ALL disks in their original slots=*Geldige dubbele pa
 Elapsed time=Verstreken tijd
 Enable user share assignment=Toewijzing voor gebruikersmappen
 enter disk index and device name as applicable to your controller=voer schijfindex en apparaatnaam in zoals van toepassing op de controller
-Erase=Wissen
 Erase Device Content=Wis inhoud van de opslag
 encrypted=versleuteld
 Encryption input=Versleutelingsinvoer
