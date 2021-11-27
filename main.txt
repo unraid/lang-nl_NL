@@ -175,7 +175,6 @@ registration key=Registratie code
 Registration Key Manager=Registratie Pagina
 reiserfsck status=reiserfsck status
 Rename Pool=Groep hernoemen
-Rename=Hernoemen
 Repair corrupted blocks=Repareer corrupte blokken
 Replacement disk installed=Vervangende schijf is geïnstalleerd
 Replacement disk is too small=Vervangende schijf is te klein
