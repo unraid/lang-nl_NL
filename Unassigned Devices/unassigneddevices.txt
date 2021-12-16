@@ -1,5 +1,6 @@
 Add ISO File Share=Voeg ISO bestandsmap toe 
-Add Remote SMBNFS Share=Externe SMBNFS map toevoegen 
+Add Remote SMB=
+NFS Share=
 An XFS or BTRFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=Een XFS- of BTRFS-schijf die is gepartitioneerd in UD is compatibel met de array-schijfpartitionering en kan aan de array worden toegevoegd 
 Any data on this disk will be lost=Alle gegevens op deze schijf gaan verloren 
 Are you sure=Weet u het zeker
@@ -7,7 +8,8 @@ Auto mount=Automatische koppelen
 Back=Terug
 Browse Disk Share=Bladeren door mappen op de schijf
 Browse ISO File Share=Bladeren door ISO bestandsmappen
-Browse Remote SMBNFS Share=Bladeren door externe SMBNFS map
+Browse Remote SMB=
+NFS Share=
 Choose File System Format=Kies Bestandssysteemindeling 
 Choose ISO File=Kies ISO bestand
 Choose Server=Kies server
@@ -15,7 +17,8 @@ Choose Share=Kies map
 Click on Icon to Choose Protocol=Klik op het pictogram om een protocol te kiezen 
 Change Disk Mount Point=Wijzig het schijfkoppelpunt
 Change ISO File Mount Point=Wijzig het ISO-bestandskoppelpunt
-Change SMBNFS Mount Point=Wijzig het SMBNFS-koppelpunt 
+Change SMB=
+NFS Mount Point=
 Changing the Mount Point will also change the disk label=Als u het koppelpunt wijzigt, wordt ook het schijflabel gewijzigd 
 Click to select ISO file=Klik om het ISO-bestand te selecteren 
 Click to view/hide partitions and mount points=
@@ -23,10 +26,12 @@ Complete=Compleet
 Disks=
 Disk Label=
 Disk Log Information=Schijflogboekinformatie 
+Do NOT use a remote share local mount in a Docker container or VM for critical data=
 Domain=Domein
 Edit Device Script=Bewerk apparaatscript 
 Edit ISO File Script=Bewerk ISO-bestandsscript 
-Edit Remote SMBNFS Script=Bewerk extern SMBNFS script
+Edit Remote SMB=
+NFS Script=
 Enter the Domain for the share if on a Domain=Voer het domein in voor de gedeelde map als u zich op in domein bevindt 
 Enter the Password if the share is password protected=Voer het wachtwoord in als de map met een wachtwoord is beveiligd 
 Enter the Username if the share is password protected=Voer de gebruikersnaam in als de map met een wachtwoord is beveiligd 
@@ -53,10 +58,13 @@ Mount=Koppelen
 Mounting=Koppelen
 NFS Shares=NFS mappen
 Next=Volgende
-No Remote SMBNFS or ISO File Shares configured=Geen externe SMBNFS- of ISO-bestandsmappen geconfigureerd
+No Remote SMB=
+NFS or ISO File Shares configured=
 No Unassigned Disks available=Geen niet-toegewezen schijven beschikbaar 
 not installed=
 Note=Notitie
+You must enable NFS in Settings->NFS to mount NFS shares=
+You must enable SMB in Settings->SMB to mount SMB shares=
 Open=Open
 Partition and Format Disk=Schijf partitioneren en formatteren
 Pass Thru=
@@ -69,7 +77,8 @@ Remote share mounts are dependent on a solid and reliable network connection and
 Remove Device configuration=Verwijder de apparaatconfiguratie 
 Remove ISO File Share=Verwijder ISO bestandsmap
 Remove Partition=Verwijder partitie
-Remove Remote SMBNFS Share=Verwijder externe SMBNFS map
+Remove Remote SMB=
+NFS Share=
 Remove partition=Partitie verwijderen 
 Run with CORRECT flag=Uitvoeren met de CORRECT flag
 Running=Ingeschakeld
@@ -101,9 +110,12 @@ Used=Gebruikt
 Username=Gebruikersnaam
 View Device Script Log=Bekijk apparaat logboek 
 View ISO File Script Log=Bekijk het ISO bestandsscript logboek 
-View Remote SMBNFS Script Log=Bekijk Remote SMBNFS Script logboek
+View Remote SMB=
+NFS Script Log=
+You must enable NFS in Settings->NFS to mount NFS shares=
+You must enable SMB in Settings->SMB to mount SMB shares=
 You must enable the Destructive Mode in UD Settings before you can Format this disk=
-WARNING: Do NOT use a remote share local mount in a Docker container or VM for critical data=
+WARNING=
 You WILL have problems if you do=
 You will need to enter credentials for Windows 10 shares just to list them=U moet de inloggegevens voor Windows 10-shares invoeren om deze weer te geven 
 
@@ -165,4 +177,4 @@ You will need to enter credentials for Windows 10 shares just to list them=U moe
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
 :end
 
-; Note: November 15, 2021 - 18 missing translations
+; Note: December 16, 2021 - 37 missing translations

@@ -126,4 +126,4 @@ Deze acties zijn van toepassing op alle mappen:
 > Klik op de knop 'Wissen' om het logboek te wissen. 
 :end
 
-; Note: November 15, 2021 - 4 missing translations
+; Note: December 16, 2021 - 4 missing translations
