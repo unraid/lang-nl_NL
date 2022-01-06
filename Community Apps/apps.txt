@@ -125,7 +125,7 @@ Fatal Flash Drive Error=Fatale Flash Drive-fout
 This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=Dit betekent meestal dat uw flashstation beschadigd is of offline is gevallen. De rest van de Unraid GUI wordt ook beïnvloed. Plaats een nieuw bericht in de Unraid-forums als deze fout zich blijft voordoen
 Fatal Docker Image Error=Fatale Docker-image fout
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=De docker-image of -map is ofwel alleen-lezen of volledig vol. Hierdoor zullen problemen het gevolg zijn. U moet een nieuw bericht maken in de Unraid-forums en uw diagnose toevoegen
-This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=
+This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=Deze sjabloon is ingesteld om een aangepast netwerk te gebruiken. Mogelijk moet u het netwerk of IP-adres enz. aanpassen aan uw systeem
 
 ; CA Sections Keep the length reasonable
 Installed Apps=Geïnstalleerde Apps
@@ -350,8 +350,8 @@ Click to edit the application values=Druk om de toepassing waarden te bewerken
 Click to reinstall=Druk om te herinstalleren
 Click to install=Druk om te installeren
 Click to go to the WebUI=Druk hier om naar de WebUI te gaan
-This application template has been deprecated=Dit toepassingsjabloon is verouderd
-This application template has been blacklisted=Dit toepassingsjabloon staat op de zwarte lijst
+This application template has been deprecated=Deze toepassingsjabloon is verouderd
+This application template has been blacklisted=Deze toepassingsjabloon staat op de zwarte lijst
 Click info to see the notes regarding this application=Klik op info om de opmerkingen over deze toepassing te zien
 This application has additional requirements=Deze toepassing heeft aanvullende vereisten
 BETA= BETA
@@ -363,9 +363,9 @@ This container is digitally signed=Deze container is digitaal ondertekend
 Docker Hub=Dockerhub
 NOTE You must visit the dockerHub page to gather the information required to install correctly=LETOP Je moet de dockerHub-pagina bezoeken om de informatie te verzamelen die nodig is om correct te installeren
 Show CA templates=CA sjablonen tonen
-Deprecated=
-Incompatible=
-Blacklisted=
+Deprecated=Verouderd
+Incompatible=Incompatibel
+Blacklisted=Op de zwarte lijst gezet
 
 Info=Info
 Attention=Attentie
