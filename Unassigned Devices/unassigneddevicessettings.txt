@@ -121,6 +121,8 @@ Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor o
 
 :ud_settings_nfs_shares_plug:
 > Stel in op **Ja** om NFS mappen te exporteren. Shares worden openbaar geëxporteerd met lees- en schrijftoegang of als privaat met de regel die u instelt. De toegang wordt gecontroleerd met machtigingsinstellingen voor bestanden en mappen. 
+>
+> **Opmerking:** De normale regel die door UD word gebuikt is '*(sec=sys,rw,insecure,anongid=100,anonuid=99,all_squash)'.
 :end
 
 :ud_settings_disk_pass_plug:
@@ -131,4 +133,4 @@ Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor o
 > Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen. 
 :end
 
-; Note: December 16, 2021 - 6 missing translations
+; Note: January 6, 2022 - 0 missing translations
