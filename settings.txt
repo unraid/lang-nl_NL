@@ -707,6 +707,6 @@ Your Unraid Server is reachable from the internet=Uw Unraid-server is bereikbaar
 YYYY-MM-DD=JJJJ-MM-DD
 
 ; New entries (3) - 2021-12-16
-Accumulation duration=
-Accumulation frequency=
-Cumulative parity check=
+Accumulation duration=Accumulatieduur
+Accumulation frequency=Accumulatie
+Cumulative parity check=Commulatieve partycontrole
