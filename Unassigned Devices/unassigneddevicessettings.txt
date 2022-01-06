@@ -10,12 +10,12 @@ Disk spin down is managed by Unraid=Het terugdraaien van de schijf wordt beheerd
 Enable NFS export=Schakel NFS-export in
 Enable SMB Security=Schakel SMB beveiliging in 
 Enter Disk Password=Voer het schijfwachtwoord in 
-Legacy Mount Point Compatibility=
+Legacy Mount Point Compatibility=Legacy Mount punt compatibiliteit
 Mount SSDs with discard option=Monteer SSD's met de optie discard
 NFS Security=NFS beveiliging 
 NFS Settings=NFS instellingen 
-NFS must be enabled in Settings->NFS to enable NFS Export=
-NFS Version to use when Mounting Remote Shares=
+NFS must be enabled in Settings->NFS to enable NFS Export=NFS moet ingeschakeld zijn in de instellingen->NFS om NFS export in the shakelen
+NFS Version to use when Mounting Remote Shares=NFS versie om the gebruiken voor het koppelen van externe gedeelde mappen 
 Rule=Regel
 SMB Security=SMB beveiliging 
 Select Disk to change UUID=Selecteer Schijf om UUID te wijzigen 
@@ -23,12 +23,12 @@ Select Disk=Selecteer Schijf
 Set Encrypted Disk Password=Stel een beveiligd schijfwachtwoord in 
 Set Password=Stel een wachtwoord in 
 Set the disk Password=Stel het schijfwachtwoord in 
-Specify SMB Version when Mounting Remote Shares=
+Specify SMB Version when Mounting Remote Shares=Specificeer de SMB-versie bij het koppelen van externe gedeelde mappen
 Spin down disks=Terugdraaien van de schijf
-The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=
+The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=De Unassigned Devices Plus plugin moet geïnstalleerd zijn om destructieve modus in te schakelen
 to SMB share config=naar SMB map configuratie 
 Unassigned Devices=Niet-toegewezen apparaten 
-Unraid 6.10 is required for NFSv4 support=
+Unraid 6.10 is required for NFSv4 support=Unraid 6.10 is vereist voor NFSv4 ondersteuning 
 
 ; Help
 ;
