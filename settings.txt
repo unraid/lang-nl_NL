@@ -709,4 +709,4 @@ YYYY-MM-DD=JJJJ-MM-DD
 ; New entries (3) - 2021-12-16
 Accumulation duration=Accumulatieduur
 Accumulation frequency=Accumulatie
-Cumulative parity check=Commulatieve partycontrole
+Cumulative parity check=Commulatieve pariteitscontrole
