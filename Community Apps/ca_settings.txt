@@ -17,4 +17,4 @@ Save CA debugging information=CA debug-informatie opslaan
 Only enable this when advised to from the author of Community Applications=Schakel dit alleen in als dit wordt geadviseerd door de auteur van Community Applications
 Enable developer mode=Ontwikkelaarsmodus inschakelen
 This unlocks some extra features within CA generally only used by developers Not recommended to enable=Dit ontgrendelt enkele extra functies binnen CA die over het algemeen alleen door ontwikkelaars worden gebruikt. Niet aanbevolen om in te schakelen
-Support Thread=Ondersteuningsdraad
+Support Thread=Ondersteuning
