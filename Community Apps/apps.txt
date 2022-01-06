@@ -126,6 +126,7 @@ This usually means your flash drive is corrupted or has dropped offline The rest
 Fatal Docker Image Error=Fatale Docker-image fout
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=De docker-image of -map is ofwel alleen-lezen of volledig vol. Hierdoor zullen problemen het gevolg zijn. U moet een nieuw bericht maken in de Unraid-forums en uw diagnose toevoegen
 This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=Deze sjabloon is ingesteld om een aangepast netwerk te gebruiken. Mogelijk moet u het netwerk of IP-adres enz. aanpassen aan uw systeem
+One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=Een of meerdere poorted gebruikt door deze applicatie zijn al in gebuik door een andere service of app die op uw server wordt uitgevoerd. U moet de hostpoorten aanpassen aan de hand van de template
 
 ; CA Sections Keep the length reasonable
 Installed Apps=Geïnstalleerde Apps
