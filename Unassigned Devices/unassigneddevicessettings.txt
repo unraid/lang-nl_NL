@@ -6,12 +6,13 @@ Change the disk UUID=Wijzig schijf UUID
 Common Script=Standaard script
 Common Settings=Standaard instellingen
 Destructive Mode=Destructieve modus 
-Disk spin down is managed by Unraid=Het terugdraaien van de schijf wordt beheerd door unRAID 
+Disk spin down is managed by Unraid=Het langzamer draaien van de schijf wordt beheerd door unRAID 
 Enable NFS export=Schakel NFS-export in
 Enable SMB Security=Schakel SMB beveiliging in 
 Enter Disk Password=Voer het schijfwachtwoord in 
+Enter Pool Mount Point=Voer het Pool Mount punt in
 Legacy Mount Point Compatibility=Legacy Mount punt compatibiliteit
-Mount SSDs with discard option=Monteer SSD's met de optie discard
+Mount SSDs with discard option=Mount SSD's met de optie discard
 NFS Security=NFS beveiliging 
 NFS Settings=NFS instellingen 
 NFS must be enabled in Settings->NFS to enable NFS Export=NFS moet ingeschakeld zijn in de instellingen->NFS om NFS export in the shakelen
@@ -22,13 +23,16 @@ Select Disk to change UUID=Selecteer Schijf om UUID te wijzigen
 Select Disk=Selecteer Schijf 
 Set Encrypted Disk Password=Stel een beveiligd schijfwachtwoord in 
 Set Password=Stel een wachtwoord in 
+Set Pool Mount Point=Stel Pool Mount punt in
+Set the Pool Mount Point for this disk=Zet het Pool Mount Point voor deze schijf
 Set the disk Password=Stel het schijfwachtwoord in 
 Specify SMB Version when Mounting Remote Shares=Specificeer de SMB-versie bij het koppelen van externe gedeelde mappen
-Spin down disks=Terugdraaien van de schijf
+Spin down disks=Laat schijven langzamer draaien
 The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=De Unassigned Devices Plus plugin moet geïnstalleerd zijn om destructieve modus in te schakelen
 to SMB share config=naar SMB map configuratie 
 Unassigned Devices=Niet-toegewezen apparaten 
-Unraid 6.10 is required for NFSv4 support=Unraid 6.10 is vereist voor NFSv4 ondersteuning 
+Unraid 6.10 or later is required for NFSv4 support=Unraid 6.10 of later is vereist voor NFSv4 ondersteuning 
+Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor ondersteuning
 
 ; Help
 ;
@@ -53,7 +57,7 @@ Unraid 6.10 is required for NFSv4 support=Unraid 6.10 is vereist voor NFSv4 onde
 :end
 
 :ud_settings_spin_down_plug:
-> Stel in op **Ja** om een timer voor het terugdraaien van de schijf van 15 minuten in te stellen. Stel in op **Nee** om schijven te laten draaien. 
+> Stel in op **Ja** om een timer voor het langzamer draaien van de schijf van 15 minuten in te stellen. Stel in op **Nee** om schijven te laten draaien. 
 :end
 
 :ud_settings_symlinks_plug:
