@@ -6,29 +6,33 @@ Change the disk UUID=Wijzig schijf UUID
 Common Script=Standaard script
 Common Settings=Standaard instellingen
 Destructive Mode=Destructieve modus 
-Disk spin down is managed by Unraid=Het terugdraaien van de schijf wordt beheerd door unRAID 
+Disk spin down is managed by Unraid=Het langzamer draaien van de schijf wordt beheerd door unRAID 
 Enable NFS export=Schakel NFS-export in
 Enable SMB Security=Schakel SMB beveiliging in 
 Enter Disk Password=Voer het schijfwachtwoord in 
-Legacy Mount Point Compatibility=
-Mount SSDs with discard option=Monteer SSD's met de optie discard
+Enter Pool Mount Point=Voer het Pool Mount punt in
+Legacy Mount Point Compatibility=Legacy Mount punt compatibiliteit
+Mount SSDs with discard option=Mount SSD's met de optie discard
 NFS Security=NFS beveiliging 
 NFS Settings=NFS instellingen 
-NFS must be enabled in Settings->NFS to enable NFS Export=
-NFS Version to use when Mounting Remote Shares=
+NFS must be enabled in Settings->NFS to enable NFS Export=NFS moet ingeschakeld zijn in de instellingen->NFS om NFS export in the shakelen
+NFS Version to use when Mounting Remote Shares=NFS versie om the gebruiken voor het koppelen van externe gedeelde mappen 
 Rule=Regel
 SMB Security=SMB beveiliging 
 Select Disk to change UUID=Selecteer Schijf om UUID te wijzigen 
 Select Disk=Selecteer Schijf 
 Set Encrypted Disk Password=Stel een beveiligd schijfwachtwoord in 
 Set Password=Stel een wachtwoord in 
+Set Pool Mount Point=Stel Pool Mount punt in
+Set the Pool Mount Point for this disk=Zet het Pool Mount Point voor deze schijf
 Set the disk Password=Stel het schijfwachtwoord in 
-Specify SMB Version when Mounting Remote Shares=
-Spin down disks=Terugdraaien van de schijf
-The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=
+Specify SMB Version when Mounting Remote Shares=Specificeer de SMB-versie bij het koppelen van externe gedeelde mappen
+Spin down disks=Laat schijven langzamer draaien
+The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=De Unassigned Devices Plus plugin moet geïnstalleerd zijn om destructieve modus in te schakelen
 to SMB share config=naar SMB map configuratie 
 Unassigned Devices=Niet-toegewezen apparaten 
-Unraid 6.10 is required for NFSv4 support=
+Unraid 6.10 or later is required for NFSv4 support=Unraid 6.10 of later is vereist voor NFSv4 ondersteuning 
+Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor ondersteuning
 
 ; Help
 ;
@@ -53,7 +57,7 @@ Unraid 6.10 is required for NFSv4 support=
 :end
 
 :ud_settings_spin_down_plug:
-> Stel in op **Ja** om een timer voor het terugdraaien van de schijf van 15 minuten in te stellen. Stel in op **Nee** om schijven te laten draaien. 
+> Stel in op **Ja** om een timer voor het langzamer draaien van de schijf van 15 minuten in te stellen. Stel in op **Nee** om schijven te laten draaien. 
 :end
 
 :ud_settings_symlinks_plug:
@@ -66,29 +70,29 @@ Unraid 6.10 is required for NFSv4 support=
 :end
 
 :ud_settings_specify_smb_vers_plug:
-> Set to **No** for Unassigned Devices to first try to mount remote shares by not setting the SMB version when mounting.
+Stel in op **Nee** voor niet-toegewezen apparaten om eerst externe shares te koppelen door de SMB-versie niet in te stellen bij het koppelen.
 >
-> Set to **Yes** for Unassigned Devices to only mount SMB remote shares specifying the SMB version.
+> Stel in op **Ja** voor niet-toegewezen apparaten om alleen externe SMB-shares te koppelen met vermelding van de SMB-versie.
 >
-> Some remote servers need to have the version specified.
+> Sommige externe servers moeten de opgegeven versie hebben.
 :end
 
 :ud_settings_debug_level_plug:
-> Setting a Debug Log Level adds additional logging in specific areas of UD for troubleshooting.
+>Het instellen van een Debug Log-niveau voegt extra logboekregistratie toe in specifieke gebieden van UD voor het oplossen van problemen.
 >
-> Set to **None** to turn off debug logging.
+> Stel in op **None** om debug logging uit te schakelen.
 >
-> Set the Debug Log Level to a numeric value to debug a specific area of UD.
+> Stel het niveau van het Debug Log Level in op een numerieke waarde om fouten op te sporen in een specifiek gebied van UD.
 >
-> **Note:** Don't leave the Debug Log Level on for extended periods of time.  It can add a lot of log messages to the syslog.
+> **Opmerking:** Laat het Debug Log Level niet voor langere tijd ingeschakeld. Het kan veel logberichten aan de syslog toevoegen.
 :end
 
 :ud_settings_specify_nfs_vers_plug:
-> Set to **NFSv3** to mount all NFS Remote Shares with NFSv3.
+> Stel in op **NFSv3** om alle NFS Remote Shares met NFSv3 te koppelen
 >
-> Set to **NFSv4** to mount all NFS Remote Shares with NFSv4.
+> Stel in op **NFSv4** om alle NFS Remote Shares met NFSv4 te koppelen.
 >
-> All NFS remote shares will be mounted with the specified version.
+> Alle externe NFS-shares worden aangekoppeld met de opgegeven versie.
 :end
 
 :ud_settings_smb_security_plug:
@@ -100,13 +104,13 @@ Unraid 6.10 is required for NFSv4 support=
 :end
 
 :ud_settings_case_sensitive_plug:
-> Controls whether filenames are case-sensitive.
+> Bepaalt of bestandsnamen hoofdlettergevoelig zijn.
 >
-> The default setting of **Auto** allows clients that support case sensitive filenames (Linux CIFSVFS) to tell the Samba server on a per-packet basis that they wish to access the file system in a case-sensitive manner (to support UNIX case sensitive semantics). No Windows system supports case-sensitive filenames so setting this option to auto is the same as setting it to No for them; however, the case of filenames passed by a Windows client will be preserved. This setting can result in reduced performance with very large directories because Samba must do a filename search and match on passed names.
+> De standaardinstelling **Auto** kunnen clients die hoofdlettergevoelige bestandsnamen ondersteunen (Linux CIFSVFS) de Samba-server per pakket laten weten dat ze hoofdlettergevoelig toegang willen krijgen tot het bestandsysteem (om  UNIX hoofdletters te ondersteunen). Geen enkel Windows-systeem ondersteunt hoofdlettergevoelige bestandsnamen, dus het instellen van deze optie op automatisch is hetzelfde als het instellen op Nee;  het geval van bestandsnamen die door een Windows-client zijn doorgegeven, blijft echter behouden. Deze instelling kan resulteren in verminderde prestaties bij zeer grote mappen omdat Samba moet zoeken op bestandsnamen en moet overeenkomen met doorgegeven namen.
 >
-> A setting of **Yes** means that files are created with the case that the client passes, and only accessible using this same case. This will speed very large directory access, but some Windows applications may not function properly with this setting. For example, if "MyFile" is created but a Windows app attempts to open "MYFILE" (which is permitted in Windows), it will not be found.
+> Een instelling van **Ja** betekent dat bestanden worden gemaakt met de case die de client doorgeeft, en alleen toegankelijk zijn met dezelfde case. Dit versnelt de toegang tot zeer grote mappen, maar sommige Windows-toepassingen werken mogelijk niet goed met deze instelling. Als bijvoorbeeld "MijnBestand" is gemaakt, maar een Windows-app probeert "MIJNBESTAND" te openen (wat is toegestaan ​​in Windows), zal het niet worden gevonden.
 >
-> A value of **Forced lower** is special: the case of all incoming client filenames, not just new filenames, will be set to lower-case. In other words, no matter what mixed case name is created on the Windows side, it will be stored and accessed in all lower-case. This ensures all Windows apps will properly find any file regardless of case, but case will not be preserved in folder listings.
+> Een waarde van **Gedwongen lager** is speciaal: het geval van alle inkomende clientbestandsnamen, niet alleen nieuwe bestandsnamen, wordt ingesteld op kleine letters. Met andere woorden, het maakt niet uit welke naam in hoofdletters aan de Windows-kant wordt gemaakt, deze wordt opgeslagen en geopend in kleine letters. Dit zorgt ervoor dat alle Windows-apps elk bestand correct kunnen vinden, ongeacht het geval, maar het geval wordt niet bewaard in maplijsten.
 :end
 
 :ud_settings_force_user_plug:
@@ -117,6 +121,8 @@ Unraid 6.10 is required for NFSv4 support=
 
 :ud_settings_nfs_shares_plug:
 > Stel in op **Ja** om NFS mappen te exporteren. Shares worden openbaar geëxporteerd met lees- en schrijftoegang of als privaat met de regel die u instelt. De toegang wordt gecontroleerd met machtigingsinstellingen voor bestanden en mappen. 
+>
+> **Opmerking:** De normale regel die door UD word gebuikt is '*(sec=sys,rw,insecure,anongid=100,anonuid=99,all_squash)'.
 :end
 
 :ud_settings_disk_pass_plug:
@@ -127,4 +133,4 @@ Unraid 6.10 is required for NFSv4 support=
 > Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen. 
 :end
 
-; Note: December 16, 2021 - 6 missing translations
+; Note: January 6, 2022 - 0 missing translations
