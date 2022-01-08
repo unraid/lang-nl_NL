@@ -10,11 +10,11 @@ Bits per second=Bits per seconde
 Bytes per second=Bytes per seconde
 CPU graph scaling=CPU grafiek schaling
 Disk Stats=Schijf Statestieken
-Ethernet interface=Ethernet interface=
+Ethernet interface=Ethernet koppelvlak
 Four=Vier
-Header menu=Hooofdmenu
+Header menu=Hoofdmenu
 Initial graphing mode=Initiële grafiekmodus
-Initial real-time sliding window=Initieel  real-time sliding window
+Initial real-time sliding window=Initieel real-time sliding window
 Last day=Laatste dag
 Last 2 days=Laatste 2 dagen
 Last 3 days=Laatste 3 dagen
@@ -22,21 +22,21 @@ Last week=Laatste week
 Last 2 weeks=Laatste 2 weken
 Last 3 weeks=Laatste 3 weken
 Last month=Laatste maand
-Network graph display unit=Netwerk grafiek weergave unit
+Network graph display unit=Netwerkgrafiek weergave eenheid
 Opening page=Openingspagina
 Pair=Paar
 Placement of Stats menu=Plaatsing van Statestieken menu
 Position of disk utilization percentage=Positie van schijfgebruik percentage
 Real-time=Real-time
-Show disk size=Toon schijfgrote
+Show disk size=Toon schijfgrootte
 Since start=Sinds start
 Single=Enkel
 Storage=Opslag
 System graphs view per row=Systeemgrafieken per rij
-System Stats=Systeem statistieken
+System Stats=Systeemstatistieken
 Three=Drie
-Tools menu=Gereedschap menu
-Viewable system graphs=Bekijkbare systeem grafieken
+Tools menu=Gereedschapsmenu
+Viewable system graphs=Bekijkbare systeemgrafieken
 
 :stats_utilization_plug:
 > Het getal voor het schijfgebruikspercentage kan aan het begin (links) of aan het eind (rechts) van de balk worden geplaatst.
