@@ -6,7 +6,6 @@ please wait, obtaining=wacht a.u.b, verkrijgen van gegevens
 Workgroup=Werkgroep
 
 :smb_workgroup_plug:
-> Enter your local network Workgroup name. Usually this is "WORKGROUP".
 > Voer lokale Werkgroep naam in. Gewoonlijk is dit "WERKGROEP"/"WORKGROUP".
 :end
 
