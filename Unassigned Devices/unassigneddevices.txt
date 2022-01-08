@@ -66,7 +66,7 @@ You must enable NFS in Settings->NFS to mount NFS shares=Je moet NFS inschakelen
 You must enable SMB in Settings->SMB to mount SMB shares=Je moet SMB inschakelen in Instellingen->SMB om SMB shares te koppelen
 Open=Open
 Partition and Format Disk=Schijf partitioneren en formatteren
-Pass Thru=
+Pass Thru=Passeren
 Password=Wachtwoord 
 Read only=Alleen lezen
 Refresh Disks and Configuration=Schijven en configuratie vernieuwen
@@ -174,5 +174,3 @@ You will need to enter credentials for Windows shares just to list them=U moet d
 >
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
 :end
-
-; Note: January 8, 2022 - 1 missing translations
