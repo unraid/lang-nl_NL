@@ -42,7 +42,6 @@ Volume=Volume
 Niet-toegewezen apparaten tonen de actieve status van het gebruikersscript dat
 dit apparaat gaat gebruiken. Dit veld wordt alleen ingeschakeld als er een apparaatscriptbestand bestaat.
 :end
-<?endif;?>
 
 :ud_edit_script_run_background_plug:
 > Schakel **Uitvoeren op achtergrond** in om het apparaatscript te 
@@ -56,5 +55,3 @@ apparaten vastloopt wanneer het apparaatscript wordt uitgevoerd vanuit de gebrui
 > Klik op de knop **Standaard** om het invoervak ​​te initialiseren met een standaardapparaatscript.
 > U moet nog steeds op **Opslaan** klikken om de wijziging door te voeren.
 :end
-
-; Note: January 8, 2022 - 1 missing translations
