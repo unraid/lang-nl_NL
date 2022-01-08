@@ -1,0 +1,39 @@
+File Activity=Bestand Activiteit
+File Activity Monitoring=Bestand Activiteit Monitoring
+Start File Activity=Start Bestand Activiteit
+Stop File Activity Monitoring=Stop Bestand Activiteit Monitoring
+Clear the File Activity log=Wis het Bestand Activiteit log
+Refresh log=Vernieuw log
+Enable File Activity Monitoring=Shakel Bestand Activiteit Monitoring in 
+Enable for Unassigned Devices=Inschakelen voor niet-toegewezen apparaten
+Enable for Cache and Pool Disks=Inschakelen voor Cache en Pool schijven
+;
+; Help
+;
+:file_activity_loggging_plug:
+> File Activity Monitoring:
+>
+> De activiteit van het openen, lezen, schrijven en wijzigen van bestanden wordt gecontroleerd en gelogd op de array met inotify en wordt weergegeven per schijf of share, UD-schijven en cache.
+> U moet File Activity starten om de schijfactiviteit te kunnen loggen.
+> Bestand Activiteit is bedoeld om korte periodes te draaien, zodat u schijfactiviteit kunt controleren.
+> Een server met veel bestandsactiviteit kan de logruimte vullen.
+> De 'appdata' en 'Syslog' mappen zijn uitgesloten
+>
+> Note: File Activity monitoring is stopped if the array is stopped, and will restart when the array is started if it is enabled.
+:end
+
+:file_activity_enable_logging_plug:
+> Stel in op **Ja** om monitoring van bestandsactiviteit in te schakelen wanneer de server wordt gestart.
+:end
+
+:file_activity_enable_ud_plug:
+> Stel in op **Ja** om bestandsactiviteit monitoring voor niet-toegewezen apparaten in te schakelen als de niet-toegewezen apparaten plugin is geïnstalleerd.
+:end
+
+:file_activity_enable_cache_plug:
+> Stel in op **Ja** om monitoring van bestandsactiviteit voor de cache- en poolschijven in te schakelen.  Pool-schijven zijn alleen van toepassing in Unraid 6.9.
+:end
+
+:file_activity_log_by_plug:
+> Instellen op **Schijf** om schijfactiviteit te loggen.  Stel in op **Delen** om share-activiteiten te loggen.
+:end
