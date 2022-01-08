@@ -62,6 +62,7 @@ When parity operation is running=Wanneer de pariteitsoperatie loopt
 > De gebiedsselectie kan worden gefilterd door mappen (shares) uit te sluiten en/of schijven in hun geheel uit te sluiten (zie onderstaande tabel).
 >
 > Wanneer de automatische hashing is uitgeschakeld, is handmatige controle vereist om de informatie up-to-date te houden.
+:end
 
 :integrity_hashing_plug:
 > Selecteer de gewenste hashing methode. SHA2 genereert een 256 bits checksumwaarde, MD5 genereert een 128 bits checksumwaarde, terwijl BLAKE2 een 512 bits checksumwaarde per bestand genereert.
