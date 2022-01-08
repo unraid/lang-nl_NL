@@ -267,8 +267,8 @@ OtherUncategorized=Overige:Ongesorteerd
 and %s more=en %s meer
 
 ; App Popup Related
-This application template has been blacklisted=Dit toepassingsjabloon staat op de zwarte lijst
-This application template has been deprecated=Dit toepassingsjabloon is verouderd
+This application template has been blacklisted=Deze toepassingsjabloon staat op de zwarte lijst
+This application template has been deprecated=Deze toepassingsjabloon is verouderd
 This application has additional requirements=Deze toepassing heeft aanvullende vereisten
 Additional Requirements=Aanvullende vereisten
 Donate To Author=Donatie aan de auteur
@@ -393,5 +393,3 @@ View Missing Translations=Toon ontbrekende translaties
 
 ; WebGui
 Click Install to download and install the Community Applications plugin=Klik op **Installeren** om de **Community Applications** plug-in te downloaden en te installeren
-
-; Note: December 16, 2021 - 4 missing translations

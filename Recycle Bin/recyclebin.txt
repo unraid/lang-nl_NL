@@ -125,5 +125,3 @@ Deze acties zijn van toepassing op alle mappen:
 > De verwijderde bestanden worden in het logboek weergegeven als niet-gekoppelde bestanden.
 > Klik op de knop 'Wissen' om het logboek te wissen. 
 :end
-
-; Note: December 16, 2021 - 4 missing translations

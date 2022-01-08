@@ -77,7 +77,6 @@ Viewable system graphs=Bekijkbare systeem grafieken
 >
 > Intern wordt informatie bijgehouden met een maandelijks roterend mechanisme. Elke dag wordt in een apart bestand opgeslagen.
 :end
-
 :stats_realtime_plug:
 > Real-time grafieken worden gemaakt op een variabele manier. Bv. 5 minuten worden eerst gevuld en dan begint het te verschuiven met elk nieuw staal toegevoegd aan het einde.
 >

@@ -1,6 +1,6 @@
 Click the 'Default' button to select the default Device Script File=Klik op de knop 'Standaard' om het standaardapparaatscript bestand te selecteren
 Default=Standaard
-Delete Device Script File=Verwijder Apparaat Script Bestand
+Delete Device Script File=Verwijder Apparaat Script
 Edit Device Script=Bewerk Apparaat Script
 Enter Device Script File Name=Voer Apparaat Script Bestandsnaam in
 Enter and Edit the Device Script that runs when a udev or operator event occurs=Voer het apparaatscript in en bewerk het Apparaat Script dat word uitgevoerd wanneer udev- of of operatorgebeurtenis plaatsvindt
@@ -42,13 +42,12 @@ Volume=Volume
 Niet-toegewezen apparaten tonen de actieve status van het gebruikersscript dat
 dit apparaat gaat gebruiken. Dit veld wordt alleen ingeschakeld als er een apparaatscriptbestand bestaat.
 :end
-<?endif;?>
+<?endif;?>=
 
 :ud_edit_script_run_background_plug:
 > Schakel **Uitvoeren op achtergrond** in om het apparaatscript te 
 laten draaien als een achtergrond taak. Dit kan voorkomen dat de gebruikersinterface voor niet-toegewezen 
 apparaten vastloopt wanneer het apparaatscript wordt uitgevoerd vanuit de gebruikersinterface.
-
 :end
 
 :ud_edit_script_buttons_plug:
@@ -58,4 +57,4 @@ apparaten vastloopt wanneer het apparaatscript wordt uitgevoerd vanuit de gebrui
 > U moet nog steeds op **Opslaan** klikken om de wijziging door te voeren.
 :end
 
-; Note: January 6, 2022 - 0 missing translations
+; Note: January 8, 2022 - 1 missing translations
