@@ -1,4 +1,4 @@
-Hotplug USB=
+Hotplug USB=Hotplug USB
 Running VMs=Werkende VMs
 Attach=Koppel
 Attach the USB device to the selected VM=Koppel het USB apparaat aan de geselecteerde VM
