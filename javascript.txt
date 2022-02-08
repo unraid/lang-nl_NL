@@ -47,6 +47,8 @@ Yes, update it=Ja, bijwerken
 Yes=Ja
 
 ; footer messages
+Array Copying=Array kopiëren
+Array Clearing=Array leegmaken
 Array Starting=Array wordt gestart
 Array Stopping=Array wordt gestopt
 Mounting disks=Schijven koppelen
