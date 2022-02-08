@@ -3,6 +3,8 @@
 12 hours=12 uur
 24 hours=24 uur
 8023ad=802.3ad
+Accumulation duration=Accumulatieduur
+Accumulation frequency=Accumulatie
 Activate=Activeren
 Activated=Geactiveerd
 Activating=Activeren
@@ -110,6 +112,7 @@ CPU Pinning Docker=CPU Klemming Docker
 CPU Pinning VM=CPU Klemming VM
 CPU Pinning=CPU Klemming
 CRAM-MD5=CRAM-MD5
+Cumulative parity check=Commulatieve pariteitscontrole
 Current date and time=Huidige datum en tijd
 Custom attributes use comma to separate numbers=Aangepaste attributen (gebruik komma om getallen te scheiden)
 Custom banner=Aangepaste banner
@@ -705,8 +708,3 @@ Your router or DNS server has DNS rebinding protection enabled, preventing=De ro
 Your server has been registered=Uw server is geregistreerd
 Your Unraid Server is reachable from the internet=Uw Unraid-server is bereikbaar via internet
 YYYY-MM-DD=JJJJ-MM-DD
-
-; New entries (3) - 2021-12-16
-Accumulation duration=Accumulatieduur
-Accumulation frequency=Accumulatie
-Cumulative parity check=Commulatieve pariteitscontrole
