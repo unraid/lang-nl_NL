@@ -1,5 +1,6 @@
 A format is NEVER part of a data recovery or disk rebuild process and if done in such circumstances will normally lead to loss of all data on the disks being formatted=Formatteren is **NOOIT** onderdeel van gegevensherstel of diskopbouw en leidt tot gegevensverlies wanneer onbedoeld schijven worden geformatteerd
 Aborted=Afgebroken
+Action=Actie
 Add=Toevoegen
 Add Pool=Groep toevoegen
 All existing data on this device will be OVERWRITTEN when array is Started=Alle bestaande gegevens op deze opslag worden OVERSCHREVEN wanneer de array is gestart
@@ -55,6 +56,7 @@ Critical disk utilization threshold=Schijfgebruik alertniveau
 Current operation %s on %s=Huidige bewerking %s op **%s**
 Current position=Huidige positie
 Custom attributes use comma to separate numbers=Aangepaste attributen (gebruik komma om getallen te scheiden)
+Data-Rebuild in progress=Gegevensherbouw is bezig
 Date of purchase=Aankoopdatum
 Date=Datum
 Delete Pool=Groep verwijderen
@@ -153,6 +155,7 @@ Parity-Check in progress=Pariteitscontrole is bezig
 Parity Operation History=Pariteitsoperatie Overzicht
 ParityRead-Check History=Pariteits-/Leescontrole overzicht
 Parity-SyncData-Rebuild in progress=Pariteitssynchronisatie/gegevensherbouw is bezig
+Parity-Sync in progress=Pariteitssynchronisatie is bezig
 Partition format=Partitie formaat
 Partition size=Partitie grootte
 Passed=Geslaagd
@@ -339,5 +342,3 @@ Sleeping=Slapend
 System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
-
-; Note: February 8, 2022 - 19 missing translations
