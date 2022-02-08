@@ -174,6 +174,7 @@ Proceed to start=Doorgaan met starten
 Raw Value=Ruwe waarde
 Raw View=Ruwe weergave
 Read-Check in progress=Leescontrole is bezig
+Reading=Lezen
 Reboot in safe mode=Herstarten in veilige modus
 registration key=Registratie code
 Registration Key Manager=Registratie Pagina
@@ -344,3 +345,5 @@ Sleeping=Slapend
 System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
+
+; Note: February 8, 2022 - 1 missing translations
