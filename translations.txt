@@ -733,6 +733,7 @@ Objects to change=Objecten om te veranderen
 Objects to copy=Objecten om te kopiëren
 Objects to delete=Objecten om te verwijderen
 Objects to move=Objecten om te verplaatsen
+Other=Anders
 Overwrite existing file=Bestaand bestand overschrijven
 Overwrite existing files=Bestaande bestanden overschrijven
 Owner=Eigenaar
