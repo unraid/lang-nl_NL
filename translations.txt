@@ -692,6 +692,7 @@ Copy File=Bestand kopiëren
 Copy Folder=Map kopiëren
 Copy Share=Gedeelde Map kopiëren
 copy to=kopiëer naar
+Create=Aanmaken
 Create Folder=Map aanmaken
 Creating=Aanmaken
 Current file name=Huidige bestandsnaam
