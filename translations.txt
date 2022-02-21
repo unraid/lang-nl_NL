@@ -687,6 +687,7 @@ change owner=wijzig eigenaar
 Change Owner=Wijzig eigenaar
 change permission=wijzig toestemming
 Change Permission=Wijzig toestemming
+Completed=Voltooid
 Copy Device=Opslag kopiëren
 Copy File=Bestand kopiëren
 Copy Folder=Map kopiëren
