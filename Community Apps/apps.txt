@@ -395,4 +395,4 @@ View Missing Translations=Toon ontbrekende translaties
 ; WebGui
 Click Install to download and install the Community Applications plugin=Klik op **Installeren** om de **Community Applications** plug-in te downloaden en te installeren
 
-; Note: February 19, 2022 - 2 missing translations
+; Note: February 25, 2022 - 2 missing translations

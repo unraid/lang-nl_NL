@@ -176,4 +176,4 @@ You will need to enter credentials for Windows shares just to list them=U moet d
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
 :end
 
-; Note: February 19, 2022 - 1 missing translations
+; Note: February 25, 2022 - 1 missing translations

@@ -67,6 +67,7 @@ Device is part of a pool=Opslag is onderdeel van een groep
 Device locked unknown error=Opslag is vergrendeld: onbekende fout
 Device locked wrong encryption key=Opslag is vergrendeld: verkeerde versleuteling
 Device to be encrypted=Opslag wordt versleuteld
+Disable Spin down delay to run a SMART extended self-test=Disable **Spin down delay** to run a SMART extended self-test
 Disk in parity slot is not biggest=Schijf in pariteit slot is niet de grootste
 Disk Log Information=Schijflogboekinformatie
 Disk-Clear in progress=Schijf leegmaken is bezig
@@ -345,3 +346,5 @@ Sleeping=Slapend
 System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
+
+; Note: February 25, 2022 - 1 missing translations
