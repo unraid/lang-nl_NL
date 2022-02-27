@@ -64,4 +64,4 @@ apparaten vastloopt wanneer het apparaatscript wordt uitgevoerd vanuit de gebrui
 > U moet nog steeds op **Opslaan** klikken om de wijziging door te voeren.
 :end
 
-; Note: February 25, 2022 - 2 missing translations
+; Note: February 27, 2022 - 2 missing translations
