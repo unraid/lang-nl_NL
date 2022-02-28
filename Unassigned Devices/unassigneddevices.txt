@@ -46,7 +46,7 @@ ISO File is=ISO bestand is
 ISO File Shares=ISO bestandsdeling 
 Identification=Identificatie 
 If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=Als u een schijfwachtwoord gebruikt, zorg er dan voor dat u het wachtwoord voor deze schijf in UD-instellingen invoert, zodat deze kan worden gekoppeld 
-Device=
+Device=Apparaat
 Leave blank to use the array passwordpassphrase=Laat leeg om de wachtwoordzin van de array te gebruiken 
 Load Shares=Laad mappen
 Loading=Aan het laden
@@ -176,4 +176,4 @@ You will need to enter credentials for Windows shares just to list them=U moet d
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
 :end
 
-; Note: February 27, 2022 - 1 missing translations
+; Note: February 27, 2022 - 0 missing translations
