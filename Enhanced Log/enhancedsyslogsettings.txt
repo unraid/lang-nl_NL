@@ -140,7 +140,7 @@ Other Highlight Color=Overige markeerkleur
 > Hoofdletters worden genegeerd in de zoekstring en wild cards zijn toegestaan.
 > Voorbeelden:
 > "found.*chip" zal overeenkomen met elke string met 'found' en 'chip' met elke tekst ertussen,
-> "(spinup|spindown)" zal overeenkomen met elke string met ofwel 'spinup' ofwel 'spindown'. 
+> "(spinup|spindown)" zal overeenkomen met elke string met ofwel 'spinup' ofwel 'spindown'.
 > De zoek string en de gebeurtenis zijn tussen aanhalingstekens geplaatst, en elke regel bevat één combinatie van een match string en gebeurtenis.  Fouten in de strings kunnen php-fouten veroorzaken.
 > Gebeurtenissen zijn: "error", "minor issues", "lime tech", "array", "system", "file system", "drive related", "network", "login", "emhttp", "other".
 :end

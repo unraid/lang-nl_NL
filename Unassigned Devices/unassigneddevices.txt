@@ -116,7 +116,7 @@ You must enable SMB in Settings->SMB to mount SMB shares=Je moet SMB inschakelen
 You must enable the Destructive Mode in UD Settings before you can Format this disk=Je moet Destructieve modus inschakelen in UD Installingen voor je de schijf kan formatteren
 WARNING=WAARSCHUWING
 You WILL have problems if you do=Je ZAL problemen hebben als je dit doet
-You will need to enter credentials for Windows shares just to list them=U moet de inloggegevens voor Windows shares invoeren om deze weer te geven 
+You will need to enter credentials to list the shares=
 
 ; Help
 ;
@@ -172,8 +172,10 @@ You will need to enter credentials for Windows shares just to list them=U moet d
 > + '/usr/local/sbin/rc.unassigned umount /dev/sdX' - ontkoppel apparaat sdX waarbij 'X' de apparaataanduiding is. U kunt deze opdracht in een UD-script gebruiken om het apparaat te ontkoppelen wanneer het script is voltooid.
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - gebruikt aan het einde van de 'ADD' case of bij een script waar de 'Running...' indicator word geupdate.
 > + '/usr/local/sbin/rc.unassigned spindown devX' - terugdraaien van de schijf. De devX is de apparaatnaam op de UD-pagina. Als de apparaatnaam 'Dev 1' in gebruik is gebruik dan dev1 om het apparaat terug te laten draaien. Dit is niet mogelijk voor SSD's. 
+> + '/usr/local/sbin/rc.unassigned mount SOURCE' - where SOURCE is the SMB/NFS source.
+> + '/usr/local/sbin/rc.unassigned umount SOURCE' - where SOURCE is the SMB/NFS source.
 >
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
 :end
 
-; Note: February 27, 2022 - 0 missing translations
+; Note: March 1, 2022 - 3 missing translations

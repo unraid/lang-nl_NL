@@ -347,5 +347,3 @@ Sleeping=Slapend
 System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
-
-; Note: February 27, 2022 - 1 missing translations

@@ -2,6 +2,7 @@ Click the 'Default' button to select the default Device Script File=Klik op de k
 Default=Standaard
 Delete Device Script File=Verwijder Apparaat Script
 Device Script content=Apparaat Script inhoud
+Disable Mount=
 Disk Name=Schijf Naam
 Edit Device Script=Bewerk Apparaat Script
 Enter Device Script File Name=Voer Apparaat Script Bestandsnaam in
@@ -64,4 +65,4 @@ apparaten vastloopt wanneer het apparaatscript wordt uitgevoerd vanuit de gebrui
 > U moet nog steeds op **Opslaan** klikken om de wijziging door te voeren.
 :end
 
-; Note: February 27, 2022 - 0 missing translations
+; Note: March 1, 2022 - 1 missing translations
