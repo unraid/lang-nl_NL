@@ -178,4 +178,4 @@ You will need to enter credentials to list the shares=
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
 :end
 
-; Note: March 1, 2022 - 3 missing translations
+; Note: March 11, 2022 - 1 missing translations
