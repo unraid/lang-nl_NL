@@ -505,6 +505,7 @@ Protocol=Protocol
 Provision=Voorzien
 QEMU version=QEMU versie
 readmodifywrite=lezen/aanpassen/schrijven
+recommended=
 reconstruct write=herbouwend schrijven
 Refreshing=Verversen
 Registration key required=Registratie sleutel nodig
@@ -715,4 +716,4 @@ Your server has been registered=Uw server is geregistreerd
 Your Unraid Server is reachable from the internet=Uw Unraid-server is bereikbaar via internet
 YYYY-MM-DD=JJJJ-MM-DD
 
-; Note: March 11, 2022 - 6 missing translations
+; Note: March 11, 2022 - 7 missing translations
