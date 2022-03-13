@@ -113,6 +113,8 @@ Information=Informatie
 Insufficient free disk space available=Onvoldoende beschikbare schijfruimte 
 Interrupted=Onderbroken
 Invalid configuration=Ongeldige configuratie
+invalid device=
+invalid devices=
 Invalid expansion=Ongeldige uitbreiding
 Invalid pool name=Ongeldige groepnaam
 Invalid, missing or expired=Ongeldig, missend of verlopen
@@ -347,3 +349,5 @@ Sleeping=Slapend
 System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
+
+; Note: March 13, 2022 - 2 missing translations
