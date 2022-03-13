@@ -46,7 +46,7 @@ Basic=Basic
 BIOS=BIOS
 Black=Zwart
 Blacklisted USB Flash GUID=Op de zwarte lijst geplaatste USB-flash-GUID
-bond down=
+bond down=bond niet actief
 Browse=Bladeren
 Browser cookie support required for Unraid OS webgui=Ondersteuning voor browsercookies vereist voor Unraid OS webgui
 Browser error=Browser fout
@@ -680,17 +680,17 @@ Remark Unraids WAN IPv4 %1s does not match your clients WAN IPv4 %2s=LETOP: Unra
 This may indicate a complex network that will not work with this Remote Access solution=Dit kan duiden op een complex netwerk dat niet werkt met deze Remote Access-oplossing
 Ignore this message if you are currently connected via Remote Access or VPN=Negeer dit bericht als u momenteel verbonden bent via Remote Access of VPN
 
-Automated flash backups will be disabled until you sign in again=
-Click to copy LAN IP %s=
+Automated flash backups will be disabled until you sign in again=Automatische flash-back-ups worden uittotdat u zich opnieuw aanmeldt
+Click to copy LAN IP %s=Klik om LAN IP %s te kopiëren
 DNS issue, unable to resolve wanip4unraidnet=DNS issue, unable to resolve wanip4.unraid.net
-Download latest backup from My Servers Dashboard=
+Download latest backup from My Servers Dashboard=Download de nieuwste back-up van Mijn servers Dashboard
 Have the code now Go Back=Have the code now? Go Back
-LAN IP Copied=
-Remote access will be disabled=
-Resend Code=
-Resend Email Verification Code=
-We have sent a verifcation email to %s=
-You will no longer have access to this server using this url=You will no longer have access to this server using <abbr title="%s" class="italic">this url</abbr>
+LAN IP Copied=LAN IP gekopieerd
+Remote access will be disabled=Toegang op afstand wordt uitgeschakeld
+Resend Code=Code nogmaals versturen
+Resend Email Verification Code=E-mailverificatiecode opnieuw verzenden
+We have sent a verifcation email to %s=We hebben een verificatie-e-mail gestuurd naar %s
+You will no longer have access to this server using this url=Je hebt geen toegang meer tot deze server met <abbr title="%s" class="italic">deze url</abbr>
 
 ; Dynamix File Manager - 2022-02-21
 %s year ago=%s jaar geleden
@@ -722,7 +722,7 @@ DEVICE=OPSLAG
 Device name=Opslagnaam
 Download File=Bestand downloaden
 Enter a valid target=Voer een geldig doel in
-File Manager=
+File Manager=Bestandsbeheer
 File name=Bestandsnaam
 file type=bestandstype
 Folder name=Mapnaam
@@ -804,5 +804,3 @@ Unrestricted access=Onbeperkte toegang
 Updating=Bijwerken
 year=jaar
 years=jaren
-
-; Note: March 13, 2022 - 13 missing translations
