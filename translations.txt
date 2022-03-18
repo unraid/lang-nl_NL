@@ -765,6 +765,7 @@ Rename Folder=Map hernoemen
 rename to=hernoem naar
 Renaming=Hernoemen
 Restricted access=Beperkte toegang
+Save=Opslaan
 Share name=Gedeelde mapnaam
 SHARE=GEDEELDE MAP
 Source device=Bronopslag
