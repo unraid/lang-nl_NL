@@ -113,6 +113,7 @@ Yes, install them=Ja, installeren
 Cookies not enabled Plugins must be separately installed from docker applications=Cookies niet ingeschakeld. Plug-ins moeten apart van docker toepassingen worden geïnstalleerd
 Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker toepassingen worden geïnstalleerd gebruikmakend van het meest recent opgeslagen sjabloon zonder verdere gebruikersinvoer
 Updating Support Links=Ondersteuningsverwijzingen bijwerken
+Downloading docker icons=
 Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=Klaar met installeren Als de KLAAR toets niet verschijnt, dan dient op de rode X rechtsboven te worden gedrukt
 
 ; error messages
@@ -134,12 +135,13 @@ This template is set up to use a custom network You may have to adjust the netwo
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=Een of meerdere poorted gebruikt door deze applicatie zijn al in gebuik door een andere service of app die op uw server wordt uitgevoerd. U moet de hostpoorten aanpassen aan de hand van de template
 
 ; CA Sections Keep the length reasonable
+Home=
 Installed Apps=Geïnstalleerde Apps
 Previous Apps=Vorige Apps
 Pinned Apps=Vastgezette Apps
 Favourite Repo=Favoriete Repo
+Action Centre=
 Recently Added=Recent toegevoegd
-Updated Apps=Bijgewerkte Apps
 Random Apps=Willekeurige Apps
 Top New Installs=Top nieuwe installaties
 Top Trending Apps=Populairste trending-apps
@@ -298,8 +300,8 @@ Ranked #%s=Geplaatst #%s
 Trending %s=Populair %s
 ; as in As of some date
 As of %s=(Vanaf %s)
-Show Charts=Grafieken tonen
-Hide Charts=Grafieken verbergen
+Play Video=
+Play Video %s=
 This application is not compatible with your version of Unraid=Deze toepassing is niet compatibel met deze versie van Unraid
 Another browser tab or device has updated the displayed templates Some actions are not available=Een andere browser pagina of apparaat heeft de getoonde sjablonen bijgewerkt. Sommige acties zijn niet beschikbaar
 WebUI=WebUI
@@ -326,6 +328,7 @@ Support Forum=Ondersteuningsforum
 ; as in more than 100000
 More than %s=Meer dan %s
 Remove from Previous Apps=Verwijderen uit vorige apps
+Remove=
 See All Apps=Zie alle Apps
 Favourite=Favoriet
 Application Type=Toepassingstype
@@ -409,4 +412,4 @@ An error occurred - Could not determine configuration=
 ; WebGui
 Click Install to download and install the Community Applications plugin=Klik op **Installeren** om de **Community Applications** plug-in te downloaden en te installeren
 
-; Note: April 2, 2022 - 9 missing translations
+; Note: May 7, 2022 - 15 missing translations
