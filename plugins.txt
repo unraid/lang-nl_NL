@@ -2,7 +2,7 @@
 anonymous=anoniem
 Author=Auteur
 Check For Updates=Zoek naar updates
-Checking connectivty=Connectiviteit controleren
+Checking connectivity=Connectiviteit controleren
 checking=controleren
 Click here to install version %s=Hier drukken om versie %s te installeren
 Delete Plugin=Plug-in Opruimen
