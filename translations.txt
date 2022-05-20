@@ -587,6 +587,7 @@ remaining=resterend
 Remote access=Toegang op afstand
 Replace Key=Sleutel vervangen
 Reset Password Now=Reset wachtwoord nu
+Searching=
 Secure remote access=Veilige toegang op afstand
 See also here=Zie ook hier
 Server Offline=Server is off-line
@@ -692,7 +693,7 @@ Resend Email Verification Code=E-mailverificatiecode opnieuw verzenden
 We have sent a verifcation email to %s=We hebben een verificatie-e-mail gestuurd naar %s
 You will no longer have access to this server using this url=Je hebt geen toegang meer tot deze server met <abbr title="%s" class="italic">deze url</abbr>
 
-; Dynamix File Manager - 2022-05-07
+; Dynamix File Manager - 2022-05-20
 %s year ago=%s jaar geleden
 %s years ago=%s jaar geleden
 Action=Actie
@@ -748,6 +749,7 @@ New file name=Nieuwe bestandsnaam
 New folder name=Nieuwe mapnaam
 New owner=Nieuwe eigenaar
 New permission=Nieuwe toestemming
+No results found=
 Not allowed to mix disk and user shares=Het is niet toegestaan om schijfmappen en gedeelde mappen te combineren
 Objects to change=Objecten om te veranderen
 Objects to copy=Objecten om te kopiëren
@@ -766,6 +768,8 @@ Rename Folder=Map hernoemen
 rename to=hernoem naar
 Renaming=Hernoemen
 Save=Opslaan
+Search=
+Search string=
 Share name=Gedeelde mapnaam
 SHARE=GEDEELDE MAP
 Source device=Bronopslag
@@ -805,7 +809,7 @@ Updating=Bijwerken
 year=jaar
 years=jaren
 
-; My Servers refactor - 2022-05-07
+; My Servers refactor - 2022-05-20
 
 A Trial key provides all the functionality of a Pro Registration key=Een proefsleutel biedt alle functionaliteit van een Pro-registratiesleutel
 All you need is an active internet connection, an Unraidnet account, and the <span>My Servers<span> plugin=Het enige dat nodig is, een actieve internetverbinding, een Unraid.net-account en de plug-in <span class="inline-block">Mijn servers</span>
@@ -845,6 +849,7 @@ Redeem Activation Code=
 Registration keys are bound to your USB Flash boot device serial number GUID=Registration keys are bound to your USB Flash boot device serial number (GUID)
 Remove My Servers plugin=
 Removing My Servers plugin=
+Replace Key Ineligible=
 Restart unraid-api=
 Restarting=
 Sign In Up=Sign In / Up
@@ -861,4 +866,4 @@ Your server will not be usable until you purchase a Registration key or install 
 Your Unraid registration key is ineligible for replacement as it is blacklisted=
 Oh no Are you pirating Unraid OS<br>Are you ready to buy a real license=Oh no! Are you pirating Unraid OS?<br>Are you ready to buy a real license?
 
-; Note: May 20, 2022 - 36 missing translations
+; Note: May 20, 2022 - 39 missing translations
