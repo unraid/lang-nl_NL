@@ -55,10 +55,6 @@ Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor o
 > Koppel SSD's die weggooien ondersteunen met de optie 'discard'. Als u de SSD-triminstellingen gebruikt om een periodieke trim van SSD's uit te voeren, kunt u dit instellen op ** Nee **. 
 :end
 
-:ud_settings_spin_down_plug:
-> Stel in op **Ja** om een timer voor het langzamer draaien van de schijf van 15 minuten in te stellen. Stel in op **Nee** om schijven te laten draaien. 
-:end
-
 :ud_settings_symlinks_plug:
 > Stel in op **Ja**  om symlinks te maken voor /mnt/remotes/ bij /mnt/disks/.
 >
