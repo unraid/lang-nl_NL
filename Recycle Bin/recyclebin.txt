@@ -122,5 +122,5 @@ Deze acties zijn van toepassing op alle mappen:
 > Prullenbak logboek:
 >
 > De verwijderde bestanden worden in het logboek weergegeven als niet-gekoppelde bestanden.
-> Klik op de knop 'Wissen' om het logboek te wissen. 
+> Klik op de knop 'Wissen' om het logboek te wissen.
 :end

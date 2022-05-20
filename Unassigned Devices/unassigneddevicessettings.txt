@@ -125,5 +125,5 @@ Stel in op **Nee** voor niet-toegewezen apparaten om eerst externe shares te kop
 :end
 
 :ud_settings_change_uuid_plug:
-> Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen. 
+> Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen.
 :end

@@ -189,7 +189,7 @@ You will need to enter credentials to list the shares=
 > + '/usr/local/sbin/rc.unassigned mount SOURCE' - where SOURCE is the SMB/NFS source.
 > + '/usr/local/sbin/rc.unassigned umount SOURCE' - where SOURCE is the SMB/NFS source.
 >
-> Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart. 
+> Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart.
 :end
 
 ; Note: May 20, 2022 - 15 missing translations
