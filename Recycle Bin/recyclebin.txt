@@ -15,6 +15,7 @@ Excluded Files=Uitgesloten bestanden
 Excluded Shares=Uitgesloten mappen
 Log Deleted Files=Log verwijderde bestanden 
 Recycle Bin=Prullenbak
+Recycle Bin is empty=
 Recycle Bin Log=Prullenbak logboek
 Recycle Bin parameters=Prullenbak parameters 
 Recycle Bin permissions=Prullenbak rechten
@@ -124,3 +125,5 @@ Deze acties zijn van toepassing op alle mappen:
 > De verwijderde bestanden worden in het logboek weergegeven als niet-gekoppelde bestanden.
 > Klik op de knop 'Wissen' om het logboek te wissen.
 :end
+
+; Note: May 29, 2022 - 1 missing translations
