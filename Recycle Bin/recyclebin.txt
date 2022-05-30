@@ -126,4 +126,4 @@ Deze acties zijn van toepassing op alle mappen:
 > Klik op de knop 'Wissen' om het logboek te wissen.
 :end
 
-; Note: May 29, 2022 - 1 missing translations
+; Note: May 30, 2022 - 1 missing translations
