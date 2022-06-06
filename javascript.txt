@@ -52,9 +52,14 @@ Array Clearing=Array leegmaken
 Array Starting=Array wordt gestart
 Array Stopping=Array wordt gestopt
 Mounting disks=Schijven koppelen
+Retry unmounting user shares=Retry unmounting user share(s)
 Spinning up all drives=Alle schijven opstarten
+Stale configuration=
 Starting services=Diensten starten
 Stopping services=Diensten stoppen
+Starting Recycle Bin=
+Stopping Recycle Bin=
+Sync filesystems=
 Unmounting disks=Schijven ontkoppelen
 Autostart disabled=Autostart uitgeschakeld
 Missing encryption key=Ontbrekende encryptie-sleutel
@@ -66,3 +71,5 @@ Container Port=Container Poort
 Container Variable=Container Variabele
 Container Label=Container Label
 Container Device=Container apparaat
+
+; Note: June 6, 2022 - 5 missing translations
