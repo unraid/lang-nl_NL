@@ -90,7 +90,6 @@ Remove ISO File Share=Verwijder ISO bestandsdeling
 Remove Partition=Verwijder partitie
 Remove Remote SMB=Verwijder Remote SMB
 Remove partition=Partitie verwijderen 
-Run with CORRECT flag=Uitvoeren met de CORRECT flag
 Running=Ingeschakeld
 Script=Script
 Search For Servers=Zoeken naar servers
