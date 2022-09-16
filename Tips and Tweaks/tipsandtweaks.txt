@@ -1,73 +1,74 @@
-Tips=Tips
-Tweaks=Vernieuwingen
-The Tips below are suggestions, workarounds for known problems, and potential fixes=De Tips hieronder zijn suggesties, tijdelijke oplossingen voor bekende problemen, en mogelijke oplossingen
-It is recommended that you update Unraid to the latest stable version to get the latest features, bug fixes, and security updates=Het wordt aanbevolen Unraid te updaten naar de laatste stabiele versie om de laatste functies, bug fixes, en veiligheidsupdates te krijgen
-Support for older versions of Unraid is being phased out=Ondersteuning voor oudere versies van Unraid wordt afgebouwd
-Many plugins are no longer compatible with older Unraid versons=Veel plugins zijn niet langer compatibel met oudere Unraid versies
-Install the Fix Common Problems plugin and resolve any Unraid configuration problems=Installeer de Fix Common Problems plugin en los alle Unraid configuratie problemen op
-Use the Update Assistant that is part of the Fix Common Problems plugin=Gebruik de Update Assistent die onderdeel is van de Fix Common Problems plugin
-This will identify potential problems to be solved before you upgrade the Unraid OS=Dit zal mogelijke problemen identificeren die opgelost moeten worden voordat u het Unraid OS upgrade
-Check the=Controleer de
-Tips and Tweaks wiki=Tips en Tweaks wiki
-for additional ideas on improving your Unraid performance and solving problems=voor aanvullende ideeën over het verbeteren van uw Unraid prestaties en het oplossen van problemen
-Some have reported better VM performance with media streaming and gaming VMs with the suggestions on this=Sommigen hebben betere VM prestaties gemeld met media streaming en gaming VMs met de suggesties op deze
-post=post
-Some have reported faster and more consistent network performance by making changes in networking parameters on the Tweaks tab of this plugin=Sommigen hebben snellere en consistentere netwerkprestaties gemeld door wijzigingen aan te brengen in de netwerkparameters op het tabblad Tweaks van deze plugin
-If you have an Intel Processor, it may appear that all CPUs are constantly running at full speed=Als je een Intel Processor hebt, kan het lijken of alle CPUs constant op volle snelheid draaien
-Read this=Lees dit
-for information on the issue=voor informatie over dit probleem
-If you set the 'Power Save' CPU Governor, you may see your processors stuck at 800 MHz=Als je de 'Power Save' CPU regelaar instelt, kan het lijken alsof je processoren vastzitten op 800 MHz
-It is recommended you use the 'Performance' Governor for best performance and power savings=Het is aanbevolen de 'Prestatie' regelaar te gebruiken voor de beste prestaties en energie besparingen
-It is recommended to use the pstate driver on Intel processors if you want the most performance=Het is aanbevolen om het pstate stuurprogramma te gebruiken op Intel processoren als je de beste prestaties wilt
-Note=Opmerking
-You can check CPU frequencies on the command line with=Je kunt CPU frequenties controleren op de commandoregel met
-The dashboard shows CPU loading and not CPU frequency=Het dashboard toont CPU belasting en niet CPU frequentie
-If you configure VLANs on Unraid, you should make Unraid the Master Browser=Als u VLANs configureert op Unraid, moet u Unraid de Master Browser maken
-If you dont Unraid may not detect the Master Browser for all network interfaces correctly=Als u dat niet doet kan het zijn dat Unraid de Master Browser voor alle netwerk interfaces niet correct detecteert
-Some people are reporting OOM out of memory errors=Sommige mensen rapporteren OOM out of memory errors
-This seems to be occurring more now because of the large amounts of memory being installed in Unraid and the default Disk Cache settings too high=Dit lijkt nu meer voor te komen door de grote hoeveelheden geheugen die in Unraid zijn geïnstalleerd en de standaard Disk Cache instellingen die te hoog zijn
-If you are experiencing OOM errors, try adjusting the Disk Cache settings on the Tweaks page=Als u OOM fouten ervaart, probeer dan de Disk Cache instellingen aan te passen op de Tweaks pagina
-There is a very cool feature in Unraid 6 and up that can be used to capture your logs and help in troubleshooting a situation where your server locks up or becomes unresponsive=Er is een zeer coole functie in Unraid 6 en hoger die kan worden gebruikt om uw logs vast te leggen en te helpen bij het oplossen van een situatie waar uw server blokkeert of niet meer reageert
-Go to Settings->Syslog Server and enable the Syslog Server=Ga naar Instellingen->Syslog Server en activeer de Syslog Server
-Put the IP address of your server in the Remote syslog server field=Zet het IP adres van je server in het Remote syslog server veld
-This will log all your server log enries to the Syslog Server and save the log to an array share=Dit zal al uw server log enries naar de Syslog Server loggen en de log opslaan op een array share
 After a reboot from a lockup or hung server, you can view the saved log using the Syslog viewer=Na een reboot van een lockup of vastgelopen server, kun je de opgeslagen log bekijken met de Syslog viewer
-The first thing you should do is to install the Fix Common Problems plugin to find and fix common problems=Het eerste wat je zou moeten doen is de Fix Common Problems plugin installeren om veel voorkomende problemen te vinden en op te lossen
-Correct any problems that are identified before doing any tweaking=Corrigeer alle problemen die gevonden zijn voordat je gaat tweaken
-You may actually cause more problems than you solve if there are problems with your Unraid configuration=U kunt meer problemen veroorzaken dan oplossen als er problemen zijn met uw Unraid configuratie
-Make one change at a time and verify if it improves your situation=Breng één verandering per keer aan en controleer of het uw situatie verbetert
-Make changes slowly=Voer veranderingen langzaam door
-Making changes here can briefly interrupt your network operation=Het doorvoeren van veranderingen hier kan uw netwerk operatie kort onderbreken
-Some of the settings will consume RAM and may end up causing Linux to terminate some processes to free up RAM=Sommige van de instellingen zullen RAM verbruiken en kunnen er uiteindelijk toe leiden dat Linux sommige processen moet beëindigen om RAM vrij te maken
+Check the=Controleer de
 Click on Help for more information=Klik op Help voor meer informatie
+Correct any problems that are identified before doing any tweaking=Corrigeer alle problemen die gevonden zijn voordat je gaat tweaken
+Current Disk Cache Settings=Huidige Schijf Cache Instellingen
+Current Inotify Settings=Huidige Inotify Instellingen
+Current NIC settings=Huidige NIC instellingen
 Disable NIC Flow Control=Schakel NIC Flow Control uit
 Disable NIC Offload=Uitschakelen NIC Offload
+Disk Cache=Schijf Cache
+Dont change the Disk Cache settings until you read and understand this=Verander de Disk Cache instellingen niet voordat u deze gids heeft gelezen en begrepen
+Driver=Stuurprogramma
+Enable Intel TurboAMD Performance Boost=Inschakelen Intel TurboAMD prestatieverhoging
+Enable syslog Archiving=Syslog Archivering Inschakelen
 Ethernet NIC Rx Buffer=Ethernet NIC Rx Buffer
 Ethernet NIC Tx Buffer=Ethernet NIC Tx Buffer
 Ethernet NICS=Ethernet NICS
-Dont change the Disk Cache settings until you read and understand this=Verander de Disk Cache instellingen niet voordat u deze gids heeft gelezen en begrepen
-Guide=Gids
-Disk Cache=Schijf Cache
-Max Watches=Max Wachten
-CPU Scaling Governor=CPU Schaling Governor
-Enable Intel TurboAMD Performance Boost=Inschakelen Intel TurboAMD prestatieverhoging
-Time to set=Tijd om in te stellen
-Enable syslog Archiving=Syslog Archivering Inschakelen
-Number of syslogs to Archive=Aantal syslogs te archiveren
-Processes to kill before Array is Stopped=Processen te stoppen voordat Array wordt gestopt
-Current NIC settings=Huidige NIC instellingen
-Current Disk Cache Settings=Huidige Schijf Cache Instellingen
-Current Inotify Settings=Huidige Inotify Instellingen
-CPU Frequency Scaling=CPU Frequentie Schalen
 Flow Control=Flow Controle
+for additional ideas on improving your Unraid performance and solving problems=voor aanvullende ideeën over het verbeteren van uw Unraid prestaties en het oplossen van problemen
+for information on the issue=voor informatie over dit probleem
+Go to Settings->Syslog Server and enable the Syslog Server=Ga naar Instellingen->Syslog Server en activeer de Syslog Server
+Governor=Governor
+Guide=Gids
+If you are experiencing OOM errors, try adjusting the Disk Cache settings on the Tweaks page=Als u OOM fouten ervaart, probeer dan de Disk Cache instellingen aan te passen op de Tweaks pagina
+If you configure VLANs on Unraid, you should make Unraid the Master Browser=Als u VLANs configureert op Unraid, moet u Unraid de Master Browser maken
+If you dont Unraid may not detect the Master Browser for all network interfaces correctly=Als u dat niet doet kan het zijn dat Unraid de Master Browser voor alle netwerk interfaces niet correct detecteert
+If you have an Intel Processor, it may appear that all CPUs are constantly running at full speed=Als je een Intel Processor hebt, kan het lijken of alle CPUs constant op volle snelheid draaien
+If you set the 'Power Save' CPU Governor, you may see your processors stuck at 800 MHz=Als je de 'Power Save' CPU regelaar instelt, kan het lijken alsof je processoren vastzitten op 800 MHz
+Install the Fix Common Problems plugin and resolve any Unraid configuration problems=Installeer de Fix Common Problems plugin en los alle Unraid configuratie problemen op
+It is recommended that you update Unraid to the latest stable version to get the latest features, bug fixes, and security updates=Het wordt aanbevolen Unraid te updaten naar de laatste stabiele versie om de laatste functies, bug fixes, en veiligheidsupdates te krijgen
+It is recommended to use the pstate driver on Intel processors if you want the most performance=Het is aanbevolen om het pstate stuurprogramma te gebruiken op Intel processoren als je de beste prestaties wilt
+It is recommended you use the 'Performance' Governor for best performance and power savings=Het is aanbevolen de 'Prestatie' regelaar te gebruiken voor de beste prestaties en energie besparingen
+Make changes slowly=Voer veranderingen langzaam door
+Make one change at a time and verify if it improves your situation=Breng één verandering per keer aan en controleer of het uw situatie verbetert
+Making changes here can briefly interrupt your network operation=Het doorvoeren van veranderingen hier kan uw netwerk operatie kort onderbreken
+Many plugins are no longer compatible with older Unraid versons=Veel plugins zijn niet langer compatibel met oudere Unraid versies
+Max Watches=Max Wachten
 NIC Offload=NIC Ontladen
 NIC Rx Buffer=NIC Rx Buffer
 NIC Tx Buffer=NIC Tx Buffer
+Normal CPU Scaling Governor=
+Note=Opmerking
+Number of syslogs to Archive=Aantal syslogs te archiveren
+post=post
+Power Saving CPU Scaling Governor=
+Processes to kill before Array is Stopped=Processen te stoppen voordat Array wordt gestopt
+Put the IP address of your server in the Remote syslog server field=Zet het IP adres van je server in het Remote syslog server veld
+Read this=Lees dit
+Schedule CPU Power Saving Mode=
+Some have reported better VM performance with media streaming and gaming VMs with the suggestions on this=Sommigen hebben betere VM prestaties gemeld met media streaming en gaming VMs met de suggesties op deze
+Some have reported faster and more consistent network performance by making changes in networking parameters on the Tweaks tab of this plugin=Sommigen hebben snellere en consistentere netwerkprestaties gemeld door wijzigingen aan te brengen in de netwerkparameters op het tabblad Tweaks van deze plugin
+Some of the settings will consume RAM and may end up causing Linux to terminate some processes to free up RAM=Sommige van de instellingen zullen RAM verbruiken en kunnen er uiteindelijk toe leiden dat Linux sommige processen moet beëindigen om RAM vrij te maken
+Some people are reporting OOM out of memory errors=Sommige mensen rapporteren OOM out of memory errors
+Support for older versions of Unraid is being phased out=Ondersteuning voor oudere versies van Unraid wordt afgebouwd
+The dashboard shows CPU loading and not CPU frequency=Het dashboard toont CPU belasting en niet CPU frequentie
 The feature is not available on any of your NICs=De functie is niet beschikbaar op een van uw NICs
-Current Disk Cache Settings=Huidige Schijf Cache Instellingen
-Current Inotify Settings=Huidige Inotify Instellingen
-Driver=Stuurprogramma
-Governor=Governor
+The first thing you should do is to install the Fix Common Problems plugin to find and fix common problems=Het eerste wat je zou moeten doen is de Fix Common Problems plugin installeren om veel voorkomende problemen te vinden en op te lossen
+The Tips below are suggestions, workarounds for known problems, and potential fixes=De Tips hieronder zijn suggesties, tijdelijke oplossingen voor bekende problemen, en mogelijke oplossingen
+There is a very cool feature in Unraid 6 and up that can be used to capture your logs and help in troubleshooting a situation where your server locks up or becomes unresponsive=Er is een zeer coole functie in Unraid 6 en hoger die kan worden gebruikt om uw logs vast te leggen en te helpen bij het oplossen van een situatie waar uw server blokkeert of niet meer reageert
+This will identify potential problems to be solved before you upgrade the Unraid OS=Dit zal mogelijke problemen identificeren die opgelost moeten worden voordat u het Unraid OS upgrade
+This will log all your server log enries to the Syslog Server and save the log to an array share=Dit zal al uw server log enries naar de Syslog Server loggen en de log opslaan op een array share
+This seems to be occurring more now because of the large amounts of memory being installed in Unraid and the default Disk Cache settings too high=Dit lijkt nu meer voor te komen door de grote hoeveelheden geheugen die in Unraid zijn geïnstalleerd en de standaard Disk Cache instellingen die te hoog zijn
+Time to set Normal CPU Scaling=
+Time to set Power Saving CPU Scaling=
+Tips=Tips
+Tips and Tweaks wiki=Tips en Tweaks wiki
+Tweaks=Vernieuwingen
+Use the Update Assistant that is part of the Fix Common Problems plugin=Gebruik de Update Assistent die onderdeel is van de Fix Common Problems plugin
+You can check CPU frequencies on the command line with=Je kunt CPU frequenties controleren op de commandoregel met
+You may actually cause more problems than you solve if there are problems with your Unraid configuration=U kunt meer problemen veroorzaken dan oplossen als er problemen zijn met uw Unraid configuratie
+
 ;
 ; Help
 ;
@@ -151,17 +152,33 @@ Governor=Governor
 > De 'governor'-keuzes zijn: 'ondemand', 'performance', 'powersave', 'conservative', en 'schedutil'.
 :end
 
+
+:tips_tweaks_power_save_cpu_governor_plug:
+> Select the Power Saving CPU Scaling Governor you want to use.
+>
+> + "Power Save" - Scales CPU frequency based on load.
+> + "On Demand" - Default for ACPI CPU Freq driver.  Scales CPU frequency based on load.  Frequency stepping is aggressive.
+> + "Conservative" - Scales CPU frequency based on load.  Frequency stepping is gentler.  Can cause some latency.
+> + "Schedutil" - Set all CPUs frequency scaling to schedutil.  This sets CPU frequency based on the Linux scheduler.  Note: This is still in development.
+:end
+
 :tips_tweak_turbo_plug:
 > Zet op 'Ja' om de Intel Turbo of AMD Performance Boost Mode in te schakelen.
+:end
+
+:tips_tweaks_scheduled_plug:
+> Set to 'Yes' to enable scheduled CPU Power Saving mode based on the times set below for Normal and Power Saving modes.
+:end
+
+
+:tips_tweaks_cpu_state_plug:
+> Voer de tijd in waarop u de governor wilt instellen op "Power Save" voor Intel Pstate en Intel CPU Freq of "On Demand" in 24-uurs formaat hh:mm.
 :end
 
 :tips_tweaks_performance_plug:
 > Voer de tijd in waarop u de regulator op "Prestaties" wilt zetten, in 24-uurs formaat hh:mm.
 :end
 
-:tips_tweaks_cpu_state_plug:
-> Voer de tijd in waarop u de governor wilt instellen op "Power Save" voor Intel Pstate en Intel CPU Freq of "On Demand" in 24-uurs formaat hh:mm.
-:end
 
 :tips_tweaks_syslog_archive_plug:
 > Stel in op 'Ja' om het vastleggen en archiveren van syslogs in te schakelen en een diagnostiek uit te voeren bij afsluiten.  Logs en diagnostieken worden opgeslagen in /boot/logs/.
@@ -178,3 +195,5 @@ Governor=Governor
 > Opmerking: Wees voorzichtig met de processen die u hier stopt.  U zou gegevens kunnen verliezen!
 :end
 
+
+; Note: September 16, 2022 - 5 missing translations

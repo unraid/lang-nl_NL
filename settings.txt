@@ -463,6 +463,7 @@ Oops=Oeps
 optional metric lowest is preferred, 0 is no default gateway=optionele metriek (laagste waarde heeft voorkeur, 0 is geen router)
 optional metric lowest is preferred=optionele metriek (laagste waarde heeft voorkeur)
 or=of
+Output voltage=
 Page view=Pagina opbouw
 Parity Check=Pariteitscontrole
 Password=Wachtwoord
@@ -571,6 +572,7 @@ Shutdown VMs=VMs afsluiten
 shutdown=Uitzetten
 Sign In to Unraidnet required=Aanmelden bij Unraid.net vereist
 Simple=Simpel
+Slave=
 Small=Klein
 Smart=Slim
 SMB Extras=SMB Extras
@@ -759,3 +761,5 @@ to the Unraid server at=naar de Unraid-server op
 Transient errors in this log can be ignored unless you are having issues=Tijdelijke fouten in dit logboek kunnen worden genegeerd, tenzij er problemen worden ondervonden
 Unraid API extra origins=Unraid API extra oorsprong
 View Flash Backup Error Log=Toon Flash-back-up foutenlogboek
+
+; Note: September 16, 2022 - 2 missing translations
