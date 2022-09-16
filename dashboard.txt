@@ -70,6 +70,7 @@ Nominal power=Nominaalvermogen
 not received=niet ontvangen
 Only PNG images are allowed=Enkel PNG images zijn toegestaan!
 Outbound=Uitgaand
+Output voltage=Uitgangsvoltage
 Overall Load=Totale belasting
 Parity disk not present=Pariteitschijf niet aanwezig
 Parity disks not present=Pariteitschijven niet aanwezig
