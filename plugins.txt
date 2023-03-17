@@ -1,4 +1,5 @@
 %s An update is available=%s: Een update is beschikbaar.
+Alert Message=
 anonymous=anoniem
 Author=Auteur
 Check For Updates=Zoek naar updates
@@ -19,13 +20,14 @@ Next=Beta
 No plugins installed=Geen plug-ins geïnstalleerd
 No release notes available=Geen uitgave-opmerkingen beschikbaar
 No response, aborting=Geen antwoord, afgebroken
-Plugin File=plug-inbestand
 Plugin File Install Errors=Plug-inbestand Installatiefout
+Plugin File=plug-inbestand
 Plugin History=Plug-in Geschiedenis
 Plugin Update Check=Plug-in Update Controle
 Plugin=plug-in
 Release Notes=Uitgifte notities
 Remove Plugin=Plug-in Verwijderen
+Remove Selected Plugins=
 remove=verwijderen
 Select local plugin file=Selecteer lokale plug-inbestand
 Stable=Stabiel
@@ -36,3 +38,5 @@ Update All Plugins=Update alle plugins
 Update Plugin=Plug-in Updaten
 Upgrade=Upgraden
 View Release Notes=Bekijk uitgifte notities
+
+; Note: March 17, 2023 - 2 missing translations
