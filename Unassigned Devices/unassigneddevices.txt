@@ -1,7 +1,7 @@
 Add ISO File Share=Voeg ISO bestandsdeling toe 
 Add Remote SMB=Voeg Remote SMB toe
 Add Root Share=
-An XFS or BTRFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=Een XFS- of BTRFS-schijf die is gepartitioneerd in UD is compatibel met de array-schijfpartitionering en kan aan de array worden toegevoegd 
+An XFS, BTRFS, or ZFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=
 Any data on this disk will be lost=Alle gegevens op deze schijf gaan verloren 
 Are you sure=Weet u het zeker
 Auto mount=Automatische koppelen
@@ -49,9 +49,11 @@ from disk=van schijf
 Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=
 Historical=
 Historical Devices=Historische apparaten 
+Historical Device is=
 Identification=Identificatie 
 If this disk was pre-cleared, you will remove the pre-clear signature=
 If you add the disk to the array and the pre-clear signature is removed, Unraid will go through the lengthy process of clearing the disk again=
+is offline=
 ISO File is=ISO bestand is
 ISO File Shares=ISO bestandsdeling 
 If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=Als u een schijfwachtwoord gebruikt, zorg er dan voor dat u het wachtwoord voor deze schijf in UD-instellingen invoert, zodat deze kan worden gekoppeld 
@@ -63,16 +65,18 @@ Log=Log
 Mount=Koppelen
 Mount Point=
 Mounting=Koppelen
+Next=Volgende
 NFS Mount Point=NFS koppelpunt
 NFS or ISO File Shares configured=NFS of ISO bestandsdeling geconfigureerd
 NFS Script=NFS Script
+NFS Script Log=NFS Script Log
 NFS Share=NFS gedeelde map
 NFS Shares=NFS mappen
-Next=Volgende
 No Remote SMB=Geen Remote SMB
 No Unassigned Disks available=Geen niet-toegewezen schijven beschikbaar 
 not installed=niet geïnstalleerd
 Note=Notitie
+offilne=
 You must enable NFS in Settings->NFS to mount NFS shares=Je moet NFS inschakelen in Instellingen->NFS om NFS shares te koppelen
 You must enable SMB in Settings->SMB to mount SMB shares=Je moet SMB inschakelen in Instellingen->SMB om SMB shares te koppelen
 Open=Open
@@ -126,29 +130,15 @@ Username=Gebruikersnaam
 View Device Script Log=Bekijk apparaat logboek 
 View ISO File Script Log=Bekijk het ISO bestandsscript logboek 
 View Remote SMB=Bekijk Remote SMB
+WARNING=WAARSCHUWING
 When you copy files between shares in the Root Share, the files may not end up on the expected disks=
-NFS Script Log=NFS Script Log
+Working=
 You can also subject yourself to security issues like ransomware by exposing all your shares in one Root Share=
 You must enable NFS in Settings->NFS to mount NFS shares=Je moet NFS inschakelen in Instellingen->NFS om NFS shares te koppelen
 You must enable SMB in Settings->SMB to mount SMB shares=Je moet SMB inschakelen in Instellingen->SMB om SMB shares te koppelen
 You must enable the Destructive Mode in UD Settings before you can Format this disk=Je moet Destructieve modus inschakelen in UD Installingen voor je de schijf kan formatteren
-WARNING=WAARSCHUWING
 You WILL have problems if you do=Je ZAL problemen hebben als je dit doet
 You will need to enter credentials to list the shares=
-
-; Help
-;
-:unassgned_devices_switches_plug:
-> Zet de schakelaar **Voltooid** uit om de webpagina te wijzigen zodat alleen hardwareapparaten worden weergegeven. Zet de schakelaar **Eenvoudig** aan om terug te schakelen naar de volledige webweergave.
->
-> Zet de schakelaar **Geen** aan om alle apparaatpartities weer te geven. Schakel de schakelaar **Alle** uit om terug te schakelen naar het niet weergeven van partities.
->
-> Klik op het <i style='color:black;font-weight:bold;' class="fa fa-refresh"></i> pictogram om schijven opnieuw te scannen.
->
-> Klik op het <i style='color:black;font-weight:bold;' class="fa fa-gear"></i> pictogram om naar de UD-instellingen te gaan.
->
-> Je kunt een schijf omhoog of omlaag draaien door op de schijfbalindicator te klikken <i class='fa fa-circle orb green-orb'></i>or <i class='fa fa-circle orb grey-orb'></i> Alleen van toepassing op versie 6.9 RC2 en later. 
-:end
 
 :unassigned_devices_general_help_plug:
 > **Niet-toegewezen apparaten worden afgekort UD genoemd.**
@@ -196,4 +186,4 @@ You will need to enter credentials to list the shares=
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart.
 :end
 
-; Note: June 6, 2022 - 19 missing translations
+; Note: March 17, 2023 - 24 missing translations
