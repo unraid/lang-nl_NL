@@ -59,7 +59,7 @@ Icon URL=URL-icoon
 Image ID=Image ID
 Key=Sleutel
 Label=Label
-Lock sortable items=
+Lock sortable items=Sorteerbare items vergrendelen
 Management=Management
 MediaApp=MediaApp
 MediaServer=MediaServer
@@ -120,7 +120,7 @@ The command finished successfully=De opdracht is succesvol uitgevoerd
 TOTAL DATA PULLED=TOTALE GEGEVENS OPGEHAALD
 Total size=Totale grootte
 Unknown action=Onbekende actie
-Unlock sortable items=
+Unlock sortable items=Sorteerbare items ontgrendelen
 Update All=Alles bijwerken
 update ready=update gereed
 Value=Waarde
@@ -133,5 +133,3 @@ Was this container created using this plugin=Is deze container gemaakt m.b.v. de
 Web=Web
 WebUI=WebUI
 Writable=Schrijfbaar
-
-; Note: March 17, 2023 - 2 missing translations

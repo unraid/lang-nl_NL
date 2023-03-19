@@ -1,5 +1,5 @@
 %s An update is available=%s: Een update is beschikbaar.
-Alert Message=
+Alert Message=Waarschuwingsbericht
 anonymous=anoniem
 Author=Auteur
 Check For Updates=Zoek naar updates
@@ -27,7 +27,7 @@ Plugin Update Check=Plug-in Update Controle
 Plugin=plug-in
 Release Notes=Uitgifte notities
 Remove Plugin=Plug-in Verwijderen
-Remove Selected Plugins=
+Remove Selected Plugins=geselecteerde plug-ins verwijderen
 remove=verwijderen
 Select local plugin file=Selecteer lokale plug-inbestand
 Stable=Stabiel
@@ -38,5 +38,3 @@ Update All Plugins=Update alle plugins
 Update Plugin=Plug-in Updaten
 Upgrade=Upgraden
 View Release Notes=Bekijk uitgifte notities
-
-; Note: March 17, 2023 - 2 missing translations
