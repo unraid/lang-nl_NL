@@ -19,6 +19,7 @@ Change ISO File Mount Point=Wijzig het ISO-bestandskoppelpunt
 Change Remote Share Mount Point=
 Change SMB=Wijzig SMB
 Changing the Mount Point will also change the disk label=Als u het koppelpunt wijzigt, wordt ook het schijflabel gewijzigd 
+Clear=
 Click to select ISO file=Klik om het ISO-bestand te selecteren 
 Click to view/hide partitions and mount points=Click om partities en mount points te belijken/verbergen
 Complete=Compleet
@@ -139,6 +140,7 @@ You must enable SMB in Settings->SMB to mount SMB shares=Je moet SMB inschakelen
 You must enable the Destructive Mode in UD Settings before you can Format this disk=Je moet Destructieve modus inschakelen in UD Installingen voor je de schijf kan formatteren
 You WILL have problems if you do=Je ZAL problemen hebben als je dit doet
 You will need to enter credentials to list the shares=
+ZFS Pool Name=
 
 :unassigned_devices_general_help_plug:
 > **Niet-toegewezen apparaten worden afgekort UD genoemd.**
@@ -186,4 +188,4 @@ You will need to enter credentials to list the shares=
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart.
 :end
 
-; Note: March 17, 2023 - 24 missing translations
+; Note: April 11, 2023 - 26 missing translations
