@@ -136,7 +136,7 @@ Other Highlight Color=Overige markeerkleur
 
 :enhanced_log_custom_plug:
 > Voer alle aangepaste gebeurtenissen in die u in het logboek gemarkeerd wilt zien.  Alle aangepaste gebeurtenissen die u invoert zullen worden verwerkt na de standaard gebeurtenissen.
-> De gebeurtenissen worden ingevoerd als: "zoek string", "event" 
+> De gebeurtenissen worden ingevoerd als: "zoek string", "event"
 > Hoofdletters worden genegeerd in de zoekstring en wild cards zijn toegestaan.
 > Voorbeelden:
 > "found.*chip" zal overeenkomen met elke string met 'found' en 'chip' met elke tekst ertussen,

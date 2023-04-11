@@ -3,7 +3,6 @@ Auto Mount USB Devices=Automatische koppelen van USB apparaat
 Change Disk UUID=Wijzig schijf UUID
 Change UUID=Wijzig UUID
 Change the disk UUID=Wijzig schijf UUID
-Command times=
 Common Script=Standaard script
 Common Settings=Standaard instellingen
 Destructive Mode=Destructieve modus 
@@ -18,7 +17,6 @@ NFS Security=NFS beveiliging
 NFS Settings=NFS instellingen 
 NFS must be enabled in Settings->NFS to enable NFS Export=NFS moet ingeschakeld zijn in de instellingen->NFS om NFS export in the shakelen
 NFS Version to use when Mounting Remote Shares=NFS versie om the gebruiken voor het koppelen van externe gedeelde mappen 
-Refresh and Update=
 Rule=Regel
 SMB Security=SMB beveiliging 
 Select Disk=Selecteer Schijf 
@@ -31,7 +29,6 @@ Specify SMB Version when Mounting Remote Shares=Specificeer de SMB-versie bij he
 Spin down disks=Laat schijven langzamer draaien
 The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=De Unassigned Devices Plus plugin moet geïnstalleerd zijn om destructieve modus in te schakelen
 to SMB share config=naar SMB map configuratie 
-Udev and Hotplug=
 Unassigned Devices=Niet-toegewezen apparaten 
 Unraid 6.10 or later is required for NFSv4 support=Unraid 6.10 of later is vereist voor NFSv4 ondersteuning 
 Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor ondersteuning
@@ -130,5 +127,3 @@ Stel in op **Nee** voor niet-toegewezen apparaten om eerst externe shares te kop
 :ud_settings_change_uuid_plug:
 > Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen.
 :end
-
-; Note: April 11, 2023 - 3 missing translations
