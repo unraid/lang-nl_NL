@@ -65,8 +65,8 @@ Dit kan veel sneller zijn dan het uitvoeren van een volledige pariteits- of lees
 :end
 ; fields
 Click to show Error Sectors from syslog=Klik om Foutsectors van syslog te tonen
-End point for check=Eindpunt voor controle
-Method used to specify start and stop points=Methode gebruikt om start en stop punten te specificeren
+End point for check=
+Method used to specify start and stop points=
 Only read checks can be performed=Alleen lees controles kunnen worden uitgevoerd
 percent=procent
 Percentage=Percentage
@@ -89,7 +89,7 @@ Correcting=corrigeren
 Detected a change to the disk configuration=Een verandering in de schijf configuratie gedetecteerd
 Drives cooled down=Schijven afgekoeld
 Elapsed Time=Verstreken tijd
-ERROR=FOUT
+ERROR=
 Following drives overheated=Volgende schijven oververhit
 IMPORTANT=BELANGRIJK
 Increments=Verhogingen
@@ -167,7 +167,7 @@ Unusually large value=Ongewoon grote waarde
 ; Syslog messages (with debug logging disabled)
 
 %s Cancelled=%s Geannuleerd
-Array not started so no action taken=Array niet gestart dus geen actie ondernomen
+Array not started so no action taken=
 as drives now cooled down=aangezien schijven nu afgekoeld zijn
 Following drives overheated=Volgende schijven oververhit
 Only able to start a Read-Check due to number of disabled drives=Alleen in staat om een Read-Check te starten vanwege het aantal disabled drives

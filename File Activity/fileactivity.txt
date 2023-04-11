@@ -3,7 +3,7 @@ File Activity Monitoring=Bestand Activiteit Monitoring
 Start File Activity=Start Bestand Activiteit
 Stop File Activity Monitoring=Stop Bestand Activiteit Monitoring
 Clear the File Activity log=Wis het Bestand Activiteit log
-Refresh log=Vernieuw log
+Refresh Page=
 Enable File Activity Monitoring=Shakel Bestand Activiteit Monitoring in 
 Enable for Unassigned Devices=Inschakelen voor niet-toegewezen apparaten
 Enable for Cache and Pool Disks=Inschakelen voor Cache en Pool schijven
@@ -34,6 +34,5 @@ Enable for Cache and Pool Disks=Inschakelen voor Cache en Pool schijven
 > Stel in op **Ja** om monitoring van bestandsactiviteit voor de cache- en poolschijven in te schakelen.  Pool-schijven zijn alleen van toepassing in Unraid 6.9.
 :end
 
-:file_activity_log_by_plug:
-> Instellen op **Schijf** om schijfactiviteit te loggen.  Stel in op **Delen** om share-activiteiten te loggen.
-:end
+
+; Note: April 11, 2023 - 1 missing translations
