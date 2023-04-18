@@ -334,5 +334,3 @@ Een USB opstartmedium kan ook op de *zwarte lijst* staan als het geen serienumme
 
 Voor meer informatie, [Contacteer Support](https://lime-technology.com/contact).
 :end
-
-; Note: March 17, 2023 - 24 missing translations

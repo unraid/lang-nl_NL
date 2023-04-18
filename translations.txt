@@ -55,6 +55,7 @@ Bug Description=Bug Beschrijving
 Bug Report=Bug Rapport
 bytes=bytes
 Cache=Cache
+Calculated free space value=
 Cancel=Annuleren
 Capabilities=Mogelijkheden
 Case-sensitive names=Hoofdlettergevoelige namen
@@ -449,7 +450,7 @@ The command failed=De opdracht is mislukt
 The command finished successfully=De opdracht is succesvol afgerond
 TOTAL DATA PULLED=TOTALE GEGEVENS OPGEHAALD
 Was this container created using this plugin=Is deze container gemaakt met deze plug-in
-Executes `unraid-api start`; no terminal needed=Voert `unraid-api start` uit; geen terminal nodig
+Executes `unraid-api start`; no terminal needed=
 Please use a high quality name brand device at least 1GB in size min 4GB recommended=Please use a high quality name brand device at least 1GB in size (min 4GB recommended)
 
 ; Dynamix.system.button plugin
@@ -909,4 +910,4 @@ Your current url %s is not in the list of allowed origins for this server=Your c
 Your server will not be usable until you purchase a Registration key or install a free 30-day Trial key=Uw server is pas bruikbaar als u een registratiesleutel aanschaft of een gratis proefsleutel van 30 dagen installeert
 Your Unraid registration key is ineligible for replacement as it is blacklisted=Uw Unraid-registratiesleutel komt niet in aanmerking voor vervanging omdat deze op de zwarte lijst staat
 
-; Note: April 11, 2023 - 13 missing translations
+; Note: April 18, 2023 - 3 missing translations
