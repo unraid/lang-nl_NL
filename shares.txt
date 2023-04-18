@@ -72,4 +72,4 @@ User Shares=Gedeelde Gebruikersmappen
 Write=Schrijven
 You cannot use the following within share names=De volgende karakters kunnen niet worden gebruikt binnen de gedeelde mapnamen
 
-; Note: April 18, 2023 - 9 missing translations
+; Note: April 18, 2023 - 8 missing translations
