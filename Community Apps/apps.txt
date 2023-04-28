@@ -90,7 +90,6 @@ Update Plugin=Plug-in bijwerken
 
 Requirements not met=Eisen niet voldaan
 The requirements for this upgrade have not been met on your system=Er is niet voldaan aan de vereisten voor deze upgrade van het systeem
-The sidebar for the app click info will list the details=The sidebar for the app (click info) will list the details
 
 BACK=TERUG
 
@@ -270,7 +269,6 @@ MediaServer=MediaServer
 MediaServerBooks=MediaServer:Boeken
 MediaServerMusic=MediaServer:Muziek
 MediaServerPhotos=MediaServer:Fotos
-MediaServerVideo=MediaServer:Video
 MediaServerOther=MediaServer:Overige
 Network=Netwerk
 NetworkDNS=Netwerk:DNS
@@ -439,8 +437,9 @@ An error occurred - Could not determine configuration=Er is een fout opgetreden 
 Click Install to download and install the Community Applications plugin=Klik op **Installeren** om de **Community Applications** plug-in te downloaden en te installeren
 
 
-; Note: April 28, 2023 - 11 missing translations
+; Note: April 29, 2023 - 13 missing translations
 Action Centre Enabled=
+The sidebar for the app click info will list the details=The sidebar for the app (click info) will list the details
 This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=
 Not Enough Memory=
 Community Applications and Unraid OS have a minimum required installed memory of 4G CA cannot run without those mimimums being met=
@@ -449,5 +448,6 @@ Another plugin installation or update is already in progress and this one cannot
 %s is incompatible with your OS version Please update the OS to proceed=
 %s is incompatible with your OS version Either uninstall %s or update the OS=
 Featured Applications=
+MediaServerVideo=MediaServer:Video
 Popularity=
 Pending=
