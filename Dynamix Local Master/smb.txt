@@ -1,5 +1,5 @@
 Current elected master=Momenteel geselecteerde master
-is current local master browser= is momenteel local master browser
+is current local master browser=is momenteel local master browser
 Local master=Lokale master
 Monitor local master election=Monitor lokale master selectie
 please wait, obtaining=wacht a.u.b, verkrijgen van gegevens

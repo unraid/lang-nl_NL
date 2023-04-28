@@ -1,39 +1,38 @@
-Age Days=Leeftijd in Dagen 
+Age Days=Leeftijd in Dagen
 Array=Array
-Array is stopped=Array is gestopt 
+Array is stopped=Array is gestopt
 Browse the Share Recycle Bin=Blader door de Prullenbak
 Deleted Files=Verwijderde bestanden
 Deleted Files Log=Verwijderen van de log bestanden
 Empty=Leegmaken
 Empty the=Leegmaken van
-Empty All Trash=Maak alle prullenbak leeg 
+Empty All Trash=Maak alle prullenbak leeg
 Empty Trash=Prullenbak leegmaken
-Enable on Unassigned Devices=Update de grootte van de Prullenbak op de achtergrond 
-Enable Recycle Bin=Schakel Prullenbak in 
+Enable on Unassigned Devices=Update de grootte van de Prullenbak op de achtergrond
+Enable Recycle Bin=Schakel Prullenbak in
 Excluded Directories=Uitgesloten mappen
-Excluded Files=Uitgesloten bestanden 
+Excluded Files=Uitgesloten bestanden
 Excluded Shares=Uitgesloten mappen
-Log Deleted Files=Log verwijderde bestanden 
+Log Deleted Files=Log verwijderde bestanden
 Recycle Bin=Prullenbak
-Recycle Bin is empty=
 Recycle Bin Log=Prullenbak logboek
-Recycle Bin parameters=Prullenbak parameters 
+Recycle Bin parameters=Prullenbak parameters
 Recycle Bin permissions=Prullenbak rechten
-Recycle Bin Total Size=Totale grootte Prullenbak 
+Recycle Bin Total Size=Totale grootte Prullenbak
 Refresh the Recycle Bin page=Vernieuw de Prullenbak pagina
-Remove Aged Files=Verwijder verouderde bestanden 
-Remove aged files from the Recycle Bin=Verwijder verouderde bestanden uit de Prullenbak 
+Remove Aged Files=Verwijder verouderde bestanden
+Remove aged files from the Recycle Bin=Verwijder verouderde bestanden uit de Prullenbak
 Remove Aged Files Notification=Melding van verwijderen verouderde bestanden
-Remove Aged Files on Schedule=Verwijder verouderde bestanden volgens schema 
-Remove all files from the Recycle Bin=Verwijder alle bestanden uit de Prullenbak 
-Restart the Recycle Bin=Start de Prullenbak opnieuw 
+Remove Aged Files on Schedule=Verwijder verouderde bestanden volgens schema
+Remove all files from the Recycle Bin=Verwijder alle bestanden uit de Prullenbak
+Restart the Recycle Bin=Start de Prullenbak opnieuw
 Share Type=Map Type
 SMB Share=SMB map
-Start the Recycle Bin=Start de Prullenbak 
+Start the Recycle Bin=Start de Prullenbak
 Starting and stopping the Recycle Bin can cause SMB shares to go offline for a short period=Het starten en stoppen van de Prullenbak kan ertoe leiden dat SMB-shares voor een korte periode offline gaan
 Stop the Recycle Bin=Stop de Prullenbak
 These actions apply to all shares=Deze acties zijn van toepassing op alle shares
-Trash Size=Prullenbakgrootte 
+Trash Size=Prullenbakgrootte
 Update Recycle Bin Size in Background=Bijwerken van de Prullenbak grootte op de achtergrond
 ;
 ; Help
@@ -126,4 +125,5 @@ Deze acties zijn van toepassing op alle mappen:
 > Klik op de knop 'Wissen' om het logboek te wissen.
 :end
 
-; Note: June 6, 2022 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Recycle Bin is empty=

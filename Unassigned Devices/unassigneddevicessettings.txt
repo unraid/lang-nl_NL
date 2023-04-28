@@ -3,37 +3,34 @@ Auto Mount USB Devices=Automatische koppelen van USB apparaat
 Change Disk UUID=Wijzig schijf UUID
 Change UUID=Wijzig UUID
 Change the disk UUID=Wijzig schijf UUID
-Command times=
 Common Script=Standaard script
 Common Settings=Standaard instellingen
-Destructive Mode=Destructieve modus 
-Disk spin down is managed by Unraid=Het langzamer draaien van de schijf wordt beheerd door unRAID 
+Destructive Mode=Destructieve modus
+Disk spin down is managed by Unraid=Het langzamer draaien van de schijf wordt beheerd door unRAID
 Enable NFS export=Schakel NFS-export in
-Enable SMB Security=Schakel SMB beveiliging in 
-Enter Disk Password=Voer het schijfwachtwoord in 
+Enable SMB Security=Schakel SMB beveiliging in
+Enter Disk Password=Voer het schijfwachtwoord in
 Enter Pool Mount Point=Voer het Pool Mount punt in
 Legacy Mount Point Compatibility=Legacy Mount punt compatibiliteit
 Mount SSDs with discard option=Mount SSD's met de optie discard
-NFS Security=NFS beveiliging 
-NFS Settings=NFS instellingen 
+NFS Security=NFS beveiliging
+NFS Settings=NFS instellingen
 NFS must be enabled in Settings->NFS to enable NFS Export=NFS moet ingeschakeld zijn in de instellingen->NFS om NFS export in the shakelen
-NFS Version to use when Mounting Remote Shares=NFS versie om the gebruiken voor het koppelen van externe gedeelde mappen 
-Refresh and Update=
+NFS Version to use when Mounting Remote Shares=NFS versie om the gebruiken voor het koppelen van externe gedeelde mappen
 Rule=Regel
-SMB Security=SMB beveiliging 
-Select Disk=Selecteer Schijf 
-Set Encrypted Disk Password=Stel een beveiligd schijfwachtwoord in 
-Set Password=Stel een wachtwoord in 
+SMB Security=SMB beveiliging
+Select Disk=Selecteer Schijf
+Set Encrypted Disk Password=Stel een beveiligd schijfwachtwoord in
+Set Password=Stel een wachtwoord in
 Set Pool Mount Point=Stel Pool Mount punt in
 Set the Pool Mount Point for this disk=Zet het Pool Mount Point voor deze schijf
-Set the disk Password=Stel het schijfwachtwoord in 
+Set the disk Password=Stel het schijfwachtwoord in
 Specify SMB Version when Mounting Remote Shares=Specificeer de SMB-versie bij het koppelen van externe gedeelde mappen
 Spin down disks=Laat schijven langzamer draaien
 The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=De Unassigned Devices Plus plugin moet geïnstalleerd zijn om destructieve modus in te schakelen
-to SMB share config=naar SMB map configuratie 
-Udev and Hotplug=
-Unassigned Devices=Niet-toegewezen apparaten 
-Unraid 6.10 or later is required for NFSv4 support=Unraid 6.10 of later is vereist voor NFSv4 ondersteuning 
+to SMB share config=naar SMB map configuratie
+Unassigned Devices=Niet-toegewezen apparaten
+Unraid 6.10 or later is required for NFSv4 support=Unraid 6.10 of later is vereist voor NFSv4 ondersteuning
 Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor ondersteuning
 
 ; Help
@@ -131,4 +128,7 @@ Stel in op **Nee** voor niet-toegewezen apparaten om eerst externe shares te kop
 > Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen.
 :end
 
-; Note: April 11, 2023 - 3 missing translations
+; Note: April 28, 2023 - 3 missing translations
+Command times=
+Refresh and Update=
+Udev and Hotplug=

@@ -38,4 +38,3 @@ Time of the day=Tijd van de dag
 >
 > Voor de andere schema's kiest u hier het tijdstip van de dag waarop het trim moet beginnen.
 :end
-

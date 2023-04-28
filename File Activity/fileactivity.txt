@@ -3,8 +3,7 @@ File Activity Monitoring=Bestand Activiteit Monitoring
 Start File Activity=Start Bestand Activiteit
 Stop File Activity Monitoring=Stop Bestand Activiteit Monitoring
 Clear the File Activity log=Wis het Bestand Activiteit log
-Refresh Page=
-Enable File Activity Monitoring=Shakel Bestand Activiteit Monitoring in 
+Enable File Activity Monitoring=Shakel Bestand Activiteit Monitoring in
 Enable for Unassigned Devices=Inschakelen voor niet-toegewezen apparaten
 Enable for Cache and Pool Disks=Inschakelen voor Cache en Pool schijven
 ;
@@ -35,4 +34,5 @@ Enable for Cache and Pool Disks=Inschakelen voor Cache en Pool schijven
 :end
 
 
-; Note: April 11, 2023 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Refresh Page=
