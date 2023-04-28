@@ -813,4 +813,4 @@ Transient errors in this log can be ignored unless you are having issues=Tijdeli
 Unraid API extra origins=Unraid API extra oorsprong
 View Flash Backup Error Log=Toon Flash-back-up foutenlogboek
 
-; Note: April 28, 2023 - 39 missing translations
+; Note: April 28, 2023 - 38 missing translations
