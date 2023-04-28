@@ -4,6 +4,7 @@
 10 s=10 s
 2 m=2 m
 30 s=30 s
+5 m=5 m
 Abort background operation=Achtergrondbewerking afbreken
 Abort background process=Achtergrondproces afbreken
 Active tunnels=Actieve tunnels
@@ -118,6 +119,7 @@ Start the array=Start de array
 Started only=Enkel gestart
 Stop the array=Stop de array
 Temp=Temp
+This may leave an unknown state=Dit kan een onbekende toestand achterlaten
 This will put the system to sleep=Dit zal het systeem in slaaptstand zetten
 This will reboot the system=Dit zal het systeem herstarten
 This will shutdown the system=Dit zal het systeem uitschakelen
@@ -139,7 +141,3 @@ Virtual Machines=Virtuele Machines
 VPN Connections=VPN verbindingen
 Warnings=Waarschuwingen
 ZFS=ZFS
-
-; Note: April 28, 2023 - 2 missing translations
-5 m=
-This may leave an unknown state=
