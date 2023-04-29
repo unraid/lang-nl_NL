@@ -157,6 +157,7 @@ Virtiofs Mode=Virtiofs modus
 Virtual Machines=Virtuele Machines
 Virtual=Virtueel
 VM Console AutoPort=VM Console Auto-poort
+VM Console enable Copypaste=VM Console is ingeschakeld Kopiëren/plakken
 VM Console Keyboard=VM Console Toetsenbord
 VM Console Password=VM Console Wachtwoord
 VM Console Port=VM Console Poort
@@ -174,6 +175,3 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, nieuwere Linux distros
 wsport for virtual console=ws-poort voor virtuele console
 XML View=XML weergave
-
-; Note: April 29, 2023 - 1 missing translations
-VM Console enable Copypaste=VM Console enable Copy/paste
