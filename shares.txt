@@ -48,6 +48,7 @@ Not used=Niet gebruikt
 Only=Enkel
 Prefer=Voorkeur
 previous user share=vorige gedeelde gebruikersmap
+Primary storage %s=Primaire opslag %s
 Primary storage for new files and folders=Primaire opslag (voor nieuwe bestanden en mappen)
 Primary storage to Secondary storage=Primaire opslag naar secundaire opslag
 Read=Lezen
@@ -78,6 +79,3 @@ Use cache pool for new filesdirectories=Gebruik cache opslag (voor nieuwe bestan
 User Shares=Gedeelde Gebruikersmappen
 Write=Schrijven
 You cannot use the following within share names=De volgende karakters kunnen niet worden gebruikt binnen de gedeelde mapnamen
-
-; Note: April 28, 2023 - 1 missing translations
-Primary storage %s=
