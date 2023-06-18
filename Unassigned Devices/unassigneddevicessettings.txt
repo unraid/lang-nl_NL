@@ -2,7 +2,7 @@ Add=Toevoegen
 Auto Mount USB Devices=Automatische koppelen van USB apparaat
 Change Disk UUID=Wijzig schijf UUID
 Change UUID=Wijzig UUID
-Change the disk UUID=Wijzig schijf UUID
+Change Disk UUID=Wijzig schijf UUID
 Common Script=Standaard script
 Common Settings=Standaard instellingen
 Destructive Mode=Destructieve modus
@@ -18,7 +18,6 @@ NFS Settings=NFS instellingen
 NFS must be enabled in Settings->NFS to enable NFS Export=NFS moet ingeschakeld zijn in de instellingen->NFS om NFS export in the shakelen
 NFS Version to use when Mounting Remote Shares=NFS versie om the gebruiken voor het koppelen van externe gedeelde mappen
 Rule=Regel
-SMB Security=SMB beveiliging
 Select Disk=Selecteer Schijf
 Set Encrypted Disk Password=Stel een beveiligd schijfwachtwoord in
 Set Password=Stel een wachtwoord in
@@ -31,7 +30,6 @@ The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=
 to SMB share config=naar SMB map configuratie
 Unassigned Devices=Niet-toegewezen apparaten
 Unraid 6.10 or later is required for NFSv4 support=Unraid 6.10 of later is vereist voor NFSv4 ondersteuning
-Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor ondersteuning
 
 ; Help
 ;
@@ -62,6 +60,11 @@ Use only when directed for support=Alleen gebruiken wanneer wanneer nodig voor o
 > U wordt aanbevolen om uw toewijzingen te wijzigen in het /mnt/remotes/ koppel punt.
 >
 > Als u de achterwaartse compatibiliteit niet nodig hebt, laat u deze op **Nee** staan.
+:end
+
+:ud_settings_remote_share_wait_plug:
+> This is the time in seconds to wait before mounting remote shares when the array is first started.
+>
 :end
 
 :ud_settings_specify_smb_vers_plug:
@@ -114,6 +117,10 @@ Stel in op **Nee** voor niet-toegewezen apparaten om eerst externe shares te kop
 > De keerzijde is dat het Linux-groepsmachtigingen opheft. Als u niet zeker weet of dit nodig is, laat het dan ingeschakeld. 
 :end
 
+:ud_settings_nfs_security_plug:
+> Set to **Yes** to export Unassigned Devices with NFS sharing. Shares are exported Public with read and write access or Private with the rule you set. Access is controlled with permission settings on files and folders.
+:end
+
 :ud_settings_nfs_shares_plug:
 > Stel in op **Ja** om NFS mappen te exporteren. Shares worden openbaar geëxporteerd met lees- en schrijftoegang of als privaat met de regel die u instelt. De toegang wordt gecontroleerd met machtigingsinstellingen voor bestanden en mappen. 
 >
@@ -128,7 +135,14 @@ Stel in op **Nee** voor niet-toegewezen apparaten om eerst externe shares te kop
 > Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen.
 :end
 
-; Note: April 28, 2023 - 3 missing translations
+; Note: June 18, 2023 - 10 missing translations
 Command times=
+Disabled=
+Public=
+Private=
+Private Hidden=
 Refresh and Update=
+Remote Share Mount Wait Time=
+SMB Settings=
 Udev and Hotplug=
+Use only when directed for support because the messages can flood the log=
