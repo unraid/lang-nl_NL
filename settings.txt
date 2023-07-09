@@ -812,5 +812,22 @@ Transient errors in this log can be ignored unless you are having issues=Tijdeli
 Unraid API extra origins=Unraid API extra oorsprong
 View Flash Backup Error Log=Toon Flash-back-up foutenlogboek
 
-; Note: April 29, 2023 - 1 missing translations
+; Note: July 9, 2023 - 18 missing translations
+Always On - Manual Port Forward=
+Always On - UPnP=
+Any=
+Connected to Unraid Connect Cloud=
+Current listening interfaces=
+Disabled until connected to Unraid Connect Cloud=
+Exclude listening interfaces=
+Include listening interfaces=
+Interface Extra=
+Management Interface=
+Permit exclusive shares=
+Questions See the documentation=Questions? See <a href="https://wiki.unraid.net/Connect" target="_blank">the documentation</a>.
+Remark to use the Dynamic - Manual Port Forward option for Remote Access please set Use SSLTLS to Strict in Management Access=Remark: to use the "Dynamic - Manual Port Forward" option for Remote Access please set "Use SSL/TLS" to "Strict" in Management Access.
+Remark to use the UPnP options please set Use UPnP to Yes in Management Access=Remark: to use the UPnP options please set "Use UPnP" to "Yes" in Management Access.
+To test your manual port forward, temporarily configure Allow Remote Access as Always On - Manual Port Forward=To test your manual port forward, temporarily configure 'Allow Remote Access' as 'Always On - Manual Port Forward'
+Unraid Connect=
 Unraidnet Status=Unraid.net Status
+You can not exclude this interface=
