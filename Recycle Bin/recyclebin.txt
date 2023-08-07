@@ -57,6 +57,10 @@ Deze acties zijn van toepassing op alle mappen:
 > To hide the Recycle Bin folder, set 'Hide Dot Files to 'Yes' in the SMB settings <a href='/Settings/SMB'>here</a>.
 :end
 
+:recycle_bin_hide_folder_plug:
+> Set to **No** to show the Recycle Bin folder in user shares.  The SMB setting "Hide dot files" controls if hidden folders show in user shares.
+:end
+
 :recycle_bin_background_plug:
 > Stel in op 'Ja' om ervoor te zorgen dat de grootte van de Prullenbak elke minuut op de achtergrond wordt bijgewerkt. Dit kan ervoor zorgen dat de pagina's Prullenbakinstellingen en Gedeelde bestanden sneller reageren en voorkomen dat de schijf opnieuw opstart wanneer de Prullenbak wordt geopend. Het kan wel een minuut duren voordat de grootte van de Prullenbak is vernieuwd wanneer dit is ingeschakeld. 
 :end
