@@ -135,6 +135,10 @@ Stel in op **Nee** voor niet-toegewezen apparaten om eerst externe shares te kop
 > Selecteer de schijf waarvan u de UUID wilt wijzigen. Dit is handig als een schijf uit de array is verwijderd en dezelfde UUID heeft als een array-schijf. De schijf moet worden ontkoppeld om de UUID te wijzigen.
 :end
 
+:ud_settings_zfs_upgrade_plug:
+> Select the disk that you want to upgrade to the latest ZFS version. Drive must be mounted to upgrade ZFS.
+:end
+
 ; Note: June 18, 2023 - 10 missing translations
 Command times=
 Disabled=
