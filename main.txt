@@ -194,9 +194,9 @@ raidz2=raidz2
 raidz3=raidz3
 Raw Value=Ruwe waarde
 Raw View=Ruwe weergave
-Read-Check in progress=Leescontrole is bezig
 Read errors corrected=Leesfouten gecorrigeerd
 Read errors detected=Leesfouten gedetecteerd
+Read-Check in progress=Leescontrole is bezig
 Reading=Lezen
 Reboot in safe mode=Herstarten in veilige modus
 Registration Key Manager=Registratie Pagina
@@ -365,6 +365,7 @@ your server=uw server
 zfs pool status=zfs-groepstatus
 zfs=zfs
 
+
 ; Sleep plugin translations
 Check this=Controleer dit
 for more information=voor meer informatie
@@ -374,3 +375,25 @@ Sleeping=Slapend
 System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
+
+; Note: December 17, 2023 - 20 missing translations
+Add Subpool=
+Add ZFS Subpool=
+cache - Cache Devices=
+Critical NVME temperature threshold=
+Critical SSD temperature threshold=
+dedup - Deduplication Tables=
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
+Device contents invalid=
+Device is disabled=
+Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
+logs - ZFS Intent Log=
+Missing pool disk=
+Power=
+Power=
+spares - Hot Spares=
+special - Special Allocation Class=
+W=
+Warning NVME temperature threshold=
+Warning SSD temperature threshold=
+will remove the missing pool disk and then bring the array on-line=

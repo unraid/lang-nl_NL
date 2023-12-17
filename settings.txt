@@ -1,6 +1,5 @@
 %s ago=%s geleden
 %s is out of range minimum 1 maximum 65535=%s is buitenbereik (minimum 1 maximum 65535)
-; Keep the original plugin name in settings
 12 hours=12 uur
 24 hours=24 uur
 8023ad=802.3ad
@@ -64,8 +63,8 @@ Block group usage=Blokgroepgebruik
 Bonding members of=Bondig leden van
 Bonding mode=Bonding-modus
 boost=versterken
-Both=Beiden
 Both Web Virt-Manager Remote Viewer=Zowel Web als Virt-Manager Externe Viewer
+Both=Beiden
 bottom-left=linksonder
 bottom-right=rechtsonder
 Bridging members of=Bridging leden van
@@ -680,6 +679,7 @@ Tunnel wg0=Tunnel wg0
 Turn off UPS after shutdown=Schakel UPS uit nadat het systeem is uitgeschakeld
 UDP=UDP
 Unable to register this Unraid Server=Kan deze Unraid-server niet registreren
+; Keep the original plugin name in settings
 Unassigned Devices=Unassigned Devices
 Unraid Lets Encrypt certificate=Unraid Let's Encrypt-certificaat
 Unraid OS update notification=Unraid OS update melding
@@ -812,22 +812,51 @@ Transient errors in this log can be ignored unless you are having issues=Tijdeli
 Unraid API extra origins=Unraid API extra oorsprong
 View Flash Backup Error Log=Toon Flash-back-up foutenlogboek
 
-; Note: July 9, 2023 - 18 missing translations
+; Note: December 17, 2023 - 47 missing translations
+a value of zero means no automatic closure=
 Always On - Manual Port Forward=
 Always On - UPnP=
 Any=
+Auto-close=
+Boxed=
+Change encryption key=
+Changing key failed for disks=
 Connected to Unraid Connect Cloud=
+Console Settings=
 Current listening interfaces=
+Default critical SSD temperature threshold=
+Default warning SSD temperature threshold=
+Disable AutostartStart option for VMs=Disable Autostart/Start option for VMs
 Disabled until connected to Unraid Connect Cloud=
+Display width=
+Enable NVME power monitoring=
+Encryption Key Update=
+Enter existing passphrase=
 Exclude listening interfaces=
+Existing encryption key=
 Include listening interfaces=
+Incorrect existing key=
 Interface Extra=
+Key successfully changed=
+Keyfile=
+Local keyboard layout=
+Local screen blank time=
 Management Interface=
+Missing new key=
+Passphrase=
 Permit exclusive shares=
+Persistent Bash History=
 Questions See the documentation=Questions? See <a href="https://wiki.unraid.net/Connect" target="_blank">the documentation</a>.
 Remark to use the Dynamic - Manual Port Forward option for Remote Access please set Use SSLTLS to Strict in Management Access=Remark: to use the "Dynamic - Manual Port Forward" option for Remote Access please set "Use SSL/TLS" to "Strict" in Management Access.
 Remark to use the UPnP options please set Use UPnP to Yes in Management Access=Remark: to use the UPnP options please set "Use UPnP" to "Yes" in Management Access.
+Retype new passphrase=
+Select existing keyfile=
+Select new keyfile=
+show passphrase=
 To test your manual port forward, temporarily configure Allow Remote Access as Always On - Manual Port Forward=To test your manual port forward, temporarily configure 'Allow Remote Access' as 'Always On - Manual Port Forward'
+Type new passphrase=
+Unlimited=
 Unraid Connect=
 Unraidnet Status=Unraid.net Status
+use printable characters only=
 You can not exclude this interface=
