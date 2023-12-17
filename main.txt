@@ -62,8 +62,10 @@ Date of purchase=Aankoopdatum
 Date=Datum
 Delete Pool=Groep verwijderen
 detected=gedetecteerd
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device encrypted and unlocked=Opslag is versleuteld en ontgrendeld
 Device encrypted=Opslag is versleuteld
+Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
 Device is part of a pool=Opslag is onderdeel van een groep
 Device locked unknown error=Opslag is vergrendeld: onbekende fout
 Device locked wrong encryption key=Opslag is vergrendeld: verkeerde versleuteling
@@ -376,20 +378,17 @@ System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
 
-; Note: December 17, 2023 - 20 missing translations
+; Note: December 17, 2023 - 17 missing translations
 Add Subpool=
 Add ZFS Subpool=
 cache - Cache Devices=
 Critical NVME temperature threshold=
 Critical SSD temperature threshold=
 dedup - Deduplication Tables=
-Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device contents invalid=
 Device is disabled=
-Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
 logs - ZFS Intent Log=
 Missing pool disk=
-Power=
 Power=
 spares - Hot Spares=
 special - Special Allocation Class=
