@@ -2,6 +2,8 @@ A format is NEVER part of a data recovery or disk rebuild process and if done in
 Aborted=Afgebroken
 Action=Actie
 Add Pool=Groep toevoegen
+Add Subpool=Subgroep toevoegen
+Add ZFS Subpool=ZFS subgroep toevoegen
 Add=Toevoegen
 All existing data on this device will be OVERWRITTEN when array is Started=Alle bestaande gegevens op deze opslag worden OVERSCHREVEN wanneer de array is gestart
 Array Devices=Array opslag
@@ -22,6 +24,7 @@ btrfs check status=btrfs controle status
 btrfs filesystem df=btrfs bestandsysteem df
 BTRFS operation is running=BTRFS bewerking is bezig
 btrfs scrub status=btrfs scrub status
+cache - Cache Devices=cache - Cache opslag
 Canceled=Afgebroken
 Cannot contact key-server Please check your=Kan geen verbinding maken met de sleutelserver. Controleer uw
 Capabilities not available=Mogelijkheden niet beschikbaar
@@ -54,12 +57,15 @@ Creating Flash backup=Flash reservekopie maken
 Creation error=Aanmaakfout
 Critical disk temperature threshold=Schijftemperatuur alertniveau
 Critical disk utilization threshold=Schijfgebruik alertniveau
+Critical NVME temperature threshold=Kritieke NVME-temperatuurdrempel
+Critical SSD temperature threshold=Kritieke SSD-temperatuurdrempel
 Current operation %s on %s=Huidige bewerking %s op **%s**
 Current position=Huidige positie
 Custom attributes use comma to separate numbers=Aangepaste attributen (gebruik komma om getallen te scheiden)
 Data-Rebuild in progress=Gegevensherbouw is bezig
 Date of purchase=Aankoopdatum
 Date=Datum
+dedup - Deduplication Tables=dedup - Deduplicatietabellen
 Delete Pool=Groep verwijderen
 detected=gedetecteerd
 Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
@@ -378,13 +384,7 @@ System in sleep mode=Systeem is slaap modus
 This will put the system in sleep mode=Dit zal het systeem in slaap modus zetten
 wiki entry=wiki link
 
-; Note: December 17, 2023 - 17 missing translations
-Add Subpool=
-Add ZFS Subpool=
-cache - Cache Devices=
-Critical NVME temperature threshold=
-Critical SSD temperature threshold=
-dedup - Deduplication Tables=
+; Note: December 17, 2023 - 11 missing translations
 Device contents invalid=
 Device is disabled=
 logs - ZFS Intent Log=
