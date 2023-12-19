@@ -336,19 +336,19 @@ Voor meer informatie, [Contacteer Support](https://lime-technology.com/contact).
 :end
 
 ; Note: December 17, 2023 - 16 missing translations
-Creating Flash backup=
-Creation error=
-Delete Modprobe config=
-Downgrade OS=
-Driver=
-Edit Modprobe config=
-Flash backup=
-Insufficient free disk space available=
-Modprobed config file=Modprobe.d config file
-Rebuild Modules=
-Remove custom modprobed configuration=Remove custom modprobe.d configuration?
-Save Modprobe config=
-Select View=
-State=
-Support page=
-System Drivers=
+Creating Flash backup=Flash-back-up maken
+Creation error=Aanmaakfout
+Delete Modprobe config=Modprobe-configuratie verwijderen
+Downgrade OS=Downgraden van besturingssysteem
+Driver=Stuurprogramma
+Edit Modprobe config=Modprobe-configuratie bewerken
+Flash backup=Flash-back-up
+Insufficient free disk space available=Onvoldoende vrije schijfruimte beschikbaar
+Modprobed config file=Modprobe.d-configuratiebestand
+Rebuild Modules=Modules verbouwen
+Remove custom modprobed configuration=Aangepaste modprobe.d-configuratie verwijderen?
+Save Modprobe config=Modprobe-configuratie bewaren
+Select View=Selecteer weergave
+State=Toestand
+Support page=Ondersteuningspagina
+System Drivers=Systeemstuurprogramma's
