@@ -61,6 +61,7 @@ Secondary storage=Secundaire opslag
 Select cache pool=Selecteer groep opslag
 Set when adding new share only=Wordt enkel gebruikt bij aanmaken van een nieuwe gedeelde map
 Share contains data=Gedeelde map bevat gegevens
+Share name contains invalid characters for ZFS use=Gedeelde map bevat ongeldige karakters voor ZFS gebruik
 Share is empty=Gedeelde map is leeg
 Share is outside the list of designated disks=Gedeelde map is buiten de lijst van toegekende schijven
 Share Settings=Gedeelde Mapinstellingen
@@ -79,6 +80,3 @@ Use cache pool for new filesdirectories=Gebruik cache opslag (voor nieuwe bestan
 User Shares=Gedeelde Gebruikersmappen
 Write=Schrijven
 You cannot use the following within share names=De volgende karakters kunnen niet worden gebruikt binnen de gedeelde mapnamen
-
-; Note: July 9, 2023 - 1 missing translations
-Share name contains invalid characters for ZFS use=Gedeelde map bevat ongeldige karakters voor ZFS gebruik
