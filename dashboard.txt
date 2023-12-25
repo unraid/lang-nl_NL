@@ -173,6 +173,6 @@ Warnings=Waarschuwingen
 ZFS=ZFS
 
 ; Note: December 25, 2023 - 3 missing translations
-Clock is unsynchronized with no NTP servers=
-Clock synchronized with %s NTP server=
-Clock synchronized with %s NTP servers=
+Clock is unsynchronized with no NTP servers=Klok is ongesynchroniseerd en er zijn geen NTP-servers
+Clock synchronized with %s NTP server=Klok gesynchroniseerd met %s NTP-server
+Clock synchronized with %s NTP servers=Klok gesynchroniseerd met %s NTP-servers
