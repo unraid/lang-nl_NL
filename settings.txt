@@ -859,5 +859,5 @@ Unraid API extra origins=Unraid API extra oorsprong
 View Flash Backup Error Log=Toon Flash-back-up foutenlogboek
 
 ; Note: December 25, 2023 - 2 missing translations
-GRUB Configuration=GRUB configuratie
-Unraidnet Status=Unraid.net status
+GRUB Configuration=
+Unraidnet Status=Unraid.net Status
