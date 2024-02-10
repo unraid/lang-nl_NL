@@ -1,8 +1,6 @@
 Process=Proces
 Kill Process=Stop Proces
 Process ID=Proces ID
-Open Files=Open Bestanden
-Files that may prevent shutdown=Bestanden die afsluiten kunnen verhinderen
 File Name and Path=Bestandsnaam en Pad
 An entry for bash means you have a terminal session open with the working directory on the array=Een vermelding voor bash betekent dat je een terminal sessie open hebt met de werkdirectory op de array
 If smbd is listed, it means that another computer has a samba share mounted=Als smbd in de lijst staat, betekent dit dat een andere computer een Samba share heeft aangekoppeld
@@ -20,3 +18,7 @@ Cannot get list of open files=Kan geen lijst van open bestanden krijgen
 >
 > Klik op **Proces**, **Proces-ID**, **Bestanden die afsluiten kunnen verhinderen**, of **Bestandsnaam en -pad** om de sorteervolgorde te wijzigen.
 :end
+
+; Note: February 10, 2024 - 2 missing translations
+Open=
+May prevent shutdown=

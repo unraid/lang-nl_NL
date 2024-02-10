@@ -130,6 +130,12 @@ You may actually cause more problems than you solve if there are problems with y
 > De standaardwaarde is 524288.
 :end
 
+:tips_tweaks_max_instances_plug:
+> This is maximum number of inotify instances that a user can create.
+>
+> The default is 128.
+:end
+
 :tips_tweaks_max_files_plug:
 > This value is used by samba to set the maximum number of open files allowed in SMB shares.
 >
@@ -207,14 +213,16 @@ You may actually cause more problems than you solve if there are problems with y
 :end
 
 
-; Note: December 17, 2023 - 14 missing translations
+; Note: February 10, 2024 - 16 missing translations
 Available User Watches=
 Current User Watches=
 Enable Intel TurboAMD Performance Boost=Enable Intel Turbo/AMD Performance Boost
 Intel TurboAMD Performance Boost=Intel Turbo/AMD Performance Boost
 Max SMB Open Files=
+Max User Instances=
 Max User Watches=
 Normal CPU Scaling Governor=
+Power Saving Settings=
 Power Saving CPU Scaling Governor=
 Schedule CPU Power Saving Mode=
 Time to set Normal CPU Scaling=
