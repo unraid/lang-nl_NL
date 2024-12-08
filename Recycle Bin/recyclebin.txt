@@ -129,5 +129,8 @@ Deze acties zijn van toepassing op alle mappen:
 > Klik op de knop 'Wissen' om het logboek te wissen.
 :end
 
-; Note: April 28, 2023 - 1 missing translations
+; Note: December 8, 2024 - 4 missing translations
+Enable Empty All Trash Button=
+Enable Empty Share Trash Button=
+Enable Remove Aged Files Button=
 Recycle Bin is empty=
