@@ -10,7 +10,6 @@ Automatically split only the top four directory levels as required=Verdeel autom
 Automatically split only the top level directory as required=Verdeel automatisch enkel het hoogste mapniveau zoals nodig
 Automatically split only the top three directory levels as required=Verdeel automatisch enkel de drie hoogste mapniveaus zoals nodig
 Automatically split only the top two directory levels as required=Verdeel automatisch enkel de twee hoogste mapniveaus zoals nodig
-Calculated free space value=Berekende vrije ruimtewaarde
 Clean Up=Opruimen
 CLEAN UP=OPRUIMEN
 Comments=Beschrijving
@@ -80,3 +79,12 @@ Use cache pool for new filesdirectories=Gebruik cache opslag (voor nieuwe bestan
 User Shares=Gedeelde Gebruikersmappen
 Write=Schrijven
 You cannot use the following within share names=De volgende karakters kunnen niet worden gebruikt binnen de gedeelde mapnamen
+
+; Note: December 8, 2024 - 7 missing translations
+Free Space will be calculated=
+is missing=
+it references storage that does not exist=
+Share is empty and is safe to delete=
+Share must be empty to be deleted=
+This share is invalid=
+Warning: Configured Pool=
