@@ -81,14 +81,14 @@ Write=Schrijven
 You cannot use the following within share names=De volgende karakters kunnen niet worden gebruikt binnen de gedeelde mapnamen
 
 ; Note: December 28, 2024 - 11 missing translations
-Free Space will be calculated=
-is missing=
-it references storage that does not exist=
-It references storage that does not exist=
-Share is empty and is safe to delete=
-Share must be empty to be deleted=
-There are no mountable array or pool disks - cannot add shares=
-This share is invalid=
-Unknown cache usage=
-Unknown protection status=
-Warning: Configured Pool=
+Free Space will be calculated=Vrije ruimte wordt berekend
+is missing=is missende
+it references storage that does not exist=verwijst naar opslag die niet bestaat
+It references storage that does not exist=Verwijst naar opslag die niet bestaat
+Share is empty and is safe to delete=Map is leeg en kan veilig worden verwijderd
+Share must be empty to be deleted=Map moet leeg zijn om te worden verwijderd
+There are no mountable array or pool disks - cannot add shares=Er zijn geen koppelbare array- of poolschijven - er kunnen geen mappen worden toegevoegd
+This share is invalid=Deze map is ongeldig
+Unknown cache usage=Onbekend cachegebruik
+Unknown protection status=Onbekende beschermingsstatus
+Warning: Configured Pool=Waarschuwing: Geconfigureerde pool
