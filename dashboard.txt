@@ -23,8 +23,6 @@ Check free space=Controleer vrije ruimte
 checking=controleren
 Click to toggle CPU chart=Klik om de CPU-grafiek in of uit te schakelen
 Click to toggle details=Klik om details in of uit te schakelen
-Clock is synchronized using NTP, time offset is %s %s=Klok is gesynchroniseerd middels NTP, tijdsverschil is %s %s
-Clock is synchronized using PTP, time offset is %s %s=Klok is gesynchroniseerd middels PTP, tijdsverschil is %s %s
 Clock is unsynchronized with no NTP servers=Klok is ongesynchroniseerd, er zijn geen NTP-servers
 Clock is unsynchronized with no PTP servers=Klok is ongesynchroniseerd, er zijn geen PTP-servers
 Clock is unsynchronized, free-running clock=Klok is ongesynchroniseerd, de klok loopt vrij
@@ -195,3 +193,9 @@ VPN Connections=VPN verbindingen
 W=W
 Warnings=Waarschuwingen
 ZFS=ZFS
+
+; Note: December 29, 2024 - 4 missing translations
+Clock is synchronized using %s NTP servers, time offset is %s %s=
+Clock is synchronized using %s PTP server, time offset is %s %s=
+grandmaster=
+master=
