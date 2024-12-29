@@ -1,34 +1,33 @@
-Enable Outgoing Proxy=
-Name=
-Optional=
-Outgoing Proxy=
-Password=
-Please match the requested format=
-Required=
-Select Proxy=
-User=
+Enable Outgoing Proxy=Uitgaande proxy inschakelen
+Name=Naam
+Optional=Optioneel
+Outgoing Proxy=Uitgaande proxy
+Password=Wachtwoord
+Please match the requested format=Gelieve het gevraagde formaat te gebruiken
+Required=Vereist
+Select Proxy=Selecteer Proxy
+User=Gebruiker
 
 :outgoing_proxy_enable_plug:
-> Select the Proxy to use.  Only online Proxies will be selectable.
+> Selecteer de proxy die je wilt gebruiken. Alleen online proxy's kunnen worden geselecteerd.
 >
-> If your network environment requires an outgoing http proxy, define that here.
+> Als de netwerkomgeving een uitgaande http-proxy vereist, definieer deze dan hier.
 >
-> Outgoing connections from the webgui and some system processes will use the specified http proxy.  Docker container installs and updates will use the proxy, but the container itself will not, neither will any VMs.
+> Uitgaande verbindingen van de webgui en sommige systeemprocessen gebruiken de opgegeven http-proxy. Docker-containerinstallaties en -updates gebruiken de proxy, maar de container zelf niet, en ook geen enkele VM.
 >
-> For a more comprehensive solution you might consider setting up <u><a href='https://docs.unraid.net/unraid-os/manual/security/vpn/#configuring-vpn-tunneled-access-for-system/' target='_blank'>_(VPN tunnel access for System)_</a></u>.
+> Voor een uitgebreidere oplossing kan je overwegen om <u><a href='https://docs.unraid.net/unraid-os/manual/security/vpn/#configuring-vpn-tunneled-access-for-system/' target='_blank'>_(VPN tunnel access for System)_</a></u> in te stellen.
 :end
 
 :outgoing_proxy_name_plug:
-> Outgoing Proxy name for this Proxy
+> Uitgaande proxynaam voor deze proxy
 :end
 
 :outgoing_proxy_url_plug:
-> Outgoing Proxy URL for this Proxy.  The URL can be entered with or without credentials.  The credentials will be parsed from the URL.
+> Uitgaande proxy-URL voor deze proxy. De URL kan met of zonder inloggegevens worden ingevoerd. De inloggegevens worden geparseerd van de URL.
 >
-> If you enter a User and Password, they will be used as new credentials.
+> Als je een gebruiker en wachtwoord invoert, worden deze gebruikt als nieuwe inloggegevens.
 :end
 
 :outgoing_proxy_user_plug:
-> Outgoing Proxy User Name for this Proxy
+> Uitgaande proxy-gebruikersnaam voor deze proxy
 :end
-
