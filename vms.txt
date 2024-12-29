@@ -238,10 +238,11 @@ Windows 82012, newer Linux distros=Windows 8/2012, nieuwere Linux distros
 wsport for virtual console=ws-poort voor virtuele console
 XML View=XML weergave
 
-; Note: December 29, 2024 - 27 missing translations
+; Note: December 29, 2024 - 28 missing translations
 CreateModify Template=Create/Modify Template
 Disk devicesVolume=Disk devices/Volume
 Name contains invalid characters or does not start with an alphanumberic for a ZFS storage locationOnly these special characters are valid Underscore _ Hyphen - Colon Period=Name contains invalid characters or does not start with an alphanumberic for a ZFS storage location<br>Only these special characters are valid Underscore (_) Hyphen (-) Colon (:) Period (.)
+Rename disabled, %s snapshots exists=Rename disabled, %s snapshot(s) exists
 Set discard option=
 Set SDD flag=
 Show Inline XML=
