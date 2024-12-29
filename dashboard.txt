@@ -195,7 +195,7 @@ Warnings=Waarschuwingen
 ZFS=ZFS
 
 ; Note: December 29, 2024 - 4 missing translations
-Clock is synchronized using %s NTP servers, time offset is %s %s=
-Clock is synchronized using %s PTP server, time offset is %s %s=
-grandmaster=
-master=
+Clock is synchronized using %s NTP servers, time offset is %s %s=Klok is gesynchroniseerd middels %s NTP servers, tijdsverschil is %s %s
+Clock is synchronized using %s PTP server, time offset is %s %s=Klok is gesynchroniseerd middels %s PTP server, tijdsverschil is %s %s
+grandmaster=grootmeester
+master=meester

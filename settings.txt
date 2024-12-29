@@ -939,12 +939,12 @@ Unraid API extra origins=Unraid API extra oorsprong
 View Flash Backup Error Log=Toon Flash-back-up foutenlogboek
 
 ; Note: December 29, 2024 - 9 missing translations
-Allocation profile=
-Hostname from DNS reverse lookup=Hostname (from DNS reverse lookup)
-Hostname from syslog message=Hostname (from syslog message)
-httpIPport or httphostport=http://IP:port or http://host:port
-Only modify if this is a new installation since this can lead to unwanted behaviour=Only modify if this is a new installation since this can lead to unwanted behaviour!
-Override UPS Capacity Watts=Override UPS Capacity (Watts)
-Switching the Storage Driver requires to delete and rebuild the Docker directory manually=Switching the Storage Driver requires to delete and rebuild the Docker directory manually!
-Unraidnet Status=Unraid.net Status
-VM Usage refresh timerseconds=VM Usage refresh timer(seconds)
+Allocation profile=Toewijzingsprofiel
+Hostname from DNS reverse lookup=Hostnaam (van DNS reverse lookup)
+Hostname from syslog message=Hostnaam (uit syslogbericht)
+httpIPport or httphostport=http://IP:port of http://host:port
+Only modify if this is a new installation since this can lead to unwanted behaviour=Wijzig dit alleen als het een nieuwe installatie betreft, omdat dit tot ongewenst gedrag kan leiden!
+Override UPS Capacity Watts=UPS-capaciteit overschrijven (Watt)
+Switching the Storage Driver requires to delete and rebuild the Docker directory manually=Als de opslagdriver wordt gewijzigd, dan moet de Docker-directory handmatig worden verwijderd en opnieuw worden opgebouwd!
+Unraidnet Status=Unraid.net status
+VM Usage refresh timerseconds=VM-gebruik verversingstimer (seconden)
