@@ -412,3 +412,9 @@ Sleeping=Slapende
 System in sleep mode=Systeem is in slaapstand
 This will put the system in sleep mode=Dit zal het systeem in slaapstand zetten
 wiki entry=wiki link
+
+; Note: April 21, 2025 - 4 missing translations
+loopback=
+not set=
+Rx=
+Tx=
