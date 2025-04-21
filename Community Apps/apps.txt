@@ -129,14 +129,12 @@ Downloading docker icons=Docker-pictogrammen downloaden
 Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=Klaar met installeren Als de KLAAR toets niet verschijnt, dan dient op de rode X rechtsboven te worden gedrukt
 
 ; error messages
-No data was returned It is probable that another browser session has rebooted your server Reloading this browser tab will probably fix this error=Geen data ontvangen Het is mogelijk dat een andere browsersessie de server heeft herstart Opnieuw laden van deze browserpagina zal het probleem vermoedelijk oplossen
 An error occurred Could not find any %s Apps=Een fout is opgetreden. Kon geen enkele %s Apps vinden
 Download of appfeed failed=Downloaden van de appfeed is mislukt
 ; the %s here refers to a function being called
 Something really went wrong here=Iets verschrikkelijk fout hier
 Post the ENTIRE contents of this message in the Community Applications Support Thread=Post de GEHELE inhoud van dit bericht in de hulplijn voor Community Applications
 Unknown error happened Please post a screenshot in the support thread of the Statistics screen=Onbekende fout opgetreden. Gelieve een screenshot te plaatsen in de hulplijn van het Statistiekenscherm
-Something really wrong happened Reloading the Apps tab will probably fix the problem=Iets ging verschrikkelijk fout. Herladen van de Apps pagina zal waarschijnlijk het probleem oplossen
 This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=Deze plug-in heeft een dubbele naam met een andere plug-in %s. Dit heeft invloed op beide plug-ins bij tegelijkertijd installeren
 You have been logged out=U bent uitgelogd
 Fatal Flash Drive Error=Fatale Flash Drive-fout
@@ -436,7 +434,7 @@ An error occurred - Could not determine configuration=Er is een fout opgetreden 
 Click Install to download and install the Community Applications plugin=Klik op **Installeren** om de **Community Applications** plug-in te downloaden en te installeren
 
 
-; Note: December 8, 2024 - 24 missing translations
+; Note: April 21, 2025 - 25 missing translations
 Action Centre Enabled=
 Deprecated OS version No further updates to Community Applications will be issued for this OS version=
 Update Application=
@@ -453,6 +451,7 @@ Clear Flag=
 %s is incompatible with your OS version Either uninstall %s or update the OS=
 Browser failed to communicate with Unraid Server=
 For unknown reasons, your browser was unable to communicate with Community Applications running on your server=
+Additional information may be within Tools, PHPSettings - View Log=
 Attempt to Fix Via Reload Page=
 External Link=
 Clicking OK will take you to a 3rd party website not associated with Limetech=

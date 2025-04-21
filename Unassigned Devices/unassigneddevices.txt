@@ -118,7 +118,8 @@ Remove Remote SMB=Verwijder Remote SMB
 Remove partition=Partitie verwijderen
 Running=Ingeschakeld
 Script=Script
-Script is already runningSearch For Servers=
+Script is already running=
+Search For Servers=
 Script Log=
 Search for Servers, or enter the Server name or IP address manually=
 Search for Shares or enter the Share name manually=Zoek naar shares of voer de sharenaam handmatig in
@@ -251,4 +252,4 @@ ZFS Volume=
 > Wees voorzichtig met het gebruik van de /dev/sdX-aanduiding omdat deze kan veranderen na een herstart.
 :end
 
-; Note: December 8, 2024 - 70 missing translations
+; Note: April 21, 2025 - 71 missing translations
