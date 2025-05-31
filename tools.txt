@@ -73,6 +73,7 @@ Language=Taal
 Log file cleared=Logbestand gewist
 Log size=Log grootte
 LOG size=LOG grootte
+Log Viewer new=Log Viewer (new)
 Missing Key File=Ontbrekend Sleutelbestand
 Missing Language=Ontbrekende taal
 Modprobed config file=Modprobe.d-configuratiebestand
@@ -350,6 +351,3 @@ Een USB opstartmedium kan ook op de *zwarte lijst* staan als het geen serienumme
 
 Voor meer informatie, [Contacteer Support](https://lime-technology.com/contact).
 :end
-
-; Note: April 21, 2025 - 1 missing translations
-Log Viewer new=Log Viewer (new)

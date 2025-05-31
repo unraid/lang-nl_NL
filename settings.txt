@@ -947,7 +947,7 @@ Transient errors in this log can be ignored unless you are having issues=Tijdeli
 Unraid API extra origins=Unraid API extra oorsprong
 View Flash Backup Error Log=Toon Flash-back-up foutenlogboek
 
-; Note: April 21, 2025 - 42 missing translations
+; Note: May 31, 2025 - 46 missing translations
 Add network=
 Allow realtime updates on inactive browsers=
 Allows the use of ethernet frames larger than 1500 bytes=
@@ -976,10 +976,13 @@ Network Info=
 Network name=
 NFSv3=
 NFSv4=
+No encrypted disks found=
 Number of fuse File Descriptors=
 Number of Threads=
 Or if they are improperly configured, use this feature with care=
 Other networks=
+Otherwise use the keyfile method for UTF8 input=Otherwise use the **keyfile** method for UTF8 input
+Printable Characters Only=
 Receive bitrate=
 Regulatory region=
 Select All=
@@ -987,6 +990,7 @@ Show=
 Signal level=
 Transmit bitrate=
 Two letter country code=
+Use ASCII characters from space to tilde=Use **ASCII** characters from space ' ' to tilde '~'
 vcpu allocated to vm=
 Wi-Fi=
 Wireless=
