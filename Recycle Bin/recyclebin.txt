@@ -130,7 +130,7 @@ Deze acties zijn van toepassing op alle mappen:
 :end
 
 ; Note: December 8, 2024 - 4 missing translations
-Enable Empty All Trash Button=
-Enable Empty Share Trash Button=
-Enable Remove Aged Files Button=
-Recycle Bin is empty=
+Enable Empty All Trash Button=Knop "Alle prullenbak legen" inschakelen
+Enable Empty Share Trash Button=Knop "Share-prullenbak legen" inschakelen
+Enable Remove Aged Files Button=Knop "Verouderde bestanden verwijderen" inschakelen
+Recycle Bin is empty=Prullenbak is leeg

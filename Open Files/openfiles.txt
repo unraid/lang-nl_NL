@@ -20,7 +20,7 @@ Cannot get list of open files=Kan geen lijst van open bestanden krijgen
 :end
 
 ; Note: December 8, 2024 - 4 missing translations
-Enable Kill Button=
-Kill this Process holding files open=
-Open=
-May prevent shutdown=
+Enable Kill Button=Kill-knop inschakelen
+Kill this Process holding files open=Beëindig dit proces dat bestanden open houdt
+Open=Openen
+May prevent shutdown=Kan uitschakelen verhinderen

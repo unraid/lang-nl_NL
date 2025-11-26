@@ -38,5 +38,5 @@ Enable for Cache and Pool Disks=Inschakelen voor Cache en Pool schijven
 :end
 
 ; Note: December 8, 2024 - 2 missing translations
-Display Events=
-Refresh Page=
+Display Events=Gebeurtenissen weergeven
+Refresh Page=Pagina vernieuwen
