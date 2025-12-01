@@ -222,19 +222,19 @@ You may actually cause more problems than you solve if there are problems with y
 
 
 ; Note: February 10, 2024 - 16 missing translations
-Available User Watches=
-Current User Watches=
-Enable Intel TurboAMD Performance Boost=Enable Intel Turbo/AMD Performance Boost
+Available User Watches=Beschikbare user watches
+Current User Watches=Huidige user watches
+Enable Intel TurboAMD Performance Boost=Intel Turbo/AMD Performance Boost inschakelen
 Intel TurboAMD Performance Boost=Intel Turbo/AMD Performance Boost
-Max SMB Open Files=
-Max User Instances=
-Max User Watches=
-Normal CPU Scaling Governor=
-Power Saving Settings=
-Power Saving CPU Scaling Governor=
-Schedule CPU Power Saving Mode=
-Time to set Normal CPU Scaling=
-Time to set Power Saving CPU Scaling=
-Time to set TurboPerformance Boost Off=Time to set Turbo/Performance Boost Off
-Time to set TurboPerformance Boost On=Time to set Turbo/Performance Boost On
-Version 6.11.4 and later=
+Max SMB Open Files=Maximaal aantal SMB-open bestanden
+Max User Instances=Maximaal aantal user-instanties
+Max User Watches=Maximaal aantal user watches
+Normal CPU Scaling Governor=Normale CPU-schaalmodus
+Power Saving Settings=Energiebesparingsinstellingen
+Power Saving CPU Scaling Governor=Energiebesparende CPU-schaalmodus
+Schedule CPU Power Saving Mode=CPU-energiebesparingsmodus plannen
+Time to set Normal CPU Scaling=Tijd om normale CPU-schaalmodus in te stellen
+Time to set Power Saving CPU Scaling=Tijd om energiebesparende CPU-schaalmodus in te stellen
+Time to set TurboPerformance Boost Off=Tijd om Turbo/Performance Boost uit te schakelen
+Time to set TurboPerformance Boost On=Tijd om Turbo/Performance Boost in te schakelen
+Version 6.11.4 and later=Versie 6.11.4 en later

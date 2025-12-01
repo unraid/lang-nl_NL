@@ -86,7 +86,7 @@ None Listed=Niets te melden
 of=van
 Online=Online
 orphan image=Wees-image
-Other=Anders
+Other=Overige
 Overview=Overzicht
 Path=Pad
 Pause All=Alles pauzeren
@@ -113,7 +113,7 @@ rebuilding=herbouwen
 Remove template=Sjabloon verwijderen
 Removing container=Container verwijderen
 Removing orphan image=Wees-image verwijderen
-Repository=Bewaarplaats
+Repository=Repository
 Required=Verplicht
 Reset sorting=Sorteren terugzetten
 Resume All=Alles hervatten
@@ -157,5 +157,5 @@ WebUI=WebUI
 Writable=Schrijfbaar
 
 ; Note: April 21, 2025 - 2 missing translations
-Container not found Try reloading this page to fix=Container not found.  Try reloading this page to fix.
-For security reasons, containers with Network Type Host should not have Tailscale enabled Please disable Tailscale in this container or change the Network Type of the container=For security reasons, containers with Network Type "Host" should not have Tailscale enabled. Please disable Tailscale in this container or change the Network Type of the container.
+Container not found Try reloading this page to fix=Container niet gevonden. Probeer deze pagina te herladen om dit op te lossen.
+For security reasons, containers with Network Type Host should not have Tailscale enabled Please disable Tailscale in this container or change the Network Type of the container=Om veiligheidsredenen mogen containers met Network Type "Host" geen Tailscale ingeschakeld hebben. Schakel Tailscale in deze container uit of wijzig het Network Type van de container.

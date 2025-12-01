@@ -17,11 +17,11 @@ This unlocks some extra features within CA generally only used by developers Not
 Support Thread=Ondersteuning
 
 ; Note: April 21, 2025 - 8 missing translations
-Allow install of second instance=
-Automatically open the sidebar=
-Allows CA to automatically open the sidebar for more information when hovering over an application's icon=
-Disable Mouse Wheel Page Changes=
-This setting disables using left or right on a mouse wheel to change the page=
-Mouse wheel threshold=
-If you tilt the mouse wheel left or right, the browser returned value will change Set the threshold to the value returned Note that different browsers and operating systems may return different values=
-This is a global value for all devices If it causes issues, then disable Mouse Wheel Page Changes=
+Allow install of second instance=Installatie van een tweede instantie toestaan
+Automatically open the sidebar=Zijbalk automatisch openen
+Allows CA to automatically open the sidebar for more information when hovering over an application's icon=Laat CA de zijbalk automatisch openen voor extra informatie wanneer je over het pictogram van een applicatie beweegt
+Disable Mouse Wheel Page Changes=Muiswiel-paginawisselingen uitschakelen
+This setting disables using left or right on a mouse wheel to change the page=Deze instelling schakelt het wisselen van pagina’s uit via links/rechts kantelen van het muiswiel
+Mouse wheel threshold=Muiswieldrempel
+If you tilt the mouse wheel left or right, the browser returned value will change Set the threshold to the value returned Note that different browsers and operating systems may return different values=Wanneer je het muiswiel naar links of rechts kantelt, verandert de waarde die de browser teruggeeft. Stel de drempel in op die waarde. Houd er rekening mee dat verschillende browsers en besturingssystemen andere waarden kunnen teruggeven
+This is a global value for all devices If it causes issues, then disable Mouse Wheel Page Changes=Dit is een globale waarde voor alle apparaten. Als dit problemen oplevert, schakel dan Muiswiel-paginawisselingen uit
